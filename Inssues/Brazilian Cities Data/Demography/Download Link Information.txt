@@ -1,0 +1,26 @@
+*Source: Brazilian Institute of Geography and Statistics (IBGE)
+**Manual download Link census data: https://sidra.ibge.gov.br/tabela/202
+**Manual download Link estimative population data: https://sidra.ibge.gov.br/tabela/6579
+
+#Request 1970:
+
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela202.csv&terr=NCS&rank=-&query=t/202/n6/all/u/y/v/all/p/1970/c2/all/c1/all/d/v1000093%202/l/v,p%2Bc2,t%2Bc1
+
+#Request 1980:
+
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela202.csv&terr=NCS&rank=-&query=t/202/n6/all/u/y/v/all/p/1980/c2/all/c1/all/d/v1000093%202/l/v,p%2Bc2,t%2Bc1
+
+#Request 1991:
+
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela202.csv&terr=NCS&rank=-&query=t/202/n6/all/u/y/v/all/p/1991/c2/all/c1/all/d/v1000093%202/l/v,p%2Bc2,t%2Bc1
+
+#Request 2000:
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela202.csv&terr=NCS&rank=-&query=t/202/n6/all/u/y/v/all/p/2000/c2/all/c1/all/d/v1000093%202/l/v,p%2Bc2,t%2Bc1
+
+#Request 2010:
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela202.csv&terr=NCS&rank=-&query=t/202/n6/all/u/y/v/all/p/2010/c2/all/c1/all/d/v1000093%202/l/v,p%2Bc2,t%2Bc1
+
+#Request 2011-2021 (urban and sex ratio unavailable, for that
+use the latest available census information)
+
+https://sidra.ibge.gov.br/geratabela?format=br.csv&name=tabela6579.csv&terr=NCS&rank=-&query=t/6579/n6/all/v/all/p/last%2011/l/v,p,t

@@ -1,0 +1,5600 @@
+﻿Tabela 1301 - Área e Densidade demográfica da unidade territorial;;;
+Variável - Densidade demográfica da unidade territorial (Habitante por quilômetro quadrado);;;
+Nível;Cód.;Município;Ano
+Nível;Cód.;Município;2010
+MU;1100015;Alta Floresta D'Oeste (RO);3,45
+MU;1100023;Ariquemes (RO);20,41
+MU;1100031;Cabixi (RO);4,8
+MU;1100049;Cacoal (RO);20,72
+MU;1100056;Cerejeiras (RO);6,12
+MU;1100064;Colorado do Oeste (RO);12,81
+MU;1100072;Corumbiara (RO);2,87
+MU;1100080;Costa Marques (RO);2,74
+MU;1100098;Espigão D'Oeste (RO);6,36
+MU;1100106;Guajará-Mirim (RO);1,68
+MU;1100114;Jaru (RO);17,66
+MU;1100122;Ji-Paraná (RO);16,91
+MU;1100130;Machadinho D'Oeste (RO);3,66
+MU;1100148;Nova Brasilândia D'Oeste (RO);17,2
+MU;1100155;Ouro Preto do Oeste (RO);19,25
+MU;1100189;Pimenta Bueno (RO);5,42
+MU;1100205;Porto Velho (RO);12,57
+MU;1100254;Presidente Médici (RO);12,69
+MU;1100262;Rio Crespo (RO);1,93
+MU;1100288;Rolim de Moura (RO);34,74
+MU;1100296;Santa Luzia D'Oeste (RO);7,42
+MU;1100304;Vilhena (RO);6,62
+MU;1100320;São Miguel do Guaporé (RO);2,73
+MU;1100338;Nova Mamoré (RO);2,24
+MU;1100346;Alvorada D'Oeste (RO);5,56
+MU;1100379;Alto Alegre dos Parecis (RO);3,24
+MU;1100403;Alto Paraíso (RO);6,46
+MU;1100452;Buritis (RO);9,92
+MU;1100502;Novo Horizonte do Oeste (RO);12,14
+MU;1100601;Cacaulândia (RO);2,92
+MU;1100700;Campo Novo de Rondônia (RO);3,68
+MU;1100809;Candeias do Jamari (RO);2,89
+MU;1100908;Castanheiras (RO);4
+MU;1100924;Chupinguaia (RO);1,62
+MU;1100940;Cujubim (RO);4,1
+MU;1101005;Governador Jorge Teixeira (RO);2,07
+MU;1101104;Itapuã do Oeste (RO);2,1
+MU;1101203;Ministro Andreazza (RO);12,97
+MU;1101302;Mirante da Serra (RO);9,97
+MU;1101401;Monte Negro (RO);7,3
+MU;1101435;Nova União (RO);9,28
+MU;1101450;Parecis (RO);1,89
+MU;1101468;Pimenteiras do Oeste (RO);0,38
+MU;1101476;Primavera de Rondônia (RO);5,82
+MU;1101484;São Felipe D'Oeste (RO);11,11
+MU;1101492;São Francisco do Guaporé (RO);1,46
+MU;1101500;Seringueiras (RO);3,08
+MU;1101559;Teixeirópolis (RO);10,63
+MU;1101609;Theobroma (RO);4,85
+MU;1101708;Urupá (RO);15,6
+MU;1101757;Vale do Anari (RO);2,99
+MU;1101807;Vale do Paraíso (RO);8,5
+MU;1200013;Acrelândia (AC);6,94
+MU;1200054;Assis Brasil (AC);1,22
+MU;1200104;Brasiléia (AC);5,46
+MU;1200138;Bujari (AC);2,79
+MU;1200179;Capixaba (AC);5,17
+MU;1200203;Cruzeiro do Sul (AC);8,94
+MU;1200252;Epitaciolândia (AC);9,13
+MU;1200302;Feijó (AC);1,16
+MU;1200328;Jordão (AC);1,23
+MU;1200336;Mâncio Lima (AC);2,79
+MU;1200344;Manoel Urbano (AC);0,75
+MU;1200351;Marechal Thaumaturgo (AC);1,74
+MU;1200385;Plácido de Castro (AC);8,86
+MU;1200393;Porto Walter (AC);1,42
+MU;1200401;Rio Branco (AC);38,03
+MU;1200427;Rodrigues Alves (AC);4,68
+MU;1200435;Santa Rosa do Purus (AC);0,76
+MU;1200450;Senador Guiomard (AC);8,69
+MU;1200500;Sena Madureira (AC);1,6
+MU;1200609;Tarauacá (AC);1,76
+MU;1200708;Xapuri (AC);3,01
+MU;1200807;Porto Acre (AC);5,71
+MU;1300029;Alvarães (AM);2,38
+MU;1300060;Amaturá (AM);1,99
+MU;1300086;Anamã (AM);4,16
+MU;1300102;Anori (AM);2,82
+MU;1300144;Apuí (AM);0,33
+MU;1300201;Atalaia do Norte (AM);0,2
+MU;1300300;Autazes (AM);4,23
+MU;1300409;Barcelos (AM);0,21
+MU;1300508;Barreirinha (AM);4,76
+MU;1300607;Benjamin Constant (AM);3,8
+MU;1300631;Beruri (AM);0,9
+MU;1300680;Boa Vista do Ramos (AM);5,79
+MU;1300706;Boca do Acre (AM);1,4
+MU;1300805;Borba (AM);0,79
+MU;1300839;Caapiranga (AM);1,16
+MU;1300904;Canutama (AM);0,43
+MU;1301001;Carauari (AM);1
+MU;1301100;Careiro (AM);5,37
+MU;1301159;Careiro da Várzea (AM);9,09
+MU;1301209;Coari (AM);1,31
+MU;1301308;Codajás (AM);1,24
+MU;1301407;Eirunepé (AM);2,04
+MU;1301506;Envira (AM);2,18
+MU;1301605;Fonte Boa (AM);1,88
+MU;1301654;Guajará (AM);1,84
+MU;1301704;Humaitá (AM);1,34
+MU;1301803;Ipixuna (AM);1,85
+MU;1301852;Iranduba (AM);18,42
+MU;1301902;Itacoatiara (AM);9,77
+MU;1301951;Itamarati (AM);0,32
+MU;1302009;Itapiranga (AM);1,94
+MU;1302108;Japurá (AM);0,13
+MU;1302207;Juruá (AM);0,56
+MU;1302306;Jutaí (AM);0,26
+MU;1302405;Lábrea (AM);0,55
+MU;1302504;Manacapuru (AM);11,62
+MU;1302553;Manaquiri (AM);5,73
+MU;1302603;Manaus (AM);158,06
+MU;1302702;Manicoré (AM);0,97
+MU;1302801;Maraã (AM);1,04
+MU;1302900;Maués (AM);1,31
+MU;1303007;Nhamundá (AM);1,3
+MU;1303106;Nova Olinda do Norte (AM);5,47
+MU;1303205;Novo Airão (AM);0,39
+MU;1303304;Novo Aripuanã (AM);0,52
+MU;1303403;Parintins (AM);17,14
+MU;1303502;Pauini (AM);0,44
+MU;1303536;Presidente Figueiredo (AM);1,07
+MU;1303569;Rio Preto da Eva (AM);4,42
+MU;1303601;Santa Isabel do Rio Negro (AM);0,29
+MU;1303700;Santo Antônio do Içá (AM);1,99
+MU;1303809;São Gabriel da Cachoeira (AM);0,35
+MU;1303908;São Paulo de Olivença (AM);1,59
+MU;1303957;São Sebastião do Uatumã (AM);1
+MU;1304005;Silves (AM);2,25
+MU;1304062;Tabatinga (AM);16,21
+MU;1304104;Tapauá (AM);0,21
+MU;1304203;Tefé (AM);2,59
+MU;1304237;Tonantins (AM);2,66
+MU;1304260;Uarini (AM);1,16
+MU;1304302;Urucará (AM);0,61
+MU;1304401;Urucurituba (AM);6,14
+MU;1400027;Amajari (RR);0,33
+MU;1400050;Alto Alegre (RR);0,64
+MU;1400100;Boa Vista (RR);49,99
+MU;1400159;Bonfim (RR);1,35
+MU;1400175;Cantá (RR);1,81
+MU;1400209;Caracaraí (RR);0,39
+MU;1400233;Caroebe (RR);0,67
+MU;1400282;Iracema (RR);0,6
+MU;1400308;Mucajaí (RR);1,19
+MU;1400407;Normandia (RR);1,28
+MU;1400456;Pacaraima (RR);1,3
+MU;1400472;Rorainópolis (RR);0,72
+MU;1400506;São João da Baliza (RR);1,58
+MU;1400605;São Luiz (RR);4,42
+MU;1400704;Uiramutã (RR);1,04
+MU;1500107;Abaetetuba (PA);87,61
+MU;1500131;Abel Figueiredo (PA);11,04
+MU;1500206;Acará (PA);12,33
+MU;1500305;Afuá (PA);4,19
+MU;1500347;Água Azul do Norte (PA);3,52
+MU;1500404;Alenquer (PA);2,23
+MU;1500503;Almeirim (PA);0,46
+MU;1500602;Altamira (PA);0,62
+MU;1500701;Anajás (PA);3,58
+MU;1500800;Ananindeua (PA);2477,56
+MU;1500859;Anapu (PA);1,73
+MU;1500909;Augusto Corrêa (PA);37,1
+MU;1500958;Aurora do Pará (PA);14,65
+MU;1501006;Aveiro (PA);0,93
+MU;1501105;Bagre (PA);5,43
+MU;1501204;Baião (PA);9,81
+MU;1501253;Bannach (PA);1,16
+MU;1501303;Barcarena (PA);76,21
+MU;1501402;Belém (PA);1315,27
+MU;1501451;Belterra (PA);3,71
+MU;1501501;Benevides (PA);275
+MU;1501576;Bom Jesus do Tocantins (PA);5,43
+MU;1501600;Bonito (PA);23,23
+MU;1501709;Bragança (PA);54,13
+MU;1501725;Brasil Novo (PA);2,47
+MU;1501758;Brejo Grande do Araguaia (PA);5,68
+MU;1501782;Breu Branco (PA);13,32
+MU;1501808;Breves (PA);9,72
+MU;1501907;Bujaru (PA);25,56
+MU;1501956;Cachoeira do Piriá (PA);10,76
+MU;1502004;Cachoeira do Arari (PA);6,59
+MU;1502103;Cametá (PA);39,23
+MU;1502152;Canaã dos Carajás (PA);8,49
+MU;1502202;Capanema (PA);103,72
+MU;1502301;Capitão Poço (PA);17,9
+MU;1502400;Castanhal (PA);168,29
+MU;1502509;Chaves (PA);1,61
+MU;1502608;Colares (PA);18,66
+MU;1502707;Conceição do Araguaia (PA);7,81
+MU;1502756;Concórdia do Pará (PA);40,84
+MU;1502764;Cumaru do Norte (PA);0,61
+MU;1502772;Curionópolis (PA);7,72
+MU;1502806;Curralinho (PA);7,89
+MU;1502855;Curuá (PA);8,56
+MU;1502905;Curuçá (PA);50,98
+MU;1502939;Dom Eliseu (PA);9,74
+MU;1502954;Eldorado do Carajás (PA);10,75
+MU;1503002;Faro (PA);0,69
+MU;1503044;Floresta do Araguaia (PA);5,16
+MU;1503077;Garrafão do Norte (PA);15,66
+MU;1503093;Goianésia do Pará (PA);4,33
+MU;1503101;Gurupá (PA);3,4
+MU;1503200;Igarapé-Açu (PA);45,66
+MU;1503309;Igarapé-Miri (PA);29,08
+MU;1503408;Inhangapi (PA);21,29
+MU;1503457;Ipixuna do Pará (PA);9,84
+MU;1503507;Irituia (PA);22,74
+MU;1503606;Itaituba (PA);1,57
+MU;1503705;Itupiranga (PA);6,5
+MU;1503754;Jacareacanga (PA);0,26
+MU;1503804;Jacundá (PA);25,57
+MU;1503903;Juruti (PA);5,67
+MU;1504000;Limoeiro do Ajuru (PA);16,79
+MU;1504059;Mãe do Rio (PA);59,43
+MU;1504109;Magalhães Barata (PA);25,07
+MU;1504208;Marabá (PA);15,45
+MU;1504307;Maracanã (PA);33,1
+MU;1504406;Marapanim (PA);33,42
+MU;1504422;Marituba (PA);1047,44
+MU;1504455;Medicilândia (PA);3,3
+MU;1504505;Melgaço (PA);3,66
+MU;1504604;Mocajuba (PA);30,7
+MU;1504703;Moju (PA);7,7
+MU;1504802;Monte Alegre (PA);3,06
+MU;1504901;Muaná (PA);9,08
+MU;1504950;Nova Esperança do Piriá (PA);7,17
+MU;1504976;Nova Ipixuna (PA);9,36
+MU;1505007;Nova Timboteua (PA);27,91
+MU;1505031;Novo Progresso (PA);0,66
+MU;1505064;Novo Repartimento (PA);4,03
+MU;1505106;Óbidos (PA);1,76
+MU;1505205;Oeiras do Pará (PA);7,42
+MU;1505304;Oriximiná (PA);0,58
+MU;1505403;Ourém (PA);29
+MU;1505437;Ourilândia do Norte (PA);1,91
+MU;1505486;Pacajá (PA);3,38
+MU;1505494;Palestina do Pará (PA);7,59
+MU;1505502;Paragominas (PA);5,06
+MU;1505536;Parauapebas (PA);22,12
+MU;1505551;Pau D'Arco (PA);3,61
+MU;1505601;Peixe-Boi (PA);17,4
+MU;1505635;Piçarra (PA);3,83
+MU;1505650;Placas (PA);3,34
+MU;1505700;Ponta de Pedras (PA);7,73
+MU;1505809;Portel (PA);2,06
+MU;1505908;Porto de Moz (PA);1,95
+MU;1506005;Prainha (PA);1,98
+MU;1506104;Primavera (PA);39,71
+MU;1506112;Quatipuru (PA);38,28
+MU;1506138;Redenção (PA);19,76
+MU;1506161;Rio Maria (PA);4,3
+MU;1506187;Rondon do Pará (PA);5,7
+MU;1506195;Rurópolis (PA);5,71
+MU;1506203;Salinópolis (PA);157,57
+MU;1506302;Salvaterra (PA);19,42
+MU;1506351;Santa Bárbara do Pará (PA);61,62
+MU;1506401;Santa Cruz do Arari (PA);7,58
+MU;1506500;Santa Izabel do Pará (PA);82,86
+MU;1506559;Santa Luzia do Pará (PA);14,32
+MU;1506583;Santa Maria das Barreiras (PA);1,67
+MU;1506609;Santa Maria do Pará (PA);50,31
+MU;1506708;Santana do Araguaia (PA);4,84
+MU;1506807;Santarém (PA);12,87
+MU;1506906;Santarém Novo (PA);26,76
+MU;1507003;Santo Antônio do Tauá (PA);49,61
+MU;1507102;São Caetano de Odivelas (PA);22,72
+MU;1507151;São Domingos do Araguaia (PA);16,61
+MU;1507201;São Domingos do Capim (PA);17,79
+MU;1507300;São Félix do Xingu (PA);1,08
+MU;1507409;São Francisco do Pará (PA);31,4
+MU;1507458;São Geraldo do Araguaia (PA);8,08
+MU;1507466;São João da Ponta (PA);26,87
+MU;1507474;São João de Pirabas (PA);29,25
+MU;1507508;São João do Araguaia (PA);10,28
+MU;1507607;São Miguel do Guamá (PA);46,45
+MU;1507706;São Sebastião da Boa Vista (PA);14,03
+MU;1507755;Sapucaia (PA);3,89
+MU;1507805;Senador José Porfírio (PA);0,91
+MU;1507904;Soure (PA);6,54
+MU;1507953;Tailândia (PA);17,9
+MU;1507961;Terra Alta (PA);49,72
+MU;1507979;Terra Santa (PA);8,94
+MU;1508001;Tomé-Açu (PA);10,98
+MU;1508035;Tracuateua (PA);29,33
+MU;1508050;Trairão (PA);1,41
+MU;1508084;Tucumã (PA);13,41
+MU;1508100;Tucuruí (PA);46,56
+MU;1508126;Ulianópolis (PA);8,52
+MU;1508159;Uruará (PA);4,15
+MU;1508209;Vigia (PA);88,84
+MU;1508308;Viseu (PA);11,54
+MU;1508357;Vitória do Xingu (PA);4,28
+MU;1508407;Xinguara (PA);10,74
+MU;1600055;Serra do Navio (AP);0,56
+MU;1600105;Amapá (AP);0,88
+MU;1600154;Pedra Branca do Amapari (AP);1,13
+MU;1600204;Calçoene (AP);0,63
+MU;1600212;Cutias (AP);2,22
+MU;1600238;Ferreira Gomes (AP);1,15
+MU;1600253;Itaubal (AP);2,5
+MU;1600279;Laranjal do Jari (AP);1,29
+MU;1600303;Macapá (AP);62,14
+MU;1600402;Mazagão (AP);1,3
+MU;1600501;Oiapoque (AP);0,91
+MU;1600535;Porto Grande (AP);3,82
+MU;1600550;Pracuúba (AP);0,77
+MU;1600600;Santana (AP);64,11
+MU;1600709;Tartarugalzinho (AP);1,87
+MU;1600808;Vitória do Jari (AP);5,01
+MU;1700251;Abreulândia (TO);1,26
+MU;1700301;Aguiarnópolis (TO);21,93
+MU;1700350;Aliança do Tocantins (TO);3,59
+MU;1700400;Almas (TO);1,89
+MU;1700707;Alvorada (TO);6,91
+MU;1701002;Ananás (TO);6,26
+MU;1701051;Angico (TO);7,03
+MU;1701101;Aparecida do Rio Negro (TO);3,63
+MU;1701309;Aragominas (TO);5,01
+MU;1701903;Araguacema (TO);2,27
+MU;1702000;Araguaçu (TO);1,7
+MU;1702109;Araguaína (TO);37,62
+MU;1702158;Araguanã (TO);6,02
+MU;1702208;Araguatins (TO);11,93
+MU;1702307;Arapoema (TO);4,34
+MU;1702406;Arraias (TO);1,84
+MU;1702554;Augustinópolis (TO);40,38
+MU;1702703;Aurora do Tocantins (TO);4,58
+MU;1702901;Axixá do Tocantins (TO);61,75
+MU;1703008;Babaçulândia (TO);5,83
+MU;1703057;Bandeirantes do Tocantins (TO);2,02
+MU;1703073;Barra do Ouro (TO);3,73
+MU;1703107;Barrolândia (TO);7,5
+MU;1703206;Bernardo Sayão (TO);4,81
+MU;1703305;Bom Jesus do Tocantins (TO);2,83
+MU;1703602;Brasilândia do Tocantins (TO);3,22
+MU;1703701;Brejinho de Nazaré (TO);3,01
+MU;1703800;Buriti do Tocantins (TO);38,77
+MU;1703826;Cachoeirinha (TO);6,1
+MU;1703842;Campos Lindos (TO);2,51
+MU;1703867;Cariri do Tocantins (TO);3,33
+MU;1703883;Carmolândia (TO);6,82
+MU;1703891;Carrasco Bonito (TO);19,12
+MU;1703909;Caseara (TO);2,72
+MU;1704105;Centenário (TO);1,31
+MU;1704600;Chapada de Areia (TO);2,03
+MU;1705102;Chapada da Natividade (TO);1,99
+MU;1705508;Colinas do Tocantins (TO);36,54
+MU;1705557;Combinado (TO);22,27
+MU;1705607;Conceição do Tocantins (TO);1,67
+MU;1706001;Couto Magalhães (TO);3,16
+MU;1706100;Cristalândia (TO);3,91
+MU;1706258;Crixás do Tocantins (TO);1,59
+MU;1706506;Darcinópolis (TO);3,22
+MU;1707009;Dianópolis (TO);5,94
+MU;1707108;Divinópolis do Tocantins (TO);2,71
+MU;1707207;Dois Irmãos do Tocantins (TO);1,91
+MU;1707306;Dueré (TO);1,34
+MU;1707405;Esperantina (TO);18,8
+MU;1707553;Fátima (TO);9,94
+MU;1707652;Figueirópolis (TO);2,77
+MU;1707702;Filadélfia (TO);4,28
+MU;1708205;Formoso do Araguaia (TO);1,37
+MU;1708254;Fortaleza do Tabocão (TO);3,89
+MU;1708304;Goianorte (TO);2,75
+MU;1709005;Goiatins (TO);1,88
+MU;1709302;Guaraí (TO);10,23
+MU;1709500;Gurupi (TO);41,8
+MU;1709807;Ipueiras (TO);2,01
+MU;1710508;Itacajá (TO);2,33
+MU;1710706;Itaguatins (TO);8,15
+MU;1710904;Itapiratins (TO);2,84
+MU;1711100;Itaporã do Tocantins (TO);2,51
+MU;1711506;Jaú do Tocantins (TO);1,61
+MU;1711803;Juarina (TO);4,64
+MU;1711902;Lagoa da Confusão (TO);0,97
+MU;1711951;Lagoa do Tocantins (TO);3,87
+MU;1712009;Lajeado (TO);8,6
+MU;1712157;Lavandeira (TO);3,09
+MU;1712405;Lizarda (TO);0,65
+MU;1712454;Luzinópolis (TO);9,38
+MU;1712504;Marianópolis do Tocantins (TO);2,08
+MU;1712702;Mateiros (TO);0,23
+MU;1712801;Maurilândia do Tocantins (TO);4,27
+MU;1713205;Miracema do Tocantins (TO);7,79
+MU;1713304;Miranorte (TO);12,24
+MU;1713601;Monte do Carmo (TO);1,86
+MU;1713700;Monte Santo do Tocantins (TO);1,91
+MU;1713809;Palmeiras do Tocantins (TO);7,67
+MU;1713957;Muricilândia (TO);2,66
+MU;1714203;Natividade (TO);2,78
+MU;1714302;Nazaré (TO);11,08
+MU;1714880;Nova Olinda (TO);6,82
+MU;1715002;Nova Rosalândia (TO);7,3
+MU;1715101;Novo Acordo (TO);1,41
+MU;1715150;Novo Alegre (TO);11,42
+MU;1715259;Novo Jardim (TO);1,88
+MU;1715507;Oliveira de Fátima (TO);5,04
+MU;1715705;Palmeirante (TO);1,88
+MU;1715754;Palmeirópolis (TO);4,31
+MU;1716109;Paraíso do Tocantins (TO);35,03
+MU;1716208;Paranã (TO);0,92
+MU;1716307;Pau D'Arco (TO);3,33
+MU;1716505;Pedro Afonso (TO);5,74
+MU;1716604;Peixe (TO);1,96
+MU;1716653;Pequizeiro (TO);4,18
+MU;1716703;Colméia (TO);8,69
+MU;1717008;Pindorama do Tocantins (TO);2,89
+MU;1717206;Piraquê (TO);2,14
+MU;1717503;Pium (TO);0,67
+MU;1717800;Ponte Alta do Bom Jesus (TO);2,52
+MU;1717909;Ponte Alta do Tocantins (TO);1,11
+MU;1718006;Porto Alegre do Tocantins (TO);5,57
+MU;1718204;Porto Nacional (TO);11,04
+MU;1718303;Praia Norte (TO);26,5
+MU;1718402;Presidente Kennedy (TO);4,78
+MU;1718451;Pugmil (TO);5,9
+MU;1718501;Recursolândia (TO);1,7
+MU;1718550;Riachinho (TO);8,1
+MU;1718659;Rio da Conceição (TO);2,18
+MU;1718709;Rio dos Bois (TO);3,04
+MU;1718758;Rio Sono (TO);0,98
+MU;1718808;Sampaio (TO);17,38
+MU;1718840;Sandolândia (TO);0,94
+MU;1718865;Santa Fé do Araguaia (TO);3,93
+MU;1718881;Santa Maria do Tocantins (TO);2,05
+MU;1718899;Santa Rita do Tocantins (TO);0,65
+MU;1718907;Santa Rosa do Tocantins (TO);2,54
+MU;1719004;Santa Tereza do Tocantins (TO);4,67
+MU;1720002;Santa Terezinha do Tocantins (TO);9,17
+MU;1720101;São Bento do Tocantins (TO);4,17
+MU;1720150;São Félix do Tocantins (TO);0,75
+MU;1720200;São Miguel do Tocantins (TO);26,28
+MU;1720259;São Salvador do Tocantins (TO);2,05
+MU;1720309;São Sebastião do Tocantins (TO);14,91
+MU;1720499;São Valério (TO);1,74
+MU;1720655;Silvanópolis (TO);4,03
+MU;1720804;Sítio Novo do Tocantins (TO);28,23
+MU;1720853;Sucupira (TO);1,7
+MU;1720903;Taguatinga (TO);6,18
+MU;1720937;Taipas do Tocantins (TO);1,74
+MU;1720978;Talismã (TO);1,19
+MU;1721000;Palmas (TO);102,9
+MU;1721109;Tocantínia (TO);2,59
+MU;1721208;Tocantinópolis (TO);21
+MU;1721257;Tupirama (TO);2,21
+MU;1721307;Tupiratins (TO);2,34
+MU;1722081;Wanderlândia (TO);8
+MU;1722107;Xambioá (TO);9,68
+MU;2100055;Açailândia (MA);17,92
+MU;2100105;Afonso Cunha (MA);15,9
+MU;2100154;Água Doce do Maranhão (MA);26,13
+MU;2100204;Alcântara (MA);14,7
+MU;2100303;Aldeias Altas (MA);12,33
+MU;2100402;Altamira do Maranhão (MA);15,33
+MU;2100436;Alto Alegre do Maranhão (MA);64,18
+MU;2100477;Alto Alegre do Pindaré (MA);16,07
+MU;2100501;Alto Parnaíba (MA);0,97
+MU;2100550;Amapá do Maranhão (MA);12,8
+MU;2100600;Amarante do Maranhão (MA);5,1
+MU;2100709;Anajatuba (MA);25,01
+MU;2100808;Anapurus (MA);22,91
+MU;2100832;Apicum-Açu (MA);42,36
+MU;2100873;Araguanã (MA);17,35
+MU;2100907;Araioses (MA);23,84
+MU;2100956;Arame (MA);10,54
+MU;2101004;Arari (MA);25,89
+MU;2101103;Axixá (MA);56,15
+MU;2101202;Bacabal (MA);59,42
+MU;2101251;Bacabeira (MA);24,25
+MU;2101301;Bacuri (MA);21,08
+MU;2101350;Bacurituba (MA);7,85
+MU;2101400;Balsas (MA);6,36
+MU;2101509;Barão de Grajaú (MA);7,94
+MU;2101608;Barra do Corda (MA);15,92
+MU;2101707;Barreirinhas (MA);17,65
+MU;2101731;Belágua (MA);13,06
+MU;2101772;Bela Vista do Maranhão (MA);47,17
+MU;2101806;Benedito Leite (MA);3,07
+MU;2101905;Bequimão (MA);26,46
+MU;2101939;Bernardo do Mearim (MA);22,93
+MU;2101970;Boa Vista do Gurupi (MA);19,7
+MU;2102002;Bom Jardim (MA);5,93
+MU;2102036;Bom Jesus das Selvas (MA);10,62
+MU;2102077;Bom Lugar (MA);33,23
+MU;2102101;Brejo (MA);31,04
+MU;2102150;Brejo de Areia (MA);5,26
+MU;2102200;Buriti (MA);18,33
+MU;2102309;Buriti Bravo (MA);14,47
+MU;2102325;Buriticupu (MA);25,63
+MU;2102358;Buritirana (MA);18,06
+MU;2102374;Cachoeira Grande (MA);11,97
+MU;2102408;Cajapió (MA);11,66
+MU;2102507;Cajari (MA);27,7
+MU;2102556;Campestre do Maranhão (MA);21,72
+MU;2102606;Cândido Mendes (MA);11,33
+MU;2102705;Cantanhede (MA);26,45
+MU;2102754;Capinzal do Norte (MA);18,12
+MU;2102804;Carolina (MA);3,72
+MU;2102903;Carutapera (MA);17,86
+MU;2103000;Caxias (MA);30,12
+MU;2103109;Cedral (MA);35,63
+MU;2103125;Central do Maranhão (MA);24,72
+MU;2103158;Centro do Guilherme (MA);11,7
+MU;2103174;Centro Novo do Maranhão (MA);2,13
+MU;2103208;Chapadinha (MA);22,59
+MU;2103257;Cidelândia (MA);9,34
+MU;2103307;Codó (MA);27,06
+MU;2103406;Coelho Neto (MA);47,92
+MU;2103505;Colinas (MA);19,76
+MU;2103554;Conceição do Lago-Açu (MA);19,69
+MU;2103604;Coroatá (MA);27,27
+MU;2103703;Cururupu (MA);26,69
+MU;2103752;Davinópolis (MA);37,44
+MU;2103802;Dom Pedro (MA);63,27
+MU;2103901;Duque Bacelar (MA);33,5
+MU;2104008;Esperantinópolis (MA);38,37
+MU;2104057;Estreito (MA);13,18
+MU;2104073;Feira Nova do Maranhão (MA);5,52
+MU;2104081;Fernando Falcão (MA);1,82
+MU;2104099;Formosa da Serra Negra (MA);4,49
+MU;2104107;Fortaleza dos Nogueiras (MA);7
+MU;2104206;Fortuna (MA);21,72
+MU;2104305;Godofredo Viana (MA);15,77
+MU;2104404;Gonçalves Dias (MA);19,9
+MU;2104503;Governador Archer (MA);22,63
+MU;2104552;Governador Edison Lobão (MA);25,81
+MU;2104602;Governador Eugênio Barros (MA);19,57
+MU;2104628;Governador Luiz Rocha (MA);19,66
+MU;2104651;Governador Newton Bello (MA);10,27
+MU;2104677;Governador Nunes Freire (MA);24,49
+MU;2104701;Graça Aranha (MA);22,62
+MU;2104800;Grajaú (MA);7,03
+MU;2104909;Guimarães (MA);20,29
+MU;2105005;Humberto de Campos (MA);12,29
+MU;2105104;Icatu (MA);17,36
+MU;2105153;Igarapé do Meio (MA);34,04
+MU;2105203;Igarapé Grande (MA);29,5
+MU;2105302;Imperatriz (MA);180,79
+MU;2105351;Itaipava do Grajaú (MA);11,54
+MU;2105401;Itapecuru Mirim (MA);42,21
+MU;2105427;Itinga do Maranhão (MA);6,94
+MU;2105450;Jatobá (MA);14,42
+MU;2105476;Jenipapo dos Vieiras (MA);7,87
+MU;2105500;João Lisboa (MA);32
+MU;2105609;Joselândia (MA);22,64
+MU;2105658;Junco do Maranhão (MA);7,24
+MU;2105708;Lago da Pedra (MA);37,68
+MU;2105807;Lago do Junco (MA);34,72
+MU;2105906;Lago Verde (MA);24,73
+MU;2105922;Lagoa do Mato (MA);6,48
+MU;2105948;Lago dos Rodrigues (MA);43,21
+MU;2105963;Lagoa Grande do Maranhão (MA);14,13
+MU;2105989;Lajeado Novo (MA);6,61
+MU;2106003;Lima Campos (MA);35,48
+MU;2106102;Loreto (MA);3,17
+MU;2106201;Luís Domingues (MA);14,03
+MU;2106300;Magalhães de Almeida (MA);40,6
+MU;2106326;Maracaçumé (MA);30,44
+MU;2106359;Marajá do Sena (MA);5,56
+MU;2106375;Maranhãozinho (MA);14,46
+MU;2106409;Mata Roma (MA);27,63
+MU;2106508;Matinha (MA);53,54
+MU;2106607;Matões (MA);15,69
+MU;2106631;Matões do Norte (MA);17,36
+MU;2106672;Milagres do Maranhão (MA);12,79
+MU;2106706;Mirador (MA);2,42
+MU;2106755;Miranda do Norte (MA);71,61
+MU;2106805;Mirinzal (MA);20,67
+MU;2106904;Monção (MA);24,38
+MU;2107001;Montes Altos (MA);6,32
+MU;2107100;Morros (MA);10,37
+MU;2107209;Nina Rodrigues (MA);21,77
+MU;2107258;Nova Colinas (MA);6,57
+MU;2107308;Nova Iorque (MA);4,7
+MU;2107357;Nova Olinda do Maranhão (MA);7,8
+MU;2107407;Olho d'Água das Cunhãs (MA);26,75
+MU;2107456;Olinda Nova do Maranhão (MA);66,69
+MU;2107506;Paço do Lumiar (MA);842,63
+MU;2107605;Palmeirândia (MA);35,7
+MU;2107704;Paraibano (MA);37,89
+MU;2107803;Parnarama (MA);10,06
+MU;2107902;Passagem Franca (MA);12,93
+MU;2108009;Pastos Bons (MA);11,05
+MU;2108058;Paulino Neves (MA);14,83
+MU;2108108;Paulo Ramos (MA);19,06
+MU;2108207;Pedreiras (MA);136,77
+MU;2108256;Pedro do Rosário (MA);12,99
+MU;2108306;Penalva (MA);46,42
+MU;2108405;Peri Mirim (MA);34,06
+MU;2108454;Peritoró (MA);25,71
+MU;2108504;Pindaré-Mirim (MA);127,25
+MU;2108603;Pinheiro (MA);51,66
+MU;2108702;Pio XII (MA);40,39
+MU;2108801;Pirapemas (MA);25,24
+MU;2108900;Poção de Pedras (MA);20,13
+MU;2109007;Porto Franco (MA);15,19
+MU;2109056;Porto Rico do Maranhão (MA);28,31
+MU;2109106;Presidente Dutra (MA);57,97
+MU;2109205;Presidente Juscelino (MA);32,54
+MU;2109239;Presidente Médici (MA);14,56
+MU;2109270;Presidente Sarney (MA);23,7
+MU;2109304;Presidente Vargas (MA);23,33
+MU;2109403;Primeira Cruz (MA);10,2
+MU;2109452;Raposa (MA);409,1
+MU;2109502;Riachão (MA);3,17
+MU;2109551;Ribamar Fiquene (MA);9,75
+MU;2109601;Rosário (MA);57,77
+MU;2109700;Sambaíba (MA);2,21
+MU;2109759;Santa Filomena do Maranhão (MA);11,72
+MU;2109809;Santa Helena (MA);16,94
+MU;2109908;Santa Inês (MA);188,49
+MU;2110005;Santa Luzia (MA);15,54
+MU;2110039;Santa Luzia do Paruá (MA);25,24
+MU;2110104;Santa Quitéria do Maranhão (MA);15,22
+MU;2110203;Santa Rita (MA);45,82
+MU;2110237;Santana do Maranhão (MA);12,51
+MU;2110278;Santo Amaro do Maranhão (MA);8,63
+MU;2110302;Santo Antônio dos Lopes (MA);18,53
+MU;2110401;São Benedito do Rio Preto (MA);19,11
+MU;2110500;São Bento (MA);88,74
+MU;2110609;São Bernardo (MA);26,29
+MU;2110658;São Domingos do Azeitão (MA);7,27
+MU;2110708;São Domingos do Maranhão (MA);29,17
+MU;2110807;São Félix de Balsas (MA);2,31
+MU;2110856;São Francisco do Brejão (MA);13,76
+MU;2110906;São Francisco do Maranhão (MA);5,17
+MU;2111003;São João Batista (MA);28,84
+MU;2111029;São João do Carú (MA);19,99
+MU;2111052;São João do Paraíso (MA);5,27
+MU;2111078;São João do Soter (MA);11,99
+MU;2111102;São João dos Patos (MA);16,61
+MU;2111201;São José de Ribamar (MA);419,82
+MU;2111250;São José dos Basílios (MA);20,67
+MU;2111300;São Luís (MA);1215,69
+MU;2111409;São Luís Gonzaga do Maranhão (MA);20,81
+MU;2111508;São Mateus do Maranhão (MA);49,91
+MU;2111532;São Pedro da Água Branca (MA);16,69
+MU;2111573;São Pedro dos Crentes (MA);4,52
+MU;2111607;São Raimundo das Mangabeiras (MA);4,96
+MU;2111631;São Raimundo do Doca Bezerra (MA);14,52
+MU;2111672;São Roberto (MA);26,19
+MU;2111706;São Vicente Ferrer (MA);53,38
+MU;2111722;Satubinha (MA);27,14
+MU;2111748;Senador Alexandre Costa (MA);24,05
+MU;2111763;Senador La Rocque (MA);14,55
+MU;2111789;Serrano do Maranhão (MA);9,06
+MU;2111805;Sítio Novo (MA);5,46
+MU;2111904;Sucupira do Norte (MA);9,72
+MU;2111953;Sucupira do Riachão (MA);8,17
+MU;2112001;Tasso Fragoso (MA);1,78
+MU;2112100;Timbiras (MA);18,83
+MU;2112209;Timon (MA);89,18
+MU;2112233;Trizidela do Vale (MA);85,01
+MU;2112274;Tufilândia (MA);20,65
+MU;2112308;Tuntum (MA);11,56
+MU;2112407;Turiaçu (MA);13,16
+MU;2112456;Turilândia (MA);15,11
+MU;2112506;Tutóia (MA);31,96
+MU;2112605;Urbano Santos (MA);20,35
+MU;2112704;Vargem Grande (MA);25,24
+MU;2112803;Viana (MA);42,36
+MU;2112852;Vila Nova dos Martírios (MA);9,47
+MU;2112902;Vitória do Mearim (MA);43,56
+MU;2113009;Vitorino Freire (MA);24,26
+MU;2114007;Zé Doca (MA);20,77
+MU;2200053;Acauã (PI);5,27
+MU;2200103;Agricolândia (PI);45,35
+MU;2200202;Água Branca (PI);169,53
+MU;2200251;Alagoinha do Piauí (PI);13,77
+MU;2200277;Alegrete do Piauí (PI);18,23
+MU;2200301;Alto Longá (PI);7,85
+MU;2200400;Altos (PI);40,54
+MU;2200459;Alvorada do Gurguéia (PI);2,37
+MU;2200509;Amarante (PI);14,83
+MU;2200608;Angical do Piauí (PI);29,86
+MU;2200707;Anísio de Abreu (PI);26,93
+MU;2200806;Antônio Almeida (PI);4,71
+MU;2200905;Aroazes (PI);7,03
+MU;2200954;Aroeiras do Itaim (PI);9,49
+MU;2201002;Arraial (PI);6,87
+MU;2201051;Assunção do Piauí (PI);4,44
+MU;2201101;Avelino Lopes (PI);8,48
+MU;2201150;Baixa Grande do Ribeiro (PI);1,35
+MU;2201176;Barra D'Alcântara (PI);14,63
+MU;2201200;Barras (PI);26,08
+MU;2201309;Barreiras do Piauí (PI);1,59
+MU;2201408;Barro Duro (PI);50,39
+MU;2201507;Batalha (PI);16,22
+MU;2201556;Bela Vista do Piauí (PI);7,57
+MU;2201572;Belém do Piauí (PI);13,5
+MU;2201606;Beneditinos (PI);12,57
+MU;2201705;Bertolínia (PI);4,34
+MU;2201739;Betânia do Piauí (PI);10,65
+MU;2201770;Boa Hora (PI);18,65
+MU;2201804;Bocaina (PI);16,27
+MU;2201903;Bom Jesus (PI);4,14
+MU;2201919;Bom Princípio do Piauí (PI);10,17
+MU;2201929;Bonfim do Piauí (PI);18,65
+MU;2201945;Boqueirão do Piauí (PI);22,25
+MU;2201960;Brasileira (PI);9,04
+MU;2201988;Brejo do Piauí (PI);1,76
+MU;2202000;Buriti dos Lopes (PI);27,6
+MU;2202026;Buriti dos Montes (PI);3,01
+MU;2202059;Cabeceiras do Piauí (PI);16,31
+MU;2202075;Cajazeiras do Piauí (PI);6,5
+MU;2202083;Cajueiro da Praia (PI);26,36
+MU;2202091;Caldeirão Grande do Piauí (PI);11,46
+MU;2202109;Campinas do Piauí (PI);6,51
+MU;2202117;Campo Alegre do Fidalgo (PI);7,13
+MU;2202133;Campo Grande do Piauí (PI);17,93
+MU;2202174;Campo Largo do Piauí (PI);14,24
+MU;2202208;Campo Maior (PI);26,96
+MU;2202251;Canavieira (PI);1,81
+MU;2202307;Canto do Buriti (PI);4,63
+MU;2202406;Capitão de Campos (PI);18,5
+MU;2202455;Capitão Gervásio Oliveira (PI);3,42
+MU;2202505;Caracol (PI);6,34
+MU;2202539;Caraúbas do Piauí (PI);11,72
+MU;2202554;Caridade do Piauí (PI);9,63
+MU;2202604;Castelo do Piauí (PI);9,01
+MU;2202653;Caxingó (PI);10,32
+MU;2202703;Cocal (PI);20,51
+MU;2202711;Cocal de Telha (PI);16,04
+MU;2202729;Cocal dos Alves (PI);15,58
+MU;2202737;Coivaras (PI);7,85
+MU;2202752;Colônia do Gurguéia (PI);14,02
+MU;2202778;Colônia do Piauí (PI);7,84
+MU;2202802;Conceição do Canindé (PI);5,38
+MU;2202851;Coronel José Dias (PI);2,37
+MU;2202901;Corrente (PI);8,33
+MU;2203008;Cristalândia do Piauí (PI);6,51
+MU;2203107;Cristino Castro (PI);5,41
+MU;2203206;Curimatá (PI);4,6
+MU;2203230;Currais (PI);1,49
+MU;2203255;Curralinhos (PI);12,09
+MU;2203271;Curral Novo do Piauí (PI);6,47
+MU;2203305;Demerval Lobão (PI);61,24
+MU;2203354;Dirceu Arcoverde (PI);6,56
+MU;2203404;Dom Expedito Lopes (PI);29,99
+MU;2203420;Domingos Mourão (PI);5,04
+MU;2203453;Dom Inocêncio (PI);2,39
+MU;2203503;Elesbão Veloso (PI);10,77
+MU;2203602;Eliseu Martins (PI);4,28
+MU;2203701;Esperantina (PI);41,45
+MU;2203750;Fartura do Piauí (PI);7,12
+MU;2203800;Flores do Piauí (PI);4,61
+MU;2203859;Floresta do Piauí (PI);12,75
+MU;2203909;Floriano (PI);16,92
+MU;2204006;Francinópolis (PI);19,48
+MU;2204105;Francisco Ayres (PI);6,82
+MU;2204154;Francisco Macedo (PI);18,54
+MU;2204204;Francisco Santos (PI);17,47
+MU;2204303;Fronteiras (PI);14,33
+MU;2204352;Geminiano (PI);11,84
+MU;2204402;Gilbués (PI);2,98
+MU;2204501;Guadalupe (PI);10,03
+MU;2204550;Guaribas (PI);1,41
+MU;2204600;Hugo Napoleão (PI);16,8
+MU;2204659;Ilha Grande (PI);66,37
+MU;2204709;Inhuma (PI);15,18
+MU;2204808;Ipiranga do Piauí (PI);17,67
+MU;2204907;Isaías Coelho (PI);10,59
+MU;2205003;Itainópolis (PI);13,41
+MU;2205102;Itaueira (PI);4,18
+MU;2205151;Jacobina do Piauí (PI);4,17
+MU;2205201;Jaicós (PI);20,85
+MU;2205250;Jardim do Mulato (PI);8,45
+MU;2205276;Jatobá do Piauí (PI);7,13
+MU;2205300;Jerumenha (PI);2,35
+MU;2205359;João Costa (PI);1,64
+MU;2205409;Joaquim Pires (PI);18,68
+MU;2205458;Joca Marques (PI);30,64
+MU;2205508;José de Freitas (PI);24,11
+MU;2205516;Juazeiro do Piauí (PI);5,75
+MU;2205524;Júlio Borges (PI);4,14
+MU;2205532;Jurema (PI);3,55
+MU;2205540;Lagoinha do Piauí (PI);39,35
+MU;2205557;Lagoa Alegre (PI);20,29
+MU;2205565;Lagoa do Barro do Piauí (PI);3,58
+MU;2205573;Lagoa de São Francisco (PI);41,26
+MU;2205581;Lagoa do Piauí (PI);9,05
+MU;2205599;Lagoa do Sítio (PI);6,03
+MU;2205607;Landri Sales (PI);4,85
+MU;2205706;Luís Correia (PI);26,52
+MU;2205805;Luzilândia (PI);35,1
+MU;2205854;Madeiro (PI);44,12
+MU;2205904;Manoel Emídio (PI);3,22
+MU;2205953;Marcolândia (PI);54,3
+MU;2206001;Marcos Parente (PI);6,58
+MU;2206050;Massapê do Piauí (PI);11,94
+MU;2206100;Matias Olímpio (PI);46,26
+MU;2206209;Miguel Alves (PI);23,17
+MU;2206308;Miguel Leão (PI);13,4
+MU;2206357;Milton Brandão (PI);4,93
+MU;2206407;Monsenhor Gil (PI);18,17
+MU;2206506;Monsenhor Hipólito (PI);18,41
+MU;2206605;Monte Alegre do Piauí (PI);4,28
+MU;2206654;Morro Cabeça no Tempo (PI);1,92
+MU;2206670;Morro do Chapéu do Piauí (PI);19,8
+MU;2206696;Murici dos Portelas (PI);17,57
+MU;2206704;Nazaré do Piauí (PI);5,56
+MU;2206720;Nazária (PI);22,19
+MU;2206753;Nossa Senhora de Nazaré (PI);12,79
+MU;2206803;Nossa Senhora dos Remédios (PI);22,89
+MU;2206902;Novo Oriente do Piauí (PI);12,37
+MU;2206951;Novo Santo Antônio (PI);6,77
+MU;2207009;Oeiras (PI);13,19
+MU;2207108;Olho D'Água do Piauí (PI);11,96
+MU;2207207;Padre Marcos (PI);24,47
+MU;2207306;Paes Landim (PI);10,11
+MU;2207355;Pajeú do Piauí (PI);3,12
+MU;2207405;Palmeira do Piauí (PI);2,47
+MU;2207504;Palmeirais (PI);9,17
+MU;2207553;Paquetá (PI);9,25
+MU;2207603;Parnaguá (PI);3
+MU;2207702;Parnaíba (PI);334,52
+MU;2207751;Passagem Franca do Piauí (PI);5,35
+MU;2207777;Patos do Piauí (PI);8,12
+MU;2207793;Pau D'Arco do Piauí (PI);8,72
+MU;2207801;Paulistana (PI);10,04
+MU;2207850;Pavussu (PI);3,36
+MU;2207900;Pedro II (PI);24,7
+MU;2207934;Pedro Laurentino (PI);2,77
+MU;2207959;Nova Santa Rita (PI);4,6
+MU;2208007;Picos (PI);137,3
+MU;2208106;Pimenteiras (PI);2,57
+MU;2208205;Pio IX (PI);9,08
+MU;2208304;Piracuruca (PI);11,57
+MU;2208403;Piripiri (PI);43,89
+MU;2208502;Porto (PI);47,08
+MU;2208551;Porto Alegre do Piauí (PI);2,19
+MU;2208601;Prata do Piauí (PI);15,71
+MU;2208650;Queimada Nova (PI);6,32
+MU;2208700;Redenção do Gurguéia (PI);3,4
+MU;2208809;Regeneração (PI);14,03
+MU;2208858;Riacho Frio (PI);1,91
+MU;2208874;Ribeira do Piauí (PI);4,25
+MU;2208908;Ribeiro Gonçalves (PI);1,72
+MU;2209005;Rio Grande do Piauí (PI);9,86
+MU;2209104;Santa Cruz do Piauí (PI);9,85
+MU;2209153;Santa Cruz dos Milagres (PI);3,87
+MU;2209203;Santa Filomena (PI);1,15
+MU;2209302;Santa Luz (PI);4,65
+MU;2209351;Santana do Piauí (PI);34,84
+MU;2209377;Santa Rosa do Piauí (PI);15,14
+MU;2209401;Santo Antônio de Lisboa (PI);15,51
+MU;2209450;Santo Antônio dos Milagres (PI);62,12
+MU;2209500;Santo Inácio do Piauí (PI);4,28
+MU;2209559;São Braz do Piauí (PI);6,57
+MU;2209609;São Félix do Piauí (PI);4,67
+MU;2209658;São Francisco de Assis do Piauí (PI);5,06
+MU;2209708;São Francisco do Piauí (PI);4,7
+MU;2209757;São Gonçalo do Gurguéia (PI);2,04
+MU;2209807;São Gonçalo do Piauí (PI);31,65
+MU;2209856;São João da Canabrava (PI);9,26
+MU;2209872;São João da Fronteira (PI);7,33
+MU;2209906;São João da Serra (PI);6,12
+MU;2209955;São João da Varjota (PI);11,77
+MU;2209971;São João do Arraial (PI);34,38
+MU;2210003;São João do Piauí (PI);12,8
+MU;2210052;São José do Divino (PI);16,13
+MU;2210102;São José do Peixe (PI);2,87
+MU;2210201;São José do Piauí (PI);18,06
+MU;2210300;São Julião (PI);22,07
+MU;2210359;São Lourenço do Piauí (PI);6,58
+MU;2210375;São Luis do Piauí (PI);11,62
+MU;2210383;São Miguel da Baixa Grande (PI);5,49
+MU;2210391;São Miguel do Fidalgo (PI);3,66
+MU;2210409;São Miguel do Tapuio (PI);3,48
+MU;2210508;São Pedro do Piauí (PI);26,32
+MU;2210607;São Raimundo Nonato (PI);13,38
+MU;2210623;Sebastião Barros (PI);3,98
+MU;2210631;Sebastião Leal (PI);1,31
+MU;2210656;Sigefredo Pacheco (PI);9,95
+MU;2210706;Simões (PI);13,23
+MU;2210805;Simplício Mendes (PI);8,97
+MU;2210904;Socorro do Piauí (PI);5,94
+MU;2210938;Sussuapara (PI);29,7
+MU;2210953;Tamboril do Piauí (PI);1,73
+MU;2210979;Tanque do Piauí (PI);6,57
+MU;2211001;Teresina (PI);584,95
+MU;2211100;União (PI);36,35
+MU;2211209;Uruçuí (PI);2,4
+MU;2211308;Valença do Piauí (PI);15,23
+MU;2211357;Várzea Branca (PI);10,9
+MU;2211407;Várzea Grande (PI);18,29
+MU;2211506;Vera Mendes (PI);8,73
+MU;2211605;Vila Nova do Piauí (PI);14,09
+MU;2211704;Wall Ferraz (PI);15,85
+MU;2300101;Abaiara (CE);58,69
+MU;2300150;Acarape (CE);95,69
+MU;2300200;Acaraú (CE);68,31
+MU;2300309;Acopiara (CE);22,7
+MU;2300408;Aiuaba (CE);6,66
+MU;2300507;Alcântaras (CE);77,71
+MU;2300606;Altaneira (CE);93,54
+MU;2300705;Alto Santo (CE);12,22
+MU;2300754;Amontada (CE);33,27
+MU;2300804;Antonina do Norte (CE);26,85
+MU;2300903;Apuiarés (CE);25,21
+MU;2301000;Aquiraz (CE);150,5
+MU;2301109;Aracati (CE);55,45
+MU;2301208;Aracoiaba (CE);38,67
+MU;2301257;Ararendá (CE);30,49
+MU;2301307;Araripe (CE);18,81
+MU;2301406;Aratuba (CE);100,44
+MU;2301505;Arneiroz (CE);7,17
+MU;2301604;Assaré (CE);20,11
+MU;2301703;Aurora (CE);27,61
+MU;2301802;Baixio (CE);41,15
+MU;2301851;Banabuiú (CE);16,03
+MU;2301901;Barbalha (CE);92,31
+MU;2301950;Barreira (CE);81,25
+MU;2302008;Barro (CE);30,22
+MU;2302057;Barroquinha (CE);37,76
+MU;2302107;Baturité (CE);107,98
+MU;2302206;Beberibe (CE);30,37
+MU;2302305;Bela Cruz (CE);37,45
+MU;2302404;Boa Viagem (CE);18,51
+MU;2302503;Brejo Santo (CE);68,12
+MU;2302602;Camocim (CE);52,81
+MU;2302701;Campos Sales (CE);24,48
+MU;2302800;Canindé (CE);23,14
+MU;2302909;Capistrano (CE);76,67
+MU;2303006;Caridade (CE);23,65
+MU;2303105;Cariré (CE);24,24
+MU;2303204;Caririaçu (CE);41,41
+MU;2303303;Cariús (CE);17,49
+MU;2303402;Carnaubal (CE);45,9
+MU;2303501;Cascavel (CE);78,99
+MU;2303600;Catarina (CE);38,5
+MU;2303659;Catunda (CE);12,71
+MU;2303709;Caucaia (CE);265,93
+MU;2303808;Cedro (CE);33,79
+MU;2303907;Chaval (CE);52,95
+MU;2303931;Choró (CE);15,76
+MU;2303956;Chorozinho (CE);67,94
+MU;2304004;Coreaú (CE);28,3
+MU;2304103;Crateús (CE);24,37
+MU;2304202;Crato (CE);104,87
+MU;2304236;Croatá (CE);24,49
+MU;2304251;Cruz (CE);67,28
+MU;2304269;Deputado Irapuan Pinheiro (CE);19,33
+MU;2304277;Ererê (CE);17,27
+MU;2304285;Eusébio (CE);582,64
+MU;2304301;Farias Brito (CE);37,74
+MU;2304350;Forquilha (CE);42,14
+MU;2304400;Fortaleza (CE);7786,52
+MU;2304459;Fortim (CE);52,53
+MU;2304509;Frecheirinha (CE);71,68
+MU;2304608;General Sampaio (CE);33,23
+MU;2304657;Graça (CE);53,39
+MU;2304707;Granja (CE);19,51
+MU;2304806;Granjeiro (CE);46,23
+MU;2304905;Groaíras (CE);65,59
+MU;2304954;Guaiúba (CE);94,83
+MU;2305001;Guaraciaba do Norte (CE);61,78
+MU;2305100;Guaramiranga (CE);41,29
+MU;2305209;Hidrolândia (CE);20,84
+MU;2305233;Horizonte (CE);344,96
+MU;2305266;Ibaretama (CE);14,73
+MU;2305308;Ibiapina (CE);57,38
+MU;2305332;Ibicuitinga (CE);26,72
+MU;2305357;Icapuí (CE);43,43
+MU;2305407;Icó (CE);34,97
+MU;2305506;Iguatu (CE);94,87
+MU;2305605;Independência (CE);7,95
+MU;2305654;Ipaporanga (CE);16,16
+MU;2305704;Ipaumirim (CE);43,86
+MU;2305803;Ipu (CE);64,03
+MU;2305902;Ipueiras (CE);25,63
+MU;2306009;Iracema (CE);16,65
+MU;2306108;Irauçuba (CE);15,39
+MU;2306207;Itaiçaba (CE);34,86
+MU;2306256;Itaitinga (CE);236,52
+MU;2306306;Itapajé (CE);112,33
+MU;2306405;Itapipoca (CE);72,38
+MU;2306504;Itapiúna (CE);31,64
+MU;2306553;Itarema (CE);52
+MU;2306603;Itatira (CE);24,12
+MU;2306702;Jaguaretama (CE);10,15
+MU;2306801;Jaguaribara (CE);15,55
+MU;2306900;Jaguaribe (CE);18,33
+MU;2307007;Jaguaruana (CE);38,05
+MU;2307106;Jardim (CE);51,41
+MU;2307205;Jati (CE);21,21
+MU;2307254;Jijoca de Jericoacoara (CE);83,02
+MU;2307304;Juazeiro do Norte (CE);1006,91
+MU;2307403;Jucás (CE);25,4
+MU;2307502;Lavras da Mangabeira (CE);32,8
+MU;2307601;Limoeiro do Norte (CE);74,84
+MU;2307635;Madalena (CE);17,63
+MU;2307650;Maracanaú (CE);1877,75
+MU;2307700;Maranguape (CE);192,19
+MU;2307809;Marco (CE);43,03
+MU;2307908;Martinópole (CE);34,17
+MU;2308005;Massapê (CE);62,11
+MU;2308104;Mauriti (CE);41
+MU;2308203;Meruoca (CE);91,38
+MU;2308302;Milagres (CE);49,08
+MU;2308351;Milhã (CE);26,05
+MU;2308377;Miraíma (CE);18,29
+MU;2308401;Missão Velha (CE);52,69
+MU;2308500;Mombaça (CE);20,14
+MU;2308609;Monsenhor Tabosa (CE);18,69
+MU;2308708;Morada Nova (CE);22,33
+MU;2308807;Moraújo (CE);19,42
+MU;2308906;Morrinhos (CE);49,81
+MU;2309003;Mucambo (CE);73,99
+MU;2309102;Mulungu (CE);120,16
+MU;2309201;Nova Olinda (CE);50,13
+MU;2309300;Nova Russas (CE);41,69
+MU;2309409;Novo Oriente (CE);29,01
+MU;2309458;Ocara (CE);31,37
+MU;2309508;Orós (CE);37,12
+MU;2309607;Pacajus (CE);243
+MU;2309706;Pacatuba (CE);498,35
+MU;2309805;Pacoti (CE);105,92
+MU;2309904;Pacujá (CE);78,63
+MU;2310001;Palhano (CE);20,13
+MU;2310100;Palmácia (CE);101,9
+MU;2310209;Paracuru (CE);106,8
+MU;2310258;Paraipaba (CE);99,83
+MU;2310308;Parambu (CE);13,54
+MU;2310407;Paramoti (CE);23,43
+MU;2310506;Pedra Branca (CE);32,14
+MU;2310605;Penaforte (CE);57,96
+MU;2310704;Pentecoste (CE);25,68
+MU;2310803;Pereiro (CE);37,24
+MU;2310852;Pindoretama (CE);256,06
+MU;2310902;Piquet Carneiro (CE);26,31
+MU;2310951;Pires Ferreira (CE);42,02
+MU;2311009;Poranga (CE);9,17
+MU;2311108;Porteiras (CE);69,22
+MU;2311207;Potengi (CE);30,34
+MU;2311231;Potiretama (CE);15,14
+MU;2311264;Quiterianópolis (CE);19,14
+MU;2311306;Quixadá (CE);39,91
+MU;2311355;Quixelô (CE);25,72
+MU;2311405;Quixeramobim (CE);21,59
+MU;2311504;Quixeré (CE);31,78
+MU;2311603;Redenção (CE);117,09
+MU;2311702;Reriutaba (CE);50,75
+MU;2311801;Russas (CE);43,88
+MU;2311900;Saboeiro (CE);11,39
+MU;2311959;Salitre (CE);19,21
+MU;2312007;Santana do Acaraú (CE);30,89
+MU;2312106;Santana do Cariri (CE);20,07
+MU;2312205;Santa Quitéria (CE);10,04
+MU;2312304;São Benedito (CE);130,61
+MU;2312403;São Gonçalo do Amarante (CE);52,34
+MU;2312502;São João do Jaguaribe (CE);28,17
+MU;2312601;São Luís do Curu (CE);100,74
+MU;2312700;Senador Pompeu (CE);27,68
+MU;2312809;Senador Sá (CE);16,16
+MU;2312908;Sobral (CE);88,67
+MU;2313005;Solonópole (CE);11,5
+MU;2313104;Tabuleiro do Norte (CE);33,89
+MU;2313203;Tamboril (CE);12,72
+MU;2313252;Tarrafas (CE);19,61
+MU;2313302;Tauá (CE);13,9
+MU;2313351;Tejuçuoca (CE);21,53
+MU;2313401;Tianguá (CE);75,8
+MU;2313500;Trairi (CE);55,55
+MU;2313559;Tururu (CE);71,23
+MU;2313609;Ubajara (CE);75,5
+MU;2313708;Umari (CE);28,59
+MU;2313757;Umirim (CE);59,35
+MU;2313807;Uruburetama (CE);183,75
+MU;2313906;Uruoca (CE);18,49
+MU;2313955;Varjota (CE);98,07
+MU;2314003;Várzea Alegre (CE);45,99
+MU;2314102;Viçosa do Ceará (CE);41,9
+MU;2400109;Acari (RN);18,13
+MU;2400208;Açu (RN);40,84
+MU;2400307;Afonso Bezerra (RN);18,82
+MU;2400406;Água Nova (RN);58,8
+MU;2400505;Alexandria (RN);35,43
+MU;2400604;Almino Afonso (RN);38,04
+MU;2400703;Alto do Rodrigues (RN);64,31
+MU;2400802;Angicos (RN);15,57
+MU;2400901;Antônio Martins (RN);28,24
+MU;2401008;Apodi (RN);21,69
+MU;2401107;Areia Branca (RN);70,79
+MU;2401206;Arês (RN);111,89
+MU;2401305;Augusto Severo (RN);10,36
+MU;2401404;Baía Formosa (RN);34,9
+MU;2401453;Baraúna (RN);29,29
+MU;2401503;Barcelona (RN);25,88
+MU;2401602;Bento Fernandes (RN);16,98
+MU;2401651;Bodó (RN);9,57
+MU;2401701;Bom Jesus (RN);77,35
+MU;2401800;Brejinho (RN);188,07
+MU;2401859;Caiçara do Norte (RN);31,74
+MU;2401909;Caiçara do Rio do Vento (RN);12,67
+MU;2402006;Caicó (RN);51,04
+MU;2402105;Campo Redondo (RN);48,03
+MU;2402204;Canguaretama (RN);125,98
+MU;2402303;Caraúbas (RN);17,88
+MU;2402402;Carnaúba dos Dantas (RN);30,24
+MU;2402501;Carnaubais (RN);17,99
+MU;2402600;Ceará-Mirim (RN);94,07
+MU;2402709;Cerro Corá (RN);27,74
+MU;2402808;Coronel Ezequiel (RN);29,1
+MU;2402907;Coronel João Pessoa (RN);40,74
+MU;2403004;Cruzeta (RN);26,93
+MU;2403103;Currais Novos (RN);49,35
+MU;2403202;Doutor Severiano (RN);59,96
+MU;2403251;Parnamirim (RN);1638,14
+MU;2403301;Encanto (RN);41,6
+MU;2403400;Equador (RN);21,97
+MU;2403509;Espírito Santo (RN);77,11
+MU;2403608;Extremoz (RN);176,03
+MU;2403707;Felipe Guerra (RN);21,35
+MU;2403756;Fernando Pedroza (RN);8,85
+MU;2403806;Florânia (RN);17,74
+MU;2403905;Francisco Dantas (RN);15,83
+MU;2404002;Frutuoso Gomes (RN);66,89
+MU;2404101;Galinhos (RN);6,31
+MU;2404200;Goianinha (RN);116,92
+MU;2404309;Governador Dix-Sept Rosado (RN);10,96
+MU;2404408;Grossos (RN);74,28
+MU;2404507;Guamaré (RN);47,9
+MU;2404606;Ielmo Marinho (RN);39,01
+MU;2404705;Ipanguaçu (RN);37,02
+MU;2404804;Ipueira (RN);16,31
+MU;2404853;Itajá (RN);34,04
+MU;2404903;Itaú (RN);41,83
+MU;2405009;Jaçanã (RN);145,25
+MU;2405108;Jandaíra (RN);15,6
+MU;2405207;Janduís (RN);17,53
+MU;2405306;Januário Cicco (RN);48,13
+MU;2405405;Japi (RN);29,22
+MU;2405504;Jardim de Angicos (RN);10,26
+MU;2405603;Jardim de Piranhas (RN);40,86
+MU;2405702;Jardim do Seridó (RN);32,86
+MU;2405801;João Câmara (RN);45,08
+MU;2405900;João Dias (RN);29,5
+MU;2406007;José da Penha (RN);49,88
+MU;2406106;Jucurutu (RN);18,95
+MU;2406155;Jundiá (RN);80,24
+MU;2406205;Lagoa d'Anta (RN);58,94
+MU;2406304;Lagoa de Pedras (RN);59,4
+MU;2406403;Lagoa de Velhos (RN);23,64
+MU;2406502;Lagoa Nova (RN);79,31
+MU;2406601;Lagoa Salgada (RN);95,37
+MU;2406700;Lajes (RN);15,34
+MU;2406809;Lajes Pintadas (RN);35,42
+MU;2406908;Lucrécia (RN);117,45
+MU;2407005;Luís Gomes (RN);57,67
+MU;2407104;Macaíba (RN);136,01
+MU;2407203;Macau (RN);36,74
+MU;2407252;Major Sales (RN);110,6
+MU;2407302;Marcelino Vieira (RN);23,91
+MU;2407401;Martins (RN);48,49
+MU;2407500;Maxaranguape (RN);79,51
+MU;2407609;Messias Targino (RN);31
+MU;2407708;Montanhas (RN);138,82
+MU;2407807;Monte Alegre (RN);97,87
+MU;2407906;Monte das Gameleiras (RN);31,43
+MU;2408003;Mossoró (RN);123,76
+MU;2408102;Natal (RN);4808,2
+MU;2408201;Nísia Floresta (RN);77,26
+MU;2408300;Nova Cruz (RN);127,82
+MU;2408409;Olho d'Água do Borges (RN);30,42
+MU;2408508;Ouro Branco (RN);18,55
+MU;2408607;Paraná (RN);48,56
+MU;2408706;Paraú (RN);10,07
+MU;2408805;Parazinho (RN);17,64
+MU;2408904;Parelhas (RN);39,67
+MU;2408953;Rio do Fogo (RN);66,94
+MU;2409100;Passa e Fica (RN);263,43
+MU;2409209;Passagem (RN);70,24
+MU;2409308;Patu (RN);37,49
+MU;2409332;Santa Maria (RN);21,69
+MU;2409407;Pau dos Ferros (RN);106,73
+MU;2409506;Pedra Grande (RN);15,9
+MU;2409605;Pedra Preta (RN);8,78
+MU;2409704;Pedro Avelino (RN);7,53
+MU;2409803;Pedro Velho (RN);73,24
+MU;2409902;Pendências (RN);32,05
+MU;2410009;Pilões (RN);41,76
+MU;2410108;Poço Branco (RN);60,54
+MU;2410207;Portalegre (RN);66,51
+MU;2410256;Porto do Mangue (RN);16,36
+MU;2410306;Serra Caiada (RN);52,4
+MU;2410405;Pureza (RN);16,7
+MU;2410504;Rafael Fernandes (RN);59,98
+MU;2410603;Rafael Godeiro (RN);30,61
+MU;2410702;Riacho da Cruz (RN);24,88
+MU;2410801;Riacho de Santana (RN);32,44
+MU;2410900;Riachuelo (RN);26,88
+MU;2411007;Rodolfo Fernandes (RN);28,53
+MU;2411056;Tibau (RN);21,79
+MU;2411106;Ruy Barbosa (RN);28,58
+MU;2411205;Santa Cruz (RN);57,33
+MU;2411403;Santana do Matos (RN);9,73
+MU;2411429;Santana do Seridó (RN);13,41
+MU;2411502;Santo Antônio (RN);73,79
+MU;2411601;São Bento do Norte (RN);10,3
+MU;2411700;São Bento do Trairí (RN);20,46
+MU;2411809;São Fernando (RN);8,41
+MU;2411908;São Francisco do Oeste (RN);51,25
+MU;2412005;São Gonçalo do Amarante (RN);351,91
+MU;2412104;São João do Sabugi (RN);21,38
+MU;2412203;São José de Mipibu (RN);137
+MU;2412302;São José do Campestre (RN);36,22
+MU;2412401;São José do Seridó (RN);24,25
+MU;2412500;São Miguel (RN);129,05
+MU;2412559;São Miguel do Gostoso (RN);25,35
+MU;2412609;São Paulo do Potengi (RN);65,9
+MU;2412708;São Pedro (RN);31,94
+MU;2412807;São Rafael (RN);17,29
+MU;2412906;São Tomé (RN);12,55
+MU;2413003;São Vicente (RN);30,47
+MU;2413102;Senador Elói de Souza (RN);33,63
+MU;2413201;Senador Georgino Avelino (RN);151,31
+MU;2413300;Serra de São Bento (RN);59,43
+MU;2413359;Serra do Mel (RN);16,69
+MU;2413409;Serra Negra do Norte (RN);13,82
+MU;2413508;Serrinha (RN);34,04
+MU;2413557;Serrinha dos Pintos (RN);37,02
+MU;2413607;Severiano Melo (RN);36,44
+MU;2413706;Sítio Novo (RN);23,52
+MU;2413805;Taboleiro Grande (RN);18,67
+MU;2413904;Taipu (RN);33,55
+MU;2414001;Tangará (RN);39,72
+MU;2414100;Tenente Ananias (RN);44,19
+MU;2414159;Tenente Laurentino Cruz (RN);72,68
+MU;2414209;Tibau do Sul (RN);111,81
+MU;2414308;Timbaúba dos Batistas (RN);16,94
+MU;2414407;Touros (RN);36,99
+MU;2414456;Triunfo Potiguar (RN);12,53
+MU;2414506;Umarizal (RN);49,91
+MU;2414605;Upanema (RN);14,87
+MU;2414704;Várzea (RN);72,04
+MU;2414753;Venha-Ver (RN);53,35
+MU;2414803;Vera Cruz (RN);128,43
+MU;2414902;Viçosa (RN);42,69
+MU;2415008;Vila Flor (RN);60,27
+MU;2500106;Água Branca (PB);39,94
+MU;2500205;Aguiar (PB);16,04
+MU;2500304;Alagoa Grande (PB);88,84
+MU;2500403;Alagoa Nova (PB);160,98
+MU;2500502;Alagoinha (PB);139,99
+MU;2500536;Alcantil (PB);17,16
+MU;2500577;Algodão de Jandaíra (PB);10,74
+MU;2500601;Alhandra (PB);98,58
+MU;2500700;São João do Rio do Peixe (PB);38,36
+MU;2500734;Amparo (PB);17,12
+MU;2500775;Aparecida (PB);25,96
+MU;2500809;Araçagi (PB);74,51
+MU;2500908;Arara (PB);127,66
+MU;2501005;Araruna (PB);76,83
+MU;2501104;Areia (PB);88,42
+MU;2501153;Areia de Baraúnas (PB);20
+MU;2501203;Areial (PB);195,22
+MU;2501302;Aroeiras (PB);50,93
+MU;2501351;Assunção (PB);27,86
+MU;2501401;Baía da Traição (PB);78,27
+MU;2501500;Bananeiras (PB);84,72
+MU;2501534;Baraúna (PB);83,43
+MU;2501575;Barra de Santana (PB);21,77
+MU;2501609;Barra de Santa Rosa (PB);18,25
+MU;2501708;Barra de São Miguel (PB);9,43
+MU;2501807;Bayeux (PB);3118,76
+MU;2501906;Belém (PB);170,67
+MU;2502003;Belém do Brejo do Cruz (PB);11,84
+MU;2502052;Bernardino Batista (PB);60,74
+MU;2502102;Boa Ventura (PB);33,71
+MU;2502151;Boa Vista (PB);13,07
+MU;2502201;Bom Jesus (PB);50,39
+MU;2502300;Bom Sucesso (PB);27,35
+MU;2502409;Bonito de Santa Fé (PB);47,32
+MU;2502508;Boqueirão (PB);45,4
+MU;2502607;Igaracy (PB);32,02
+MU;2502706;Borborema (PB);196,74
+MU;2502805;Brejo do Cruz (PB);32,9
+MU;2502904;Brejo dos Santos (PB);66,05
+MU;2503001;Caaporã (PB);135,6
+MU;2503100;Cabaceiras (PB);11,12
+MU;2503209;Cabedelo (PB);1815,57
+MU;2503308;Cachoeira dos Índios (PB);49,44
+MU;2503407;Cacimba de Areia (PB);16,14
+MU;2503506;Cacimba de Dentro (PB);102,32
+MU;2503555;Cacimbas (PB);53,85
+MU;2503605;Caiçara (PB);56,44
+MU;2503704;Cajazeiras (PB);103,28
+MU;2503753;Cajazeirinhas (PB);10,54
+MU;2503803;Caldas Brandão (PB);100,92
+MU;2503902;Camalaú (PB);10,57
+MU;2504009;Campina Grande (PB);648,31
+MU;2504033;Capim (PB);71,66
+MU;2504074;Caraúbas (PB);7,84
+MU;2504108;Carrapateira (PB);43,61
+MU;2504157;Casserengue (PB);35,05
+MU;2504207;Catingueira (PB);9,09
+MU;2504306;Catolé do Rocha (PB);52,09
+MU;2504355;Caturité (PB);38,47
+MU;2504405;Conceição (PB);31,69
+MU;2504504;Condado (PB);23,44
+MU;2504603;Conde (PB);123,74
+MU;2504702;Congo (PB);14,06
+MU;2504801;Coremas (PB);39,92
+MU;2504850;Coxixola (PB);10,43
+MU;2504900;Cruz do Espírito Santo (PB);83,12
+MU;2505006;Cubati (PB);50,13
+MU;2505105;Cuité (PB);26,93
+MU;2505204;Cuitegi (PB);175,29
+MU;2505238;Cuité de Mamanguape (PB);57,19
+MU;2505279;Curral de Cima (PB);61,21
+MU;2505303;Curral Velho (PB);11,24
+MU;2505352;Damião (PB);26,39
+MU;2505402;Desterro (PB);44,55
+MU;2505501;Vista Serrana (PB);57,24
+MU;2505600;Diamante (PB);24,58
+MU;2505709;Dona Inês (PB);63,29
+MU;2505808;Duas Estradas (PB);138,53
+MU;2505907;Emas (PB);13,77
+MU;2506004;Esperança (PB);189,86
+MU;2506103;Fagundes (PB);60,34
+MU;2506202;Frei Martinho (PB);12
+MU;2506251;Gado Bravo (PB);43,53
+MU;2506301;Guarabira (PB);333,81
+MU;2506400;Gurinhém (PB);40,08
+MU;2506509;Gurjão (PB);9,2
+MU;2506608;Ibiara (PB);24,67
+MU;2506707;Imaculada (PB);35,81
+MU;2506806;Ingá (PB);63,13
+MU;2506905;Itabaiana (PB);111,86
+MU;2507002;Itaporanga (PB);49,55
+MU;2507101;Itapororoca (PB);116,37
+MU;2507200;Itatuba (PB);41,77
+MU;2507309;Jacaraú (PB);55,1
+MU;2507408;Jericó (PB);42,04
+MU;2507507;João Pessoa (PB);3421,3
+MU;2507606;Juarez Távora (PB);105,29
+MU;2507705;Juazeirinho (PB);35,88
+MU;2507804;Junco do Seridó (PB);38,98
+MU;2507903;Juripiranga (PB);129,84
+MU;2508000;Juru (PB);24,37
+MU;2508109;Lagoa (PB);26,31
+MU;2508208;Lagoa de Dentro (PB);87,21
+MU;2508307;Lagoa Seca (PB);240,73
+MU;2508406;Lastro (PB);27,67
+MU;2508505;Livramento (PB);27,53
+MU;2508554;Logradouro (PB);103,75
+MU;2508604;Lucena (PB);131,88
+MU;2508703;Mãe d'Água (PB);16,49
+MU;2508802;Malta (PB);35,93
+MU;2508901;Mamanguape (PB);124,23
+MU;2509008;Manaíra (PB);30,52
+MU;2509057;Marcação (PB);61,91
+MU;2509107;Mari (PB);136,78
+MU;2509156;Marizópolis (PB);97,04
+MU;2509206;Massaranduba (PB);62,64
+MU;2509305;Mataraca (PB);40,19
+MU;2509339;Matinhas (PB);113,34
+MU;2509370;Mato Grosso (PB);32,35
+MU;2509396;Maturéia (PB);70,97
+MU;2509404;Mogeiro (PB);64,41
+MU;2509503;Montadas (PB);157,98
+MU;2509602;Monte Horebe (PB);38,8
+MU;2509701;Monteiro (PB);31,28
+MU;2509800;Mulungu (PB);48,48
+MU;2509909;Natuba (PB);51,53
+MU;2510006;Nazarezinho (PB);38,02
+MU;2510105;Nova Floresta (PB);222,31
+MU;2510204;Nova Olinda (PB);72,04
+MU;2510303;Nova Palmeira (PB);14,05
+MU;2510402;Olho d'Água (PB);11,63
+MU;2510501;Olivedos (PB);11,41
+MU;2510600;Ouro Velho (PB);22,63
+MU;2510659;Parari (PB);9,78
+MU;2510709;Passagem (PB);19,96
+MU;2510808;Patos (PB);212,82
+MU;2510907;Paulista (PB);20,43
+MU;2511004;Pedra Branca (PB);32,95
+MU;2511103;Pedra Lavrada (PB);21,26
+MU;2511202;Pedras de Fogo (PB);67,51
+MU;2511301;Piancó (PB);27,38
+MU;2511400;Picuí (PB);27,54
+MU;2511509;Pilar (PB);109,29
+MU;2511608;Pilões (PB);108,28
+MU;2511707;Pilõezinhos (PB);117,42
+MU;2511806;Pirpirituba (PB);129,33
+MU;2511905;Pitimbu (PB);124,78
+MU;2512002;Pocinhos (PB);27,12
+MU;2512036;Poço Dantas (PB);38,57
+MU;2512077;Poço de José de Moura (PB);39,4
+MU;2512101;Pombal (PB);36,13
+MU;2512200;Prata (PB);20,07
+MU;2512309;Princesa Isabel (PB);57,84
+MU;2512408;Puxinanã (PB);177,81
+MU;2512507;Queimadas (PB);102,17
+MU;2512606;Quixaba (PB);10,84
+MU;2512705;Remígio (PB);98,77
+MU;2512721;Pedro Régis (PB);78,37
+MU;2512747;Riachão (PB);36,23
+MU;2512754;Riachão do Bacamarte (PB);111,13
+MU;2512762;Riachão do Poço (PB);104,35
+MU;2512788;Riacho de Santo Antônio (PB);18,86
+MU;2512804;Riacho dos Cavalos (PB);31,49
+MU;2512903;Rio Tinto (PB);49,42
+MU;2513000;Salgadinho (PB);19,04
+MU;2513109;Salgado de São Félix (PB);59,33
+MU;2513158;Santa Cecília (PB);29,22
+MU;2513208;Santa Cruz (PB);30,79
+MU;2513307;Santa Helena (PB);25,53
+MU;2513356;Santa Inês (PB);10,91
+MU;2513406;Santa Luzia (PB);32,3
+MU;2513505;Santana de Mangueira (PB);13,26
+MU;2513604;Santana dos Garrotes (PB);20,54
+MU;2513653;Joca Claudino (PB);35,33
+MU;2513703;Santa Rita (PB);165,52
+MU;2513802;Santa Teresinha (PB);12,8
+MU;2513851;Santo André (PB);11,72
+MU;2513901;São Bento (PB);124,41
+MU;2513927;São Bentinho (PB);21,12
+MU;2513943;São Domingos do Cariri (PB);11,06
+MU;2513968;São Domingos (PB);16,88
+MU;2513984;São Francisco (PB);35,39
+MU;2514008;São João do Cariri (PB);6,65
+MU;2514107;São João do Tigre (PB);5,39
+MU;2514206;São José da Lagoa Tapada (PB);22,13
+MU;2514305;São José de Caiana (PB);34,08
+MU;2514404;São José de Espinharas (PB);6,56
+MU;2514453;São José dos Ramos (PB);56,07
+MU;2514503;São José de Piranhas (PB);28,19
+MU;2514552;São José de Princesa (PB);26,7
+MU;2514602;São José do Bonfim (PB);24
+MU;2514651;São José do Brejo do Cruz (PB);6,66
+MU;2514701;São José do Sabugi (PB);19,38
+MU;2514800;São José dos Cordeiros (PB);9,54
+MU;2514909;São Mamede (PB);14,6
+MU;2515005;São Miguel de Taipu (PB);72,37
+MU;2515104;São Sebastião de Lagoa de Roça (PB);221,16
+MU;2515203;São Sebastião do Umbuzeiro (PB);7,02
+MU;2515302;Sapé (PB);158,92
+MU;2515401;São Vicente do Seridó (PB);37
+MU;2515500;Serra Branca (PB);18,89
+MU;2515609;Serra da Raiz (PB);110,17
+MU;2515708;Serra Grande (PB);35,64
+MU;2515807;Serra Redonda (PB);126,11
+MU;2515906;Serraria (PB);95,53
+MU;2515930;Sertãozinho (PB);134
+MU;2515971;Sobrado (PB);119,42
+MU;2516003;Solânea (PB);115,01
+MU;2516102;Soledade (PB);24,53
+MU;2516151;Sossêgo (PB);20,48
+MU;2516201;Sousa (PB);89,1
+MU;2516300;Sumé (PB);19,16
+MU;2516409;Tacima (PB);41,6
+MU;2516508;Taperoá (PB);22,53
+MU;2516607;Tavares (PB);59,42
+MU;2516706;Teixeira (PB);87,96
+MU;2516755;Tenório (PB);26,72
+MU;2516805;Triunfo (PB);41,93
+MU;2516904;Uiraúna (PB);49,52
+MU;2517001;Umbuzeiro (PB);51,28
+MU;2517100;Várzea (PB);13,15
+MU;2517209;Vieirópolis (PB);34,37
+MU;2517407;Zabelê (PB);18,97
+MU;2600054;Abreu e Lima (PE);724,9
+MU;2600104;Afogados da Ingazeira (PE);92,9
+MU;2600203;Afrânio (PE);11,8
+MU;2600302;Agrestina (PE);112,58
+MU;2600401;Água Preta (PE);62,05
+MU;2600500;Águas Belas (PE);45,41
+MU;2600609;Alagoinha (PE);63,16
+MU;2600708;Aliança (PE);137,16
+MU;2600807;Altinho (PE);49,18
+MU;2600906;Amaraji (PE);93,38
+MU;2601003;Angelim (PE);86,43
+MU;2601052;Araçoiaba (PE);196,74
+MU;2601102;Araripina (PE);40,84
+MU;2601201;Arcoverde (PE);196,05
+MU;2601300;Barra de Guabiraba (PE);111,44
+MU;2601409;Barreiros (PE);174,54
+MU;2601508;Belém de Maria (PE);153,96
+MU;2601607;Belém do São Francisco (PE);11,06
+MU;2601706;Belo Jardim (PE);111,83
+MU;2601805;Betânia (PE);9,65
+MU;2601904;Bezerros (PE);119,53
+MU;2602001;Bodocó (PE);21,75
+MU;2602100;Bom Conselho (PE);57,44
+MU;2602209;Bom Jardim (PE);173,17
+MU;2602308;Bonito (PE);94,96
+MU;2602407;Brejão (PE);55,35
+MU;2602506;Brejinho (PE);68,76
+MU;2602605;Brejo da Madre de Deus (PE);59,26
+MU;2602704;Buenos Aires (PE);134,54
+MU;2602803;Buíque (PE);38,66
+MU;2602902;Cabo de Santo Agostinho (PE);414,32
+MU;2603009;Cabrobó (PE);18,62
+MU;2603108;Cachoeirinha (PE);104,98
+MU;2603207;Caetés (PE);80,66
+MU;2603306;Calçado (PE);91,23
+MU;2603405;Calumbi (PE);31,5
+MU;2603454;Camaragibe (PE);2821,93
+MU;2603504;Camocim de São Félix (PE);236
+MU;2603603;Camutanga (PE);217,39
+MU;2603702;Canhotinho (PE);57,96
+MU;2603801;Capoeiras (PE);58,26
+MU;2603900;Carnaíba (PE);43,42
+MU;2603926;Carnaubeira da Penha (PE);11,73
+MU;2604007;Carpina (PE);516,51
+MU;2604106;Caruaru (PE);342,07
+MU;2604155;Casinhas (PE);118,81
+MU;2604205;Catende (PE);182,49
+MU;2604304;Cedro (PE);62,79
+MU;2604403;Chã de Alegria (PE);255,98
+MU;2604502;Chã Grande (PE);237,33
+MU;2604601;Condado (PE);270,87
+MU;2604700;Correntes (PE);53
+MU;2604809;Cortês (PE);122,9
+MU;2604908;Cumaru (PE);58,8
+MU;2605004;Cupira (PE);221,58
+MU;2605103;Custódia (PE);24,11
+MU;2605152;Dormentes (PE);11
+MU;2605202;Escada (PE);183,07
+MU;2605301;Exu (PE);23,65
+MU;2605400;Feira Nova (PE);190,96
+MU;2605459;Fernando de Noronha (PE);154,55
+MU;2605509;Ferreiros (PE);127,93
+MU;2605608;Flores (PE);22,27
+MU;2605707;Floresta (PE);8,04
+MU;2605806;Frei Miguelinho (PE);67,2
+MU;2605905;Gameleira (PE);109,05
+MU;2606002;Garanhuns (PE);282,21
+MU;2606101;Glória do Goitá (PE);125,17
+MU;2606200;Goiana (PE);150,72
+MU;2606309;Granito (PE);13,13
+MU;2606408;Gravatá (PE);151,36
+MU;2606507;Iati (PE);28,91
+MU;2606606;Ibimirim (PE);13,79
+MU;2606705;Ibirajuba (PE);39,74
+MU;2606804;Igarassu (PE);333,88
+MU;2606903;Iguaracy (PE);14,05
+MU;2607000;Inajá (PE);16,14
+MU;2607109;Ingazeira (PE);18,45
+MU;2607208;Ipojuca (PE);151,39
+MU;2607307;Ipubi (PE);32,64
+MU;2607406;Itacuruba (PE);10,16
+MU;2607505;Itaíba (PE);24,23
+MU;2607604;Ilha de Itamaracá (PE);328,18
+MU;2607653;Itambé (PE);116,13
+MU;2607703;Itapetim (PE);34,29
+MU;2607752;Itapissuma (PE);320,19
+MU;2607802;Itaquitinga (PE);151,73
+MU;2607901;Jaboatão dos Guararapes (PE);2493,06
+MU;2607950;Jaqueira (PE);131,88
+MU;2608008;Jataúba (PE);23,53
+MU;2608057;Jatobá (PE);50,25
+MU;2608107;João Alfredo (PE);222,34
+MU;2608206;Joaquim Nabuco (PE);129,39
+MU;2608255;Jucati (PE);87,92
+MU;2608305;Jupi (PE);130,54
+MU;2608404;Jurema (PE);98,08
+MU;2608453;Lagoa do Carro (PE);229,77
+MU;2608503;Lagoa de Itaenga (PE);360,65
+MU;2608602;Lagoa do Ouro (PE);61,04
+MU;2608701;Lagoa dos Gatos (PE);70,06
+MU;2608750;Lagoa Grande (PE);12,29
+MU;2608800;Lajedo (PE);193,7
+MU;2608909;Limoeiro (PE);202,53
+MU;2609006;Macaparana (PE);221,43
+MU;2609105;Machados (PE);226,46
+MU;2609154;Manari (PE);47,43
+MU;2609204;Maraial (PE);61,19
+MU;2609303;Mirandiba (PE);17,41
+MU;2609402;Moreno (PE);289,16
+MU;2609501;Nazaré da Mata (PE);204,95
+MU;2609600;Olinda (PE);9068,36
+MU;2609709;Orobó (PE);164,99
+MU;2609808;Orocó (PE);23,76
+MU;2609907;Ouricuri (PE);26,56
+MU;2610004;Palmares (PE);175,44
+MU;2610103;Palmeirina (PE);51,82
+MU;2610202;Panelas (PE);69,14
+MU;2610301;Paranatama (PE);47,65
+MU;2610400;Parnamirim (PE);7,79
+MU;2610509;Passira (PE);87,61
+MU;2610608;Paudalho (PE);185,07
+MU;2610707;Paulista (PE);3086,01
+MU;2610806;Pedra (PE);26,08
+MU;2610905;Pesqueira (PE);63,21
+MU;2611002;Petrolândia (PE);30,75
+MU;2611101;Petrolina (PE);64,49
+MU;2611200;Poção (PE);45,56
+MU;2611309;Pombos (PE);117,84
+MU;2611408;Primavera (PE);121,97
+MU;2611507;Quipapá (PE);104,88
+MU;2611533;Quixaba (PE);31,98
+MU;2611606;Recife (PE);7037,61
+MU;2611705;Riacho das Almas (PE);61,03
+MU;2611804;Ribeirão (PE);154,36
+MU;2611903;Rio Formoso (PE);97,39
+MU;2612000;Sairé (PE);58,85
+MU;2612109;Salgadinho (PE);104,84
+MU;2612208;Salgueiro (PE);33,57
+MU;2612307;Saloá (PE);60,73
+MU;2612406;Sanharó (PE);81,71
+MU;2612455;Santa Cruz (PE);10,82
+MU;2612471;Santa Cruz da Baixa Verde (PE);102,39
+MU;2612505;Santa Cruz do Capibaribe (PE);261,23
+MU;2612554;Santa Filomena (PE);13,3
+MU;2612604;Santa Maria da Boa Vista (PE);13,14
+MU;2612703;Santa Maria do Cambucá (PE);141,31
+MU;2612802;Santa Terezinha (PE);56,2
+MU;2612901;São Benedito do Sul (PE);86,87
+MU;2613008;São Bento do Una (PE);74,03
+MU;2613107;São Caitano (PE);92,23
+MU;2613206;São João (PE);82,5
+MU;2613305;São Joaquim do Monte (PE);88,39
+MU;2613404;São José da Coroa Grande (PE);262,19
+MU;2613503;São José do Belmonte (PE);22,13
+MU;2613602;São José do Egito (PE);39,84
+MU;2613701;São Lourenço da Mata (PE);392,49
+MU;2613800;São Vicente Férrer (PE);149,14
+MU;2613909;Serra Talhada (PE);26,59
+MU;2614006;Serrita (PE);12,1
+MU;2614105;Sertânia (PE);13,95
+MU;2614204;Sirinhaém (PE);109,18
+MU;2614303;Moreilândia (PE);27,52
+MU;2614402;Solidão (PE);41,5
+MU;2614501;Surubim (PE);231,42
+MU;2614600;Tabira (PE);68,11
+MU;2614709;Tacaimbó (PE);55,91
+MU;2614808;Tacaratu (PE);17,45
+MU;2614857;Tamandaré (PE);96,66
+MU;2615003;Taquaritinga do Norte (PE);52,41
+MU;2615102;Terezinha (PE);44,48
+MU;2615201;Terra Nova (PE);28,87
+MU;2615300;Timbaúba (PE);184,16
+MU;2615409;Toritama (PE);1383,21
+MU;2615508;Tracunhaém (PE);110,27
+MU;2615607;Trindade (PE);113,77
+MU;2615706;Triunfo (PE);78,35
+MU;2615805;Tupanatinga (PE);27,62
+MU;2615904;Tuparetama (PE);44,38
+MU;2616001;Venturosa (PE);50,05
+MU;2616100;Verdejante (PE);19,2
+MU;2616183;Vertente do Lério (PE);106,93
+MU;2616209;Vertentes (PE);92,82
+MU;2616308;Vicência (PE);134,78
+MU;2616407;Vitória de Santo Antão (PE);349,58
+MU;2616506;Xexéu (PE);127,18
+MU;2700102;Água Branca (AL);42,62
+MU;2700201;Anadia (AL);91,96
+MU;2700300;Arapiraca (AL);600,84
+MU;2700409;Atalaia (AL);83,82
+MU;2700508;Barra de Santo Antônio (AL);102,79
+MU;2700607;Barra de São Miguel (AL);98,86
+MU;2700706;Batalha (AL);53,21
+MU;2700805;Belém (AL);93,58
+MU;2700904;Belo Monte (AL);21,04
+MU;2701001;Boca da Mata (AL);138,19
+MU;2701100;Branquinha (AL);63,63
+MU;2701209;Cacimbinhas (AL);37,35
+MU;2701308;Cajueiro (AL);164,24
+MU;2701357;Campestre (AL);99,39
+MU;2701407;Campo Alegre (AL);172,2
+MU;2701506;Campo Grande (AL);53,98
+MU;2701605;Canapi (AL);30,02
+MU;2701704;Capela (AL);70,39
+MU;2701803;Carneiros (AL);73,32
+MU;2701902;Chã Preta (AL);41,34
+MU;2702009;Coité do Nóia (AL);123,45
+MU;2702108;Colônia Leopoldina (AL);96,29
+MU;2702207;Coqueiro Seco (AL);139,09
+MU;2702306;Coruripe (AL);56,77
+MU;2702355;Craíbas (AL);83,44
+MU;2702405;Delmiro Gouveia (AL);79,13
+MU;2702504;Dois Riachos (AL);77,45
+MU;2702553;Estrela de Alagoas (AL);66,41
+MU;2702603;Feira Grande (AL);123,42
+MU;2702702;Feliz Deserto (AL);47,31
+MU;2702801;Flexeiras (AL);36,99
+MU;2702900;Girau do Ponciano (AL);73,11
+MU;2703007;Ibateguara (AL);57,1
+MU;2703106;Igaci (AL);75,31
+MU;2703205;Igreja Nova (AL);54,55
+MU;2703304;Inhapi (AL);47,49
+MU;2703403;Jacaré dos Homens (AL);38,03
+MU;2703502;Jacuípe (AL);33,26
+MU;2703601;Japaratinga (AL);90,22
+MU;2703700;Jaramataia (AL);53,59
+MU;2703759;Jequiá da Praia (AL);34,21
+MU;2703809;Joaquim Gomes (AL);75,68
+MU;2703908;Jundiá (AL);45,56
+MU;2704005;Junqueiro (AL);98,66
+MU;2704104;Lagoa da Canoa (AL);206,33
+MU;2704203;Limoeiro de Anadia (AL);85,48
+MU;2704302;Maceió (AL);1854,12
+MU;2704401;Major Isidoro (AL);41,63
+MU;2704500;Maragogi (AL);86,06
+MU;2704609;Maravilha (AL);34,05
+MU;2704708;Marechal Deodoro (AL);138,62
+MU;2704807;Maribondo (AL);78,14
+MU;2704906;Mar Vermelho (AL);39,23
+MU;2705002;Mata Grande (AL);27,2
+MU;2705101;Matriz de Camaragibe (AL);108,12
+MU;2705200;Messias (AL);137,77
+MU;2705309;Minador do Negrão (AL);31,47
+MU;2705408;Monteirópolis (AL);80,54
+MU;2705507;Murici (AL);62,58
+MU;2705606;Novo Lino (AL);51,67
+MU;2705705;Olho d'Água das Flores (AL);111,01
+MU;2705804;Olho d'Água do Casado (AL);26,29
+MU;2705903;Olho d'Água Grande (AL);41,83
+MU;2706000;Olivença (AL);63,87
+MU;2706109;Ouro Branco (AL);53,29
+MU;2706208;Palestina (AL);104,55
+MU;2706307;Palmeira dos Índios (AL);155,44
+MU;2706406;Pão de Açúcar (AL);34,86
+MU;2706422;Pariconha (AL);39,7
+MU;2706448;Paripueira (AL);122,05
+MU;2706505;Passo de Camaragibe (AL);60,39
+MU;2706604;Paulo Jacinto (AL);62,69
+MU;2706703;Penedo (AL);87,61
+MU;2706802;Piaçabuçu (AL);71,68
+MU;2706901;Pilar (AL);133,37
+MU;2707008;Pindoba (AL);24,37
+MU;2707107;Piranhas (AL);56,47
+MU;2707206;Poço das Trincheiras (AL);47,52
+MU;2707305;Porto Calvo (AL);83,49
+MU;2707404;Porto de Pedras (AL);32,71
+MU;2707503;Porto Real do Colégio (AL);79,91
+MU;2707602;Quebrangulo (AL);35,89
+MU;2707701;Rio Largo (AL);223,56
+MU;2707800;Roteiro (AL);51,48
+MU;2707909;Santa Luzia do Norte (AL);232,77
+MU;2708006;Santana do Ipanema (AL);102,61
+MU;2708105;Santana do Mundaú (AL);48,76
+MU;2708204;São Brás (AL);48
+MU;2708303;São José da Laje (AL);88,4
+MU;2708402;São José da Tapera (AL);60,77
+MU;2708501;São Luís do Quitunde (AL);81,61
+MU;2708600;São Miguel dos Campos (AL);151,27
+MU;2708709;São Miguel dos Milagres (AL);93,34
+MU;2708808;São Sebastião (AL);101,59
+MU;2708907;Satuba (AL);342,57
+MU;2708956;Senador Rui Palmeira (AL);38,07
+MU;2709004;Tanque d'Arca (AL);47,27
+MU;2709103;Taquarana (AL);114,55
+MU;2709152;Teotônio Vilela (AL);138,15
+MU;2709202;Traipu (AL);36,82
+MU;2709301;União dos Palmares (AL);148,24
+MU;2709400;Viçosa (AL);74
+MU;2800100;Amparo do São Francisco (SE);64,75
+MU;2800209;Aquidabã (SE);55,82
+MU;2800308;Aracaju (SE);3140,67
+MU;2800407;Arauá (SE);56,44
+MU;2800506;Areia Branca (SE);114,93
+MU;2800605;Barra dos Coqueiros (SE);276,52
+MU;2800670;Boquim (SE);123,98
+MU;2800704;Brejo Grande (SE);52,01
+MU;2801009;Campo do Brito (SE);83,03
+MU;2801108;Canhoba (SE);23,23
+MU;2801207;Canindé de São Francisco (SE);27,36
+MU;2801306;Capela (SE);69,48
+MU;2801405;Carira (SE);31,44
+MU;2801504;Carmópolis (SE);294,15
+MU;2801603;Cedro de São João (SE);67,29
+MU;2801702;Cristinápolis (SE);69,94
+MU;2801900;Cumbe (SE);29,65
+MU;2802007;Divina Pastora (SE);47,13
+MU;2802106;Estância (SE);100
+MU;2802205;Feira Nova (SE);28,79
+MU;2802304;Frei Paulo (SE);34,65
+MU;2802403;Gararu (SE);17,41
+MU;2802502;General Maynard (SE);146,63
+MU;2802601;Gracho Cardoso (SE);23,32
+MU;2802700;Ilha das Flores (SE);152,78
+MU;2802809;Indiaroba (SE);50,49
+MU;2802908;Itabaiana (SE);258,3
+MU;2803005;Itabaianinha (SE);78,88
+MU;2803104;Itabi (SE);26,96
+MU;2803203;Itaporanga d'Ajuda (SE);41,11
+MU;2803302;Japaratuba (SE);46,22
+MU;2803401;Japoatã (SE);31,76
+MU;2803500;Lagarto (SE);97,84
+MU;2803609;Laranjeiras (SE);165,78
+MU;2803708;Macambira (SE);46,74
+MU;2803807;Malhada dos Bois (SE);54,68
+MU;2803906;Malhador (SE);119,3
+MU;2804003;Maruim (SE);174,29
+MU;2804102;Moita Bonita (SE);114,81
+MU;2804201;Monte Alegre de Sergipe (SE);33,45
+MU;2804300;Muribeca (SE);96,81
+MU;2804409;Neópolis (SE);69,58
+MU;2804458;Nossa Senhora Aparecida (SE);25
+MU;2804508;Nossa Senhora da Glória (SE);42,96
+MU;2804607;Nossa Senhora das Dores (SE);50,85
+MU;2804706;Nossa Senhora de Lourdes (SE);76,95
+MU;2804805;Nossa Senhora do Socorro (SE);1025,88
+MU;2804904;Pacatuba (SE);35,14
+MU;2805000;Pedra Mole (SE);36,26
+MU;2805109;Pedrinhas (SE);260,25
+MU;2805208;Pinhão (SE);38,32
+MU;2805307;Pirambu (SE);40,65
+MU;2805406;Poço Redondo (SE);25,06
+MU;2805505;Poço Verde (SE);49,95
+MU;2805604;Porto da Folha (SE);30,94
+MU;2805703;Propriá (SE);307,71
+MU;2805802;Riachão do Dantas (SE);36,48
+MU;2805901;Riachuelo (SE);118,51
+MU;2806008;Ribeirópolis (SE);66,42
+MU;2806107;Rosário do Catete (SE);87,27
+MU;2806206;Salgado (SE);78,14
+MU;2806305;Santa Luzia do Itanhy (SE);39,36
+MU;2806404;Santana do São Francisco (SE);154,27
+MU;2806503;Santa Rosa de Lima (SE);55,45
+MU;2806602;Santo Amaro das Brotas (SE);48,73
+MU;2806701;São Cristóvão (SE);180,52
+MU;2806800;São Domingos (SE);100,23
+MU;2806909;São Francisco (SE);40,46
+MU;2807006;São Miguel do Aleixo (SE);25,66
+MU;2807105;Simão Dias (SE);68,54
+MU;2807204;Siriri (SE);48,27
+MU;2807303;Telha (SE);60,31
+MU;2807402;Tobias Barreto (SE);47,04
+MU;2807501;Tomar do Geru (SE);42,16
+MU;2807600;Umbaúba (SE);185,25
+MU;2900108;Abaíra (BA);15,68
+MU;2900207;Abaré (BA);11,49
+MU;2900306;Acajutiba (BA);75,75
+MU;2900355;Adustina (BA);24,84
+MU;2900405;Água Fria (BA);23,77
+MU;2900504;Érico Cardoso (BA);15,48
+MU;2900603;Aiquara (BA);28,82
+MU;2900702;Alagoinhas (BA);188,66
+MU;2900801;Alcobaça (BA);14,36
+MU;2900900;Almadina (BA);25,32
+MU;2901007;Amargosa (BA);74,16
+MU;2901106;Amélia Rodrigues (BA);145,2
+MU;2901155;América Dourada (BA);19,02
+MU;2901205;Anagé (BA);13,1
+MU;2901304;Andaraí (BA);7,5
+MU;2901353;Andorinha (BA);11,55
+MU;2901403;Angical (BA);9,21
+MU;2901502;Anguera (BA);57,85
+MU;2901601;Antas (BA);53,42
+MU;2901700;Antônio Cardoso (BA);39,24
+MU;2901809;Antônio Gonçalves (BA);35,09
+MU;2901908;Aporá (BA);31,56
+MU;2901957;Apuarema (BA);48,17
+MU;2902005;Aracatu (BA);9,22
+MU;2902054;Araçás (BA);23,73
+MU;2902104;Araci (BA);33,19
+MU;2902203;Aramari (BA);30,45
+MU;2902252;Arataca (BA);27,7
+MU;2902302;Aratuípe (BA);47,47
+MU;2902401;Aurelino Leal (BA);29,7
+MU;2902500;Baianópolis (BA);4,14
+MU;2902609;Baixa Grande (BA);21,19
+MU;2902658;Banzaê (BA);51,99
+MU;2902708;Barra (BA);4,32
+MU;2902807;Barra da Estiva (BA);15,73
+MU;2902906;Barra do Choça (BA);53,8
+MU;2903003;Barra do Mendes (BA);9,08
+MU;2903102;Barra do Rocha (BA);30,3
+MU;2903201;Barreiras (BA);17,49
+MU;2903235;Barro Alto (BA);32,67
+MU;2903276;Barrocas (BA);70,62
+MU;2903300;Barro Preto (BA);50,26
+MU;2903409;Belmonte (BA);11,11
+MU;2903508;Belo Campo (BA);25,47
+MU;2903607;Biritinga (BA);26,97
+MU;2903706;Boa Nova (BA);17,74
+MU;2903805;Boa Vista do Tupim (BA);6,4
+MU;2903904;Bom Jesus da Lapa (BA);15,11
+MU;2903953;Bom Jesus da Serra (BA);23,99
+MU;2904001;Boninal (BA);14,66
+MU;2904050;Bonito (BA);20,42
+MU;2904100;Boquira (BA);14,86
+MU;2904209;Botuporã (BA);17,28
+MU;2904308;Brejões (BA);29,7
+MU;2904407;Brejolândia (BA);4,04
+MU;2904506;Brotas de Macaúbas (BA);4,78
+MU;2904605;Brumado (BA);29,01
+MU;2904704;Buerarema (BA);80,73
+MU;2904753;Buritirama (BA);4,97
+MU;2904803;Caatiba (BA);23,24
+MU;2904852;Cabaceiras do Paraguaçu (BA);76,66
+MU;2904902;Cachoeira (BA);81,04
+MU;2905008;Caculé (BA);33,27
+MU;2905107;Caém (BA);18,91
+MU;2905156;Caetanos (BA);17,61
+MU;2905206;Caetité (BA);19,45
+MU;2905305;Cafarnaum (BA);25,48
+MU;2905404;Cairu (BA);33,35
+MU;2905503;Caldeirão Grande (BA);27,44
+MU;2905602;Camacan (BA);50,22
+MU;2905701;Camaçari (BA);309,65
+MU;2905800;Camamu (BA);38,22
+MU;2905909;Campo Alegre de Lourdes (BA);10,1
+MU;2906006;Campo Formoso (BA);9,18
+MU;2906105;Canápolis (BA);21,52
+MU;2906204;Canarana (BA);41,76
+MU;2906303;Canavieiras (BA);24,37
+MU;2906402;Candeal (BA);19,99
+MU;2906501;Candeias (BA);321,87
+MU;2906600;Candiba (BA);31,6
+MU;2906709;Cândido Sales (BA);17,26
+MU;2906808;Cansanção (BA);24,47
+MU;2906824;Canudos (BA);4,89
+MU;2906857;Capela do Alto Alegre (BA);17,75
+MU;2906873;Capim Grosso (BA);79,06
+MU;2906899;Caraíbas (BA);12,69
+MU;2906907;Caravelas (BA);8,95
+MU;2907004;Cardeal da Silva (BA);40,3
+MU;2907103;Carinhanha (BA);10,37
+MU;2907202;Casa Nova (BA);6,73
+MU;2907301;Castro Alves (BA);35,7
+MU;2907400;Catolândia (BA);4,06
+MU;2907509;Catu (BA);122,72
+MU;2907558;Caturama (BA);13,31
+MU;2907608;Central (BA);28,24
+MU;2907707;Chorrochó (BA);3,57
+MU;2907806;Cícero Dantas (BA);47,99
+MU;2907905;Cipó (BA);122,79
+MU;2908002;Coaraci (BA);74,17
+MU;2908101;Cocos (BA);1,79
+MU;2908200;Conceição da Feira (BA);125,18
+MU;2908309;Conceição do Almeida (BA);61,7
+MU;2908408;Conceição do Coité (BA);61,06
+MU;2908507;Conceição do Jacuípe (BA);256,3
+MU;2908606;Conde (BA);24,48
+MU;2908705;Condeúba (BA);13,14
+MU;2908804;Contendas do Sincorá (BA);4,46
+MU;2908903;Coração de Maria (BA);64,34
+MU;2909000;Cordeiros (BA);15,25
+MU;2909109;Coribe (BA);5,67
+MU;2909208;Coronel João Sá (BA);19,32
+MU;2909307;Correntina (BA);2,62
+MU;2909406;Cotegipe (BA);3,25
+MU;2909505;Cravolândia (BA);31,09
+MU;2909604;Crisópolis (BA);32,99
+MU;2909703;Cristópolis (BA);12,73
+MU;2909802;Cruz das Almas (BA);402,11
+MU;2909901;Curaçá (BA);5,29
+MU;2910008;Dário Meira (BA);28,82
+MU;2910057;Dias d'Ávila (BA);360,64
+MU;2910107;Dom Basílio (BA);16,78
+MU;2910206;Dom Macedo Costa (BA);45,71
+MU;2910305;Elísio Medrado (BA);41,06
+MU;2910404;Encruzilhada (BA);11,99
+MU;2910503;Entre Rios (BA);32,81
+MU;2910602;Esplanada (BA);24,84
+MU;2910701;Euclides da Cunha (BA);25,18
+MU;2910727;Eunápolis (BA);84,98
+MU;2910750;Fátima (BA);49,11
+MU;2910776;Feira da Mata (BA);3,71
+MU;2910800;Feira de Santana (BA);416,03
+MU;2910859;Filadélfia (BA);29,36
+MU;2910909;Firmino Alves (BA);33,15
+MU;2911006;Floresta Azul (BA);36,33
+MU;2911105;Formosa do Rio Preto (BA);1,37
+MU;2911204;Gandu (BA);124,76
+MU;2911253;Gavião (BA);12,33
+MU;2911303;Gentio do Ouro (BA);2,87
+MU;2911402;Glória (BA);12,01
+MU;2911501;Gongogi (BA);42,28
+MU;2911600;Governador Mangabeira (BA);186,41
+MU;2911659;Guajeru (BA);11,12
+MU;2911709;Guanambi (BA);60,8
+MU;2911808;Guaratinga (BA);9,53
+MU;2911857;Heliópolis (BA);42,22
+MU;2911907;Iaçu (BA);10,5
+MU;2912004;Ibiassucê (BA);23,58
+MU;2912103;Ibicaraí (BA);104,65
+MU;2912202;Ibicoara (BA);20,33
+MU;2912301;Ibicuí (BA);13,41
+MU;2912400;Ibipeba (BA);12,29
+MU;2912509;Ibipitanga (BA);14,85
+MU;2912608;Ibiquera (BA);5,15
+MU;2912707;Ibirapitanga (BA);50,53
+MU;2912806;Ibirapuã (BA);10,1
+MU;2912905;Ibirataia (BA);64,24
+MU;2913002;Ibitiara (BA);8,39
+MU;2913101;Ibititá (BA);28,58
+MU;2913200;Ibotirama (BA);14,76
+MU;2913309;Ichu (BA);41,16
+MU;2913408;Igaporã (BA);18,26
+MU;2913457;Igrapiúna (BA);25,31
+MU;2913507;Iguaí (BA);31,05
+MU;2913606;Ilhéus (BA);104,68
+MU;2913705;Inhambupe (BA);29,7
+MU;2913804;Ipecaetá (BA);41,45
+MU;2913903;Ipiaú (BA);166,05
+MU;2914000;Ipirá (BA);19,47
+MU;2914109;Ipupiara (BA);8,75
+MU;2914208;Irajuba (BA);16,93
+MU;2914307;Iramaia (BA);6,16
+MU;2914406;Iraquara (BA);21,96
+MU;2914505;Irará (BA);98,87
+MU;2914604;Irecê (BA);207,45
+MU;2914653;Itabela (BA);33,37
+MU;2914703;Itaberaba (BA);26,3
+MU;2914802;Itabuna (BA);473,5
+MU;2914901;Itacaré (BA);32,96
+MU;2915007;Itaeté (BA);12,35
+MU;2915106;Itagi (BA);50,36
+MU;2915205;Itagibá (BA);19,26
+MU;2915304;Itagimirim (BA);8,47
+MU;2915353;Itaguaçu da Bahia (BA);2,97
+MU;2915403;Itaju do Colônia (BA);5,98
+MU;2915502;Itajuípe (BA);74,11
+MU;2915601;Itamaraju (BA);27,73
+MU;2915700;Itamari (BA);71,14
+MU;2915809;Itambé (BA);16,02
+MU;2915908;Itanagra (BA);15,49
+MU;2916005;Itanhém (BA);13,81
+MU;2916104;Itaparica (BA);175,58
+MU;2916203;Itapé (BA);23,94
+MU;2916302;Itapebi (BA);10,44
+MU;2916401;Itapetinga (BA);41,95
+MU;2916500;Itapicuru (BA);20,35
+MU;2916609;Itapitanga (BA);24,99
+MU;2916708;Itaquara (BA);23,77
+MU;2916807;Itarantim (BA);10,27
+MU;2916856;Itatim (BA);24,89
+MU;2916906;Itiruçu (BA);40,46
+MU;2917003;Itiúba (BA);20,96
+MU;2917102;Itororó (BA);63,5
+MU;2917201;Ituaçu (BA);14,9
+MU;2917300;Ituberá (BA);63,73
+MU;2917334;Iuiu (BA);7,34
+MU;2917359;Jaborandi (BA);0,94
+MU;2917409;Jacaraci (BA);11,05
+MU;2917508;Jacobina (BA);33,58
+MU;2917607;Jaguaquara (BA);54,95
+MU;2917706;Jaguarari (BA);12,35
+MU;2917805;Jaguaripe (BA);18,32
+MU;2917904;Jandaíra (BA);16,11
+MU;2918001;Jequié (BA);47,07
+MU;2918100;Jeremoabo (BA);8,09
+MU;2918209;Jiquiriçá (BA);58,97
+MU;2918308;Jitaúna (BA);64,48
+MU;2918357;João Dourado (BA);24,65
+MU;2918407;Juazeiro (BA);30,45
+MU;2918456;Jucuruçu (BA);7,36
+MU;2918506;Jussara (BA);15,87
+MU;2918555;Jussari (BA);18,14
+MU;2918605;Jussiape (BA);13,72
+MU;2918704;Lafaiete Coutinho (BA);9,63
+MU;2918753;Lagoa Real (BA);15,88
+MU;2918803;Laje (BA);48,5
+MU;2918902;Lajedão (BA);6,06
+MU;2919009;Lajedinho (BA);5,07
+MU;2919058;Lajedo do Tabocal (BA);19,23
+MU;2919108;Lamarão (BA);54,84
+MU;2919157;Lapão (BA);42,57
+MU;2919207;Lauro de Freitas (BA);2833,43
+MU;2919306;Lençóis (BA);8,12
+MU;2919405;Licínio de Almeida (BA);14,6
+MU;2919504;Livramento de Nossa Senhora (BA);19,99
+MU;2919553;Luís Eduardo Magalhães (BA);15,25
+MU;2919603;Macajuba (BA);17,27
+MU;2919702;Macarani (BA);13,28
+MU;2919801;Macaúbas (BA);15,71
+MU;2919900;Macururé (BA);3,52
+MU;2919926;Madre de Deus (BA);539,58
+MU;2919959;Maetinga (BA);10,32
+MU;2920007;Maiquinique (BA);17,85
+MU;2920106;Mairi (BA);20,29
+MU;2920205;Malhada (BA);7,97
+MU;2920304;Malhada de Pedras (BA);16,01
+MU;2920403;Manoel Vitorino (BA);6,38
+MU;2920452;Mansidão (BA);3,96
+MU;2920502;Maracás (BA);10,92
+MU;2920601;Maragogipe (BA);97,27
+MU;2920700;Maraú (BA);23,2
+MU;2920809;Marcionílio Souza (BA);8,22
+MU;2920908;Mascote (BA);18,95
+MU;2921005;Mata de São João (BA);63,46
+MU;2921054;Matina (BA);14,37
+MU;2921104;Medeiros Neto (BA);17,4
+MU;2921203;Miguel Calmon (BA);16,88
+MU;2921302;Milagres (BA);36,24
+MU;2921401;Mirangaba (BA);9,59
+MU;2921450;Mirante (BA);9,9
+MU;2921500;Monte Santo (BA);16,42
+MU;2921609;Morpará (BA);4,88
+MU;2921708;Morro do Chapéu (BA);6,12
+MU;2921807;Mortugaba (BA);20,38
+MU;2921906;Mucugê (BA);4,3
+MU;2922003;Mucuri (BA);20,23
+MU;2922052;Mulungu do Morro (BA);21,64
+MU;2922102;Mundo Novo (BA);16,33
+MU;2922201;Muniz Ferreira (BA);66,45
+MU;2922250;Muquém do São Francisco (BA);2,82
+MU;2922300;Muritiba (BA);323,58
+MU;2922409;Mutuípe (BA);75,74
+MU;2922508;Nazaré (BA);107,47
+MU;2922607;Nilo Peçanha (BA);31,38
+MU;2922656;Nordestina (BA);26,82
+MU;2922706;Nova Canaã (BA);19,58
+MU;2922730;Nova Fátima (BA);21,73
+MU;2922755;Nova Ibiá (BA);37,19
+MU;2922805;Nova Itarana (BA);15,8
+MU;2922854;Nova Redenção (BA);18,63
+MU;2922904;Nova Soure (BA);25,4
+MU;2923001;Nova Viçosa (BA);29,15
+MU;2923035;Novo Horizonte (BA);17,52
+MU;2923050;Novo Triunfo (BA);59,86
+MU;2923100;Olindina (BA);46
+MU;2923209;Oliveira dos Brejinhos (BA);6,21
+MU;2923308;Ouriçangas (BA);53,5
+MU;2923357;Ourolândia (BA);11,04
+MU;2923407;Palmas de Monte Alto (BA);8,23
+MU;2923506;Palmeiras (BA);12,79
+MU;2923605;Paramirim (BA);17,95
+MU;2923704;Paratinga (BA);11,28
+MU;2923803;Paripiranga (BA);63,75
+MU;2923902;Pau Brasil (BA);17,89
+MU;2924009;Paulo Afonso (BA);68,62
+MU;2924058;Pé de Serra (BA);22,32
+MU;2924108;Pedrão (BA);43,03
+MU;2924207;Pedro Alexandre (BA);18,96
+MU;2924306;Piatã (BA);10,49
+MU;2924405;Pilão Arcado (BA);2,8
+MU;2924504;Pindaí (BA);25,45
+MU;2924603;Pindobaçu (BA);40,54
+MU;2924652;Pintadas (BA);18,96
+MU;2924678;Piraí do Norte (BA);52,32
+MU;2924702;Piripá (BA);29,08
+MU;2924801;Piritiba (BA);22,96
+MU;2924900;Planaltino (BA);9,52
+MU;2925006;Planalto (BA);25,46
+MU;2925105;Poções (BA);54,08
+MU;2925204;Pojuca (BA);113,98
+MU;2925253;Ponto Novo (BA);31,65
+MU;2925303;Porto Seguro (BA);52,7
+MU;2925402;Potiraguá (BA);9,95
+MU;2925501;Prado (BA);15,87
+MU;2925600;Presidente Dutra (BA);84,07
+MU;2925709;Presidente Jânio Quadros (BA);11,52
+MU;2925758;Presidente Tancredo Neves (BA);57,16
+MU;2925808;Queimadas (BA);12,15
+MU;2925907;Quijingue (BA);20,27
+MU;2925931;Quixabeira (BA);24,64
+MU;2925956;Rafael Jambeiro (BA);18,77
+MU;2926004;Remanso (BA);8,32
+MU;2926103;Retirolândia (BA);66,43
+MU;2926202;Riachão das Neves (BA);3,87
+MU;2926301;Riachão do Jacuípe (BA);27,87
+MU;2926400;Riacho de Santana (BA);11,87
+MU;2926509;Ribeira do Amparo (BA);22,22
+MU;2926608;Ribeira do Pombal (BA);60,25
+MU;2926657;Ribeirão do Largo (BA);6,77
+MU;2926707;Rio de Contas (BA);12,23
+MU;2926806;Rio do Antônio (BA);18,19
+MU;2926905;Rio do Pires (BA);14,54
+MU;2927002;Rio Real (BA);51,84
+MU;2927101;Rodelas (BA);2,85
+MU;2927200;Ruy Barbosa (BA);13,76
+MU;2927309;Salinas da Margarida (BA);89,81
+MU;2927408;Salvador (BA);3859,35
+MU;2927507;Santa Bárbara (BA);55,15
+MU;2927606;Santa Brígida (BA);17,06
+MU;2927705;Santa Cruz Cabrália (BA);16,81
+MU;2927804;Santa Cruz da Vitória (BA);22,38
+MU;2927903;Santa Inês (BA);32,83
+MU;2928000;Santaluz (BA);21,7
+MU;2928059;Santa Luzia (BA);17,22
+MU;2928109;Santa Maria da Vitória (BA);20,49
+MU;2928208;Santana (BA);13,6
+MU;2928307;Santanópolis (BA);38,02
+MU;2928406;Santa Rita de Cássia (BA);4,39
+MU;2928505;Santa Terezinha (BA);13,64
+MU;2928604;Santo Amaro (BA);117,26
+MU;2928703;Santo Antônio de Jesus (BA);348,14
+MU;2928802;Santo Estêvão (BA);131,92
+MU;2928901;São Desidério (BA);1,82
+MU;2928950;São Domingos (BA);28,22
+MU;2929008;São Félix (BA);142,11
+MU;2929057;São Félix do Coribe (BA);13,74
+MU;2929107;São Felipe (BA);98,57
+MU;2929206;São Francisco do Conde (BA);126,24
+MU;2929255;São Gabriel (BA);15,36
+MU;2929305;São Gonçalo dos Campos (BA);110,67
+MU;2929354;São José da Vitória (BA);78,83
+MU;2929370;São José do Jacuípe (BA);25,07
+MU;2929404;São Miguel das Matas (BA);48,57
+MU;2929503;São Sebastião do Passé (BA);78,3
+MU;2929602;Sapeaçu (BA);141,51
+MU;2929701;Sátiro Dias (BA);18,78
+MU;2929750;Saubara (BA);68,51
+MU;2929800;Saúde (BA);23,49
+MU;2929909;Seabra (BA);16,6
+MU;2930006;Sebastião Laranjeiras (BA);5,32
+MU;2930105;Senhor do Bonfim (BA);89,93
+MU;2930154;Serra do Ramalho (BA);12,2
+MU;2930204;Sento Sé (BA);2,95
+MU;2930303;Serra Dourada (BA);13,45
+MU;2930402;Serra Preta (BA);28,71
+MU;2930501;Serrinha (BA);116,5
+MU;2930600;Serrolândia (BA);41,73
+MU;2930709;Simões Filho (BA);586,65
+MU;2930758;Sítio do Mato (BA);6,88
+MU;2930766;Sítio do Quinto (BA);17,94
+MU;2930774;Sobradinho (BA);17,76
+MU;2930808;Souto Soares (BA);16,01
+MU;2930907;Tabocas do Brejo Velho (BA);8,31
+MU;2931004;Tanhaçu (BA);16,21
+MU;2931053;Tanque Novo (BA);22,31
+MU;2931103;Tanquinho (BA);36,42
+MU;2931202;Taperoá (BA);45,64
+MU;2931301;Tapiramutá (BA);24,88
+MU;2931350;Teixeira de Freitas (BA);118,86
+MU;2931400;Teodoro Sampaio (BA);34,1
+MU;2931509;Teofilândia (BA);64,02
+MU;2931608;Teolândia (BA);46,68
+MU;2931707;Terra Nova (BA);64,36
+MU;2931806;Tremedal (BA);10,14
+MU;2931905;Tucano (BA);18,73
+MU;2932002;Uauá (BA);8
+MU;2932101;Ubaíra (BA);27,19
+MU;2932200;Ubaitaba (BA);115,71
+MU;2932309;Ubatã (BA);93,22
+MU;2932408;Uibaí (BA);24,73
+MU;2932457;Umburanas (BA);10,18
+MU;2932507;Una (BA);20,48
+MU;2932606;Urandi (BA);16,99
+MU;2932705;Uruçuca (BA);50,61
+MU;2932804;Utinga (BA);28,47
+MU;2932903;Valença (BA);74,35
+MU;2933000;Valente (BA);63,9
+MU;2933059;Várzea da Roça (BA);26,83
+MU;2933109;Várzea do Poço (BA);42,27
+MU;2933158;Várzea Nova (BA);10,96
+MU;2933174;Varzedo (BA);40,16
+MU;2933208;Vera Cruz (BA);125,33
+MU;2933257;Vereda (BA);7,78
+MU;2933307;Vitória da Conquista (BA);90,11
+MU;2933406;Wagner (BA);21,34
+MU;2933455;Wanderley (BA);4,22
+MU;2933505;Wenceslau Guimarães (BA);32,92
+MU;2933604;Xique-Xique (BA);8,28
+MU;3100104;Abadia dos Dourados (MG);7,61
+MU;3100203;Abaeté (MG);12,49
+MU;3100302;Abre Campo (MG);28,29
+MU;3100401;Acaiaca (MG);38,47
+MU;3100500;Açucena (MG);12,6
+MU;3100609;Água Boa (MG);11,51
+MU;3100708;Água Comprida (MG);4,12
+MU;3100807;Aguanil (MG);17,47
+MU;3100906;Águas Formosas (MG);22,53
+MU;3101003;Águas Vermelhas (MG);10,11
+MU;3101102;Aimorés (MG);18,5
+MU;3101201;Aiuruoca (MG);9,48
+MU;3101300;Alagoa (MG);16,79
+MU;3101409;Albertina (MG);50,22
+MU;3101508;Além Paraíba (MG);67,3
+MU;3101607;Alfenas (MG);86,75
+MU;3101631;Alfredo Vasconcelos (MG);46,44
+MU;3101706;Almenara (MG);16,9
+MU;3101805;Alpercata (MG);42,95
+MU;3101904;Alpinópolis (MG);40,66
+MU;3102001;Alterosa (MG);37,89
+MU;3102050;Alto Caparaó (MG);51,08
+MU;3102100;Alto Rio Doce (MG);23,47
+MU;3102209;Alvarenga (MG);15,98
+MU;3102308;Alvinópolis (MG);25,46
+MU;3102407;Alvorada de Minas (MG);9,48
+MU;3102506;Amparo do Serra (MG);34,63
+MU;3102605;Andradas (MG);79,4
+MU;3102704;Cachoeira de Pajeú (MG);12,88
+MU;3102803;Andrelândia (MG);12,11
+MU;3102852;Angelândia (MG);43,21
+MU;3102902;Antônio Carlos (MG);20,97
+MU;3103009;Antônio Dias (MG);12,15
+MU;3103108;Antônio Prado de Minas (MG);19,94
+MU;3103207;Araçaí (MG);12,02
+MU;3103306;Aracitaba (MG);19,3
+MU;3103405;Araçuaí (MG);16,1
+MU;3103504;Araguari (MG);40,23
+MU;3103603;Arantina (MG);31,57
+MU;3103702;Araponga (MG);26,83
+MU;3103751;Araporã (MG);20,77
+MU;3103801;Arapuá (MG);15,96
+MU;3103900;Araújos (MG);32,08
+MU;3104007;Araxá (MG);80,45
+MU;3104106;Arceburgo (MG);58,38
+MU;3104205;Arcos (MG);71,78
+MU;3104304;Areado (MG);48,5
+MU;3104403;Argirita (MG);18,2
+MU;3104452;Aricanduva (MG);19,6
+MU;3104502;Arinos (MG);3,35
+MU;3104601;Astolfo Dutra (MG);82,13
+MU;3104700;Ataléia (MG);7,87
+MU;3104809;Augusto de Lima (MG);3,95
+MU;3104908;Baependi (MG);24,39
+MU;3105004;Baldim (MG);14,23
+MU;3105103;Bambuí (MG);15,62
+MU;3105202;Bandeira (MG);10,31
+MU;3105301;Bandeira do Sul (MG);113,41
+MU;3105400;Barão de Cocais (MG);83,51
+MU;3105509;Barão de Monte Alto (MG);28,84
+MU;3105608;Barbacena (MG);166,34
+MU;3105707;Barra Longa (MG);16,01
+MU;3105905;Barroso (MG);238,81
+MU;3106002;Bela Vista de Minas (MG);91,66
+MU;3106101;Belmiro Braga (MG);8,66
+MU;3106200;Belo Horizonte (MG);7167,02
+MU;3106309;Belo Oriente (MG);69,86
+MU;3106408;Belo Vale (MG);20,59
+MU;3106507;Berilo (MG);20,95
+MU;3106606;Bertópolis (MG);10,51
+MU;3106655;Berizal (MG);8,94
+MU;3106705;Betim (MG);1102,8
+MU;3106804;Bias Fortes (MG);13,38
+MU;3106903;Bicas (MG);97,46
+MU;3107000;Biquinhas (MG);5,73
+MU;3107109;Boa Esperança (MG);44,75
+MU;3107208;Bocaina de Minas (MG);9,94
+MU;3107307;Bocaiúva (MG);14,45
+MU;3107406;Bom Despacho (MG);37,28
+MU;3107505;Bom Jardim de Minas (MG);15,78
+MU;3107604;Bom Jesus da Penha (MG);18,66
+MU;3107703;Bom Jesus do Amparo (MG);28,07
+MU;3107802;Bom Jesus do Galho (MG);25,94
+MU;3107901;Bom Repouso (MG);45,5
+MU;3108008;Bom Sucesso (MG);24,46
+MU;3108107;Bonfim (MG);22,59
+MU;3108206;Bonfinópolis de Minas (MG);3,28
+MU;3108255;Bonito de Minas (MG);2,48
+MU;3108305;Borda da Mata (MG);56,85
+MU;3108404;Botelhos (MG);44,66
+MU;3108503;Botumirim (MG);4,14
+MU;3108552;Brasilândia de Minas (MG);5,67
+MU;3108602;Brasília de Minas (MG);22,3
+MU;3108701;Brás Pires (MG);20,76
+MU;3108800;Braúnas (MG);13,3
+MU;3108909;Brazópolis (MG);39,87
+MU;3109006;Brumadinho (MG);53,13
+MU;3109105;Bueno Brandão (MG);30,58
+MU;3109204;Buenópolis (MG);6,43
+MU;3109253;Bugre (MG);24,66
+MU;3109303;Buritis (MG);4,35
+MU;3109402;Buritizeiro (MG);3,73
+MU;3109451;Cabeceira Grande (MG);6,26
+MU;3109501;Cabo Verde (MG);37,54
+MU;3109600;Cachoeira da Prata (MG);59,53
+MU;3109709;Cachoeira de Minas (MG);36,27
+MU;3109808;Cachoeira Dourada (MG);12,47
+MU;3109907;Caetanópolis (MG);65,48
+MU;3110004;Caeté (MG);75,11
+MU;3110103;Caiana (MG);46,67
+MU;3110202;Cajuri (MG);48,74
+MU;3110301;Caldas (MG);19,16
+MU;3110400;Camacho (MG);14,14
+MU;3110509;Camanducaia (MG);39,89
+MU;3110608;Cambuí (MG);108,31
+MU;3110707;Cambuquira (MG);51,15
+MU;3110806;Campanário (MG);8,06
+MU;3110905;Campanha (MG);45,99
+MU;3111002;Campestre (MG);35,8
+MU;3111101;Campina Verde (MG);5,29
+MU;3111150;Campo Azul (MG);7,28
+MU;3111200;Campo Belo (MG);97,58
+MU;3111309;Campo do Meio (MG);41,67
+MU;3111408;Campo Florido (MG);5,43
+MU;3111507;Campos Altos (MG);19,99
+MU;3111606;Campos Gerais (MG);35,87
+MU;3111705;Canaã (MG);26,46
+MU;3111804;Canápolis (MG);13,53
+MU;3111903;Cana Verde (MG);26,27
+MU;3112000;Candeias (MG);20,26
+MU;3112059;Cantagalo (MG);29,57
+MU;3112109;Caparaó (MG);39,86
+MU;3112208;Capela Nova (MG);42,81
+MU;3112307;Capelinha (MG);36,05
+MU;3112406;Capetinga (MG);23,79
+MU;3112505;Capim Branco (MG);93,16
+MU;3112604;Capinópolis (MG);24,63
+MU;3112653;Capitão Andrade (MG);17,65
+MU;3112703;Capitão Enéas (MG);14,62
+MU;3112802;Capitólio (MG);15,68
+MU;3112901;Caputira (MG);48,11
+MU;3113008;Caraí (MG);17,99
+MU;3113107;Caranaíba (MG);20,56
+MU;3113206;Carandaí (MG);48,06
+MU;3113305;Carangola (MG);91,39
+MU;3113404;Caratinga (MG);67,72
+MU;3113503;Carbonita (MG);6,28
+MU;3113602;Careaçu (MG);34,79
+MU;3113701;Carlos Chagas (MG);6,27
+MU;3113800;Carmésia (MG);9,44
+MU;3113909;Carmo da Cachoeira (MG);23,38
+MU;3114006;Carmo da Mata (MG);30,59
+MU;3114105;Carmo de Minas (MG);42,66
+MU;3114204;Carmo do Cajuru (MG);43,9
+MU;3114303;Carmo do Paranaíba (MG);22,74
+MU;3114402;Carmo do Rio Claro (MG);19,17
+MU;3114501;Carmópolis de Minas (MG);42,62
+MU;3114550;Carneirinho (MG);4,59
+MU;3114600;Carrancas (MG);5,42
+MU;3114709;Carvalhópolis (MG);41,2
+MU;3114808;Carvalhos (MG);16,14
+MU;3114907;Casa Grande (MG);14,23
+MU;3115003;Cascalho Rico (MG);7,78
+MU;3115102;Cássia (MG);26,15
+MU;3115201;Conceição da Barra de Minas (MG);14,48
+MU;3115300;Cataguases (MG);141,85
+MU;3115359;Catas Altas (MG);20,19
+MU;3115409;Catas Altas da Noruega (MG);24,45
+MU;3115458;Catuji (MG);15,99
+MU;3115474;Catuti (MG);17,73
+MU;3115508;Caxambu (MG);216,01
+MU;3115607;Cedro do Abaeté (MG);4,27
+MU;3115706;Central de Minas (MG);33,14
+MU;3115805;Centralina (MG);31,38
+MU;3115904;Chácara (MG);18,27
+MU;3116001;Chalé (MG);26,54
+MU;3116100;Chapada do Norte (MG);18,28
+MU;3116159;Chapada Gaúcha (MG);3,32
+MU;3116209;Chiador (MG);11,01
+MU;3116308;Cipotânea (MG);42,66
+MU;3116407;Claraval (MG);19,95
+MU;3116506;Claro dos Poções (MG);10,79
+MU;3116605;Cláudio (MG);40,86
+MU;3116704;Coimbra (MG);66
+MU;3116803;Coluna (MG);25,89
+MU;3116902;Comendador Gomes (MG);2,85
+MU;3117009;Comercinho (MG);12,67
+MU;3117108;Conceição da Aparecida (MG);27,86
+MU;3117207;Conceição das Pedras (MG);26,9
+MU;3117306;Conceição das Alagoas (MG);17,19
+MU;3117405;Conceição de Ipanema (MG);17,55
+MU;3117504;Conceição do Mato Dentro (MG);10,37
+MU;3117603;Conceição do Pará (MG);20,6
+MU;3117702;Conceição do Rio Verde (MG);35,03
+MU;3117801;Conceição dos Ouros (MG);56,77
+MU;3117836;Cônego Marinho (MG);4,32
+MU;3117876;Confins (MG);140,15
+MU;3117900;Congonhal (MG);51,03
+MU;3118007;Congonhas (MG);159,57
+MU;3118106;Congonhas do Norte (MG);12,39
+MU;3118205;Conquista (MG);10,55
+MU;3118304;Conselheiro Lafaiete (MG);314,69
+MU;3118403;Conselheiro Pena (MG);14,99
+MU;3118502;Consolação (MG);19,99
+MU;3118601;Contagem (MG);3090,33
+MU;3118700;Coqueiral (MG);31,36
+MU;3118809;Coração de Jesus (MG);11,7
+MU;3118908;Cordisburgo (MG);10,52
+MU;3119005;Cordislândia (MG);19,13
+MU;3119104;Corinto (MG);9,47
+MU;3119203;Coroaci (MG);17,82
+MU;3119302;Coromandel (MG);8,31
+MU;3119401;Coronel Fabriciano (MG);468,67
+MU;3119500;Coronel Murta (MG);11,18
+MU;3119609;Coronel Pacheco (MG);22,68
+MU;3119708;Coronel Xavier Chaves (MG);23,42
+MU;3119807;Córrego Danta (MG);5,16
+MU;3119906;Córrego do Bom Jesus (MG);30,17
+MU;3119955;Córrego Fundo (MG);57,26
+MU;3120003;Córrego Novo (MG);15,23
+MU;3120102;Couto de Magalhães de Minas (MG);8,66
+MU;3120151;Crisólita (MG);6,26
+MU;3120201;Cristais (MG);17,96
+MU;3120300;Cristália (MG);6,85
+MU;3120409;Cristiano Otoni (MG);37,68
+MU;3120508;Cristina (MG);32,79
+MU;3120607;Crucilândia (MG);28,46
+MU;3120706;Cruzeiro da Fortaleza (MG);20,91
+MU;3120805;Cruzília (MG);27,93
+MU;3120839;Cuparaque (MG);20,64
+MU;3120870;Curral de Dentro (MG);12,17
+MU;3120904;Curvelo (MG);22,5
+MU;3121001;Datas (MG);16,8
+MU;3121100;Delfim Moreira (MG);19,51
+MU;3121209;Delfinópolis (MG);4,95
+MU;3121258;Delta (MG);78,66
+MU;3121308;Descoberto (MG);22,37
+MU;3121407;Desterro de Entre Rios (MG);18,56
+MU;3121506;Desterro do Melo (MG);21,19
+MU;3121605;Diamantina (MG);11,79
+MU;3121704;Diogo de Vasconcelos (MG);23,31
+MU;3121803;Dionísio (MG);25,37
+MU;3121902;Divinésia (MG);28,15
+MU;3122009;Divino (MG);56,64
+MU;3122108;Divino das Laranjeiras (MG);14,43
+MU;3122207;Divinolândia de Minas (MG);52,76
+MU;3122306;Divinópolis (MG);300,82
+MU;3122355;Divisa Alegre (MG);49,95
+MU;3122405;Divisa Nova (MG);26,56
+MU;3122454;Divisópolis (MG);15,66
+MU;3122470;Dom Bosco (MG);4,67
+MU;3122504;Dom Cavati (MG);87,52
+MU;3122603;Dom Joaquim (MG);11,37
+MU;3122702;Dom Silvério (MG);26,65
+MU;3122801;Dom Viçoso (MG);26,28
+MU;3122900;Dona Eusébia (MG);85,45
+MU;3123007;Dores de Campos (MG);74,49
+MU;3123106;Dores de Guanhães (MG);13,67
+MU;3123205;Dores do Indaiá (MG);12,4
+MU;3123304;Dores do Turvo (MG);19,3
+MU;3123403;Doresópolis (MG);9,42
+MU;3123502;Douradoquara (MG);5,88
+MU;3123528;Durandé (MG);34,13
+MU;3123601;Elói Mendes (MG);50,49
+MU;3123700;Engenheiro Caldas (MG);54,96
+MU;3123809;Engenheiro Navarro (MG);11,71
+MU;3123858;Entre Folhas (MG);60,73
+MU;3123908;Entre Rios de Minas (MG);31,18
+MU;3124005;Ervália (MG);50,2
+MU;3124104;Esmeraldas (MG);66,13
+MU;3124203;Espera Feliz (MG);71,96
+MU;3124302;Espinosa (MG);16,65
+MU;3124401;Espírito Santo do Dourado (MG);16,78
+MU;3124500;Estiva (MG);44,47
+MU;3124609;Estrela Dalva (MG);18,8
+MU;3124708;Estrela do Indaiá (MG);5,53
+MU;3124807;Estrela do Sul (MG);9,05
+MU;3124906;Eugenópolis (MG);34,07
+MU;3125002;Ewbank da Câmara (MG);36,14
+MU;3125101;Extrema (MG);116,93
+MU;3125200;Fama (MG);27,32
+MU;3125309;Faria Lemos (MG);20,43
+MU;3125408;Felício dos Santos (MG);14,38
+MU;3125507;São Gonçalo do Rio Preto (MG);9,72
+MU;3125606;Felisburgo (MG);11,53
+MU;3125705;Felixlândia (MG);9,08
+MU;3125804;Fernandes Tourinho (MG);19,95
+MU;3125903;Ferros (MG);9,95
+MU;3125952;Fervedouro (MG);28,93
+MU;3126000;Florestal (MG);34,48
+MU;3126109;Formiga (MG);43,36
+MU;3126208;Formoso (MG);2,22
+MU;3126307;Fortaleza de Minas (MG);18,73
+MU;3126406;Fortuna de Minas (MG);13,61
+MU;3126505;Francisco Badaró (MG);22,21
+MU;3126604;Francisco Dumont (MG);3,09
+MU;3126703;Francisco Sá (MG);9,07
+MU;3126752;Franciscópolis (MG);8,09
+MU;3126802;Frei Gaspar (MG);9,38
+MU;3126901;Frei Inocêncio (MG);19
+MU;3126950;Frei Lagonegro (MG);19,88
+MU;3127008;Fronteira (MG);70,21
+MU;3127057;Fronteira dos Vales (MG);14,61
+MU;3127073;Fruta de Leite (MG);7,79
+MU;3127107;Frutal (MG);22,03
+MU;3127206;Funilândia (MG);19,29
+MU;3127305;Galiléia (MG);9,65
+MU;3127339;Gameleiras (MG);2,97
+MU;3127354;Glaucilândia (MG);20,31
+MU;3127370;Goiabeira (MG);27,15
+MU;3127388;Goianá (MG);24,07
+MU;3127404;Gonçalves (MG);22,52
+MU;3127503;Gonzaga (MG);28,28
+MU;3127602;Gouveia (MG);13,48
+MU;3127701;Governador Valadares (MG);112,58
+MU;3127800;Grão Mogol (MG);3,87
+MU;3127909;Grupiara (MG);7,11
+MU;3128006;Guanhães (MG);29,08
+MU;3128105;Guapé (MG);14,85
+MU;3128204;Guaraciaba (MG);29,33
+MU;3128253;Guaraciama (MG);12,09
+MU;3128303;Guaranésia (MG);63,47
+MU;3128402;Guarani (MG);32,85
+MU;3128501;Guarará (MG);44,32
+MU;3128600;Guarda-Mor (MG);3,17
+MU;3128709;Guaxupé (MG);172,59
+MU;3128808;Guidoval (MG);45,5
+MU;3128907;Guimarânia (MG);19,8
+MU;3129004;Guiricema (MG);29,66
+MU;3129103;Gurinhatã (MG);3,32
+MU;3129202;Heliodora (MG);39,76
+MU;3129301;Iapu (MG);30,29
+MU;3129400;Ibertioga (MG);14,54
+MU;3129509;Ibiá (MG);8,59
+MU;3129608;Ibiaí (MG);8,96
+MU;3129657;Ibiracatu (MG);17,42
+MU;3129707;Ibiraci (MG);21,66
+MU;3129806;Ibirité (MG);2190,26
+MU;3129905;Ibitiúra de Minas (MG);49,51
+MU;3130002;Ibituruna (MG);18,72
+MU;3130051;Icaraí de Minas (MG);17,18
+MU;3130101;Igarapé (MG);316,07
+MU;3130200;Igaratinga (MG);42,43
+MU;3130309;Iguatama (MG);12,78
+MU;3130408;Ijaci (MG);55,67
+MU;3130507;Ilicínea (MG);30,53
+MU;3130556;Imbé de Minas (MG);32,65
+MU;3130606;Inconfidentes (MG);46,17
+MU;3130655;Indaiabira (MG);7,3
+MU;3130705;Indianópolis (MG);7,46
+MU;3130804;Ingaí (MG);8,6
+MU;3130903;Inhapim (MG);28,31
+MU;3131000;Inhaúma (MG);23,51
+MU;3131109;Inimutaba (MG);12,82
+MU;3131158;Ipaba (MG);147,69
+MU;3131208;Ipanema (MG);39,79
+MU;3131307;Ipatinga (MG);1452,34
+MU;3131406;Ipiaçu (MG);8,81
+MU;3131505;Ipuiúna (MG);31,93
+MU;3131604;Iraí de Minas (MG);18,15
+MU;3131703;Itabira (MG);87,57
+MU;3131802;Itabirinha (MG);51,16
+MU;3131901;Itabirito (MG);83,76
+MU;3132008;Itacambira (MG);2,79
+MU;3132107;Itacarambi (MG);14,46
+MU;3132206;Itaguara (MG);30,14
+MU;3132305;Itaipé (MG);24,54
+MU;3132404;Itajubá (MG);307,49
+MU;3132503;Itamarandiba (MG);11,76
+MU;3132602;Itamarati de Minas (MG);43,13
+MU;3132701;Itambacuri (MG);16,07
+MU;3132800;Itambé do Mato Dentro (MG);6
+MU;3132909;Itamogi (MG);42,46
+MU;3133006;Itamonte (MG);32,43
+MU;3133105;Itanhandu (MG);98,87
+MU;3133204;Itanhomi (MG);24,25
+MU;3133303;Itaobim (MG);30,93
+MU;3133402;Itapagipe (MG);7,58
+MU;3133501;Itapecerica (MG);20,54
+MU;3133600;Itapeva (MG);48,85
+MU;3133709;Itatiaiuçu (MG);33,64
+MU;3133758;Itaú de Minas (MG);97,41
+MU;3133808;Itaúna (MG);172,39
+MU;3133907;Itaverava (MG);20,4
+MU;3134004;Itinga (MG);8,73
+MU;3134103;Itueta (MG);12,88
+MU;3134202;Ituiutaba (MG);37,4
+MU;3134301;Itumirim (MG);26,15
+MU;3134400;Iturama (MG);24,53
+MU;3134509;Itutinga (MG);10,52
+MU;3134608;Jaboticatubas (MG);15,38
+MU;3134707;Jacinto (MG);8,71
+MU;3134806;Jacuí (MG);18,33
+MU;3134905;Jacutinga (MG);65,48
+MU;3135001;Jaguaraçu (MG);18,26
+MU;3135050;Jaíba (MG);12,79
+MU;3135076;Jampruca (MG);9,8
+MU;3135100;Janaúba (MG);30,63
+MU;3135209;Januária (MG);9,83
+MU;3135308;Japaraíba (MG);22,88
+MU;3135357;Japonvar (MG);22,13
+MU;3135407;Jeceaba (MG);22,84
+MU;3135456;Jenipapo de Minas (MG);25,02
+MU;3135506;Jequeri (MG);23,45
+MU;3135605;Jequitaí (MG);6,31
+MU;3135704;Jequitibá (MG);11,59
+MU;3135803;Jequitinhonha (MG);6,87
+MU;3135902;Jesuânia (MG);30,99
+MU;3136009;Joaíma (MG);8,98
+MU;3136108;Joanésia (MG);23,25
+MU;3136207;João Monlevade (MG);742,35
+MU;3136306;João Pinheiro (MG);4,22
+MU;3136405;Joaquim Felício (MG);5,44
+MU;3136504;Jordânia (MG);18,88
+MU;3136520;José Gonçalves de Minas (MG);11,94
+MU;3136553;José Raydan (MG);24,2
+MU;3136579;Josenópolis (MG);8,43
+MU;3136603;Nova União (MG);32,27
+MU;3136652;Juatuba (MG);223,18
+MU;3136702;Juiz de Fora (MG);359,59
+MU;3136801;Juramento (MG);9,53
+MU;3136900;Juruaia (MG);41,92
+MU;3136959;Juvenília (MG);5,36
+MU;3137007;Ladainha (MG);19,62
+MU;3137106;Lagamar (MG);5,15
+MU;3137205;Lagoa da Prata (MG);104,51
+MU;3137304;Lagoa dos Patos (MG);7,04
+MU;3137403;Lagoa Dourada (MG);25,71
+MU;3137502;Lagoa Formosa (MG);20,41
+MU;3137536;Lagoa Grande (MG);6,98
+MU;3137601;Lagoa Santa (MG);228,27
+MU;3137700;Lajinha (MG);45,4
+MU;3137809;Lambari (MG);91,76
+MU;3137908;Lamim (MG);29,11
+MU;3138005;Laranjal (MG);31,55
+MU;3138104;Lassance (MG);2,02
+MU;3138203;Lavras (MG);163,26
+MU;3138302;Leandro Ferreira (MG);9,1
+MU;3138351;Leme do Prado (MG);17,15
+MU;3138401;Leopoldina (MG);54,22
+MU;3138500;Liberdade (MG);13,32
+MU;3138609;Lima Duarte (MG);19,03
+MU;3138625;Limeira do Oeste (MG);5,22
+MU;3138658;Lontra (MG);32,4
+MU;3138674;Luisburgo (MG);42,87
+MU;3138682;Luislândia (MG);15,54
+MU;3138708;Luminárias (MG);10,84
+MU;3138807;Luz (MG);14,92
+MU;3138906;Machacalis (MG);20,99
+MU;3139003;Machado (MG);66,03
+MU;3139102;Madre de Deus de Minas (MG);9,95
+MU;3139201;Malacacheta (MG);25,8
+MU;3139250;Mamonas (MG);21,69
+MU;3139300;Manga (MG);10,16
+MU;3139409;Manhuaçu (MG);126,65
+MU;3139508;Manhumirim (MG);116,91
+MU;3139607;Mantena (MG);39,57
+MU;3139706;Maravilhas (MG);27,38
+MU;3139805;Mar de Espanha (MG);31,62
+MU;3139904;Maria da Fé (MG);70,06
+MU;3140001;Mariana (MG);45,4
+MU;3140100;Marilac (MG);26,57
+MU;3140159;Mário Campos (MG);374,82
+MU;3140209;Maripá de Minas (MG);36,05
+MU;3140308;Marliéria (MG);7,35
+MU;3140407;Marmelópolis (MG);27,51
+MU;3140506;Martinho Campos (MG);12,03
+MU;3140530;Martins Soares (MG);63,33
+MU;3140555;Mata Verde (MG);34,61
+MU;3140605;Materlândia (MG);16,38
+MU;3140704;Mateus Leme (MG);92
+MU;3140803;Matias Barbosa (MG);85,51
+MU;3140852;Matias Cardoso (MG);5,12
+MU;3140902;Matipó (MG);66,07
+MU;3141009;Mato Verde (MG);26,86
+MU;3141108;Matozinhos (MG);134,59
+MU;3141207;Matutina (MG);14,41
+MU;3141306;Medeiros (MG);3,64
+MU;3141405;Medina (MG);14,64
+MU;3141504;Mendes Pimentel (MG);20,72
+MU;3141603;Mercês (MG);29,77
+MU;3141702;Mesquita (MG);22,07
+MU;3141801;Minas Novas (MG);16,99
+MU;3141900;Minduri (MG);17,47
+MU;3142007;Mirabela (MG);18,03
+MU;3142106;Miradouro (MG);33,98
+MU;3142205;Miraí (MG);43,06
+MU;3142254;Miravânia (MG);7,55
+MU;3142304;Moeda (MG);30,23
+MU;3142403;Moema (MG);34,67
+MU;3142502;Monjolos (MG);3,63
+MU;3142601;Monsenhor Paulo (MG);37,69
+MU;3142700;Montalvânia (MG);10,55
+MU;3142809;Monte Alegre de Minas (MG);7,56
+MU;3142908;Monte Azul (MG);22,12
+MU;3143005;Monte Belo (MG);31
+MU;3143104;Monte Carmelo (MG);34,08
+MU;3143153;Monte Formoso (MG);12,08
+MU;3143203;Monte Santo de Minas (MG);35,71
+MU;3143302;Montes Claros (MG);101,41
+MU;3143401;Monte Sião (MG);72,71
+MU;3143450;Montezuma (MG);6,6
+MU;3143500;Morada Nova de Minas (MG);3,96
+MU;3143609;Morro da Garça (MG);6,41
+MU;3143708;Morro do Pilar (MG);7,12
+MU;3143807;Munhoz (MG);32,66
+MU;3143906;Muriaé (MG);119,72
+MU;3144003;Mutum (MG);21,31
+MU;3144102;Muzambinho (MG);49,84
+MU;3144201;Nacip Raydan (MG);13,51
+MU;3144300;Nanuque (MG);26,9
+MU;3144359;Naque (MG);49,86
+MU;3144375;Natalândia (MG);7
+MU;3144409;Natércia (MG);24,68
+MU;3144508;Nazareno (MG);24,17
+MU;3144607;Nepomuceno (MG);44,17
+MU;3144656;Ninheira (MG);8,86
+MU;3144672;Nova Belém (MG);25,43
+MU;3144706;Nova Era (MG);48,43
+MU;3144805;Nova Lima (MG);188,78
+MU;3144904;Nova Módica (MG);10,08
+MU;3145000;Nova Ponte (MG);11,53
+MU;3145059;Nova Porteirinha (MG);61,17
+MU;3145109;Nova Resende (MG);39,41
+MU;3145208;Nova Serrana (MG);261
+MU;3145307;Novo Cruzeiro (MG);18,04
+MU;3145356;Novo Oriente de Minas (MG);13,69
+MU;3145372;Novorizonte (MG);18,26
+MU;3145406;Olaria (MG);11,09
+MU;3145455;Olhos-d'Água (MG);2,52
+MU;3145505;Olímpio Noronha (MG);46,36
+MU;3145604;Oliveira (MG);43,98
+MU;3145703;Oliveira Fortes (MG);19,1
+MU;3145802;Onça de Pitangui (MG);12,37
+MU;3145851;Oratórios (MG);50,44
+MU;3145877;Orizânia (MG);59,8
+MU;3145901;Ouro Branco (MG);136,31
+MU;3146008;Ouro Fino (MG);59,15
+MU;3146107;Ouro Preto (MG);56,41
+MU;3146206;Ouro Verde de Minas (MG);34,28
+MU;3146255;Padre Carvalho (MG);13,07
+MU;3146305;Padre Paraíso (MG);34,63
+MU;3146404;Paineiras (MG);7,27
+MU;3146503;Pains (MG);19
+MU;3146552;Pai Pedro (MG);7,07
+MU;3146602;Paiva (MG);26,67
+MU;3146701;Palma (MG);20,68
+MU;3146750;Palmópolis (MG);16
+MU;3146909;Papagaios (MG);25,61
+MU;3147006;Paracatu (MG);10,29
+MU;3147105;Pará de Minas (MG);152,77
+MU;3147204;Paraguaçu (MG);47,71
+MU;3147303;Paraisópolis (MG);58,5
+MU;3147402;Paraopeba (MG);36,06
+MU;3147501;Passabém (MG);18,75
+MU;3147600;Passa Quatro (MG);56,21
+MU;3147709;Passa Tempo (MG);19,1
+MU;3147808;Passa Vinte (MG);8,43
+MU;3147907;Passos (MG);79,44
+MU;3147956;Patis (MG);12,56
+MU;3148004;Patos de Minas (MG);43,49
+MU;3148103;Patrocínio (MG);28,69
+MU;3148202;Patrocínio do Muriaé (MG);48,84
+MU;3148301;Paula Cândido (MG);34,55
+MU;3148400;Paulistas (MG);22,3
+MU;3148509;Pavão (MG);14,29
+MU;3148608;Peçanha (MG);17,32
+MU;3148707;Pedra Azul (MG);14,94
+MU;3148756;Pedra Bonita (MG);38,37
+MU;3148806;Pedra do Anta (MG);20,59
+MU;3148905;Pedra do Indaiá (MG);11,14
+MU;3149002;Pedra Dourada (MG);31,3
+MU;3149101;Pedralva (MG);52,6
+MU;3149150;Pedras de Maria da Cruz (MG);6,76
+MU;3149200;Pedrinópolis (MG);9,75
+MU;3149309;Pedro Leopoldo (MG);200,49
+MU;3149408;Pedro Teixeira (MG);15,8
+MU;3149507;Pequeri (MG);34,84
+MU;3149606;Pequi (MG);19,98
+MU;3149705;Perdigão (MG);35,77
+MU;3149804;Perdizes (MG);5,88
+MU;3149903;Perdões (MG);74,22
+MU;3149952;Periquito (MG);30,74
+MU;3150000;Pescador (MG);13
+MU;3150109;Piau (MG);14,78
+MU;3150158;Piedade de Caratinga (MG);65,02
+MU;3150208;Piedade de Ponte Nova (MG);48,51
+MU;3150307;Piedade do Rio Grande (MG);14,59
+MU;3150406;Piedade dos Gerais (MG);17,87
+MU;3150505;Pimenta (MG);19,85
+MU;3150539;Pingo d'Água (MG);66,4
+MU;3150570;Pintópolis (MG);5,87
+MU;3150604;Piracema (MG);22,85
+MU;3150703;Pirajuba (MG);13,78
+MU;3150802;Piranga (MG);26,16
+MU;3150901;Piranguçu (MG);25,62
+MU;3151008;Piranguinho (MG);64,23
+MU;3151107;Pirapetinga (MG);54,35
+MU;3151206;Pirapora (MG);97,12
+MU;3151305;Piraúba (MG);75,28
+MU;3151404;Pitangui (MG);44,44
+MU;3151503;Piumhi (MG);35,33
+MU;3151602;Planura (MG);32,7
+MU;3151701;Poço Fundo (MG);33,65
+MU;3151800;Poços de Caldas (MG);278,54
+MU;3151909;Pocrane (MG);13
+MU;3152006;Pompéu (MG);11,41
+MU;3152105;Ponte Nova (MG);121,94
+MU;3152131;Ponto Chique (MG);6,58
+MU;3152170;Ponto dos Volantes (MG);9,36
+MU;3152204;Porteirinha (MG);21,51
+MU;3152303;Porto Firme (MG);36,58
+MU;3152402;Poté (MG);25,06
+MU;3152501;Pouso Alegre (MG);240,51
+MU;3152600;Pouso Alto (MG);23,74
+MU;3152709;Prados (MG);31,77
+MU;3152808;Prata (MG);5,32
+MU;3152907;Pratápolis (MG);40,86
+MU;3153004;Pratinha (MG);5,25
+MU;3153103;Presidente Bernardes (MG);23,38
+MU;3153202;Presidente Juscelino (MG);5,62
+MU;3153301;Presidente Kubitschek (MG);15,64
+MU;3153400;Presidente Olegário (MG);5,3
+MU;3153509;Alto Jequitibá (MG);54,63
+MU;3153608;Prudente de Morais (MG);77,08
+MU;3153707;Quartel Geral (MG);5,94
+MU;3153806;Queluzito (MG);12,12
+MU;3153905;Raposos (MG);212,58
+MU;3154002;Raul Soares (MG);31,2
+MU;3154101;Recreio (MG);43,96
+MU;3154150;Reduto (MG);43,26
+MU;3154200;Resende Costa (MG);17,65
+MU;3154309;Resplendor (MG);15,8
+MU;3154408;Ressaquinha (MG);25,52
+MU;3154457;Riachinho (MG);4,5
+MU;3154507;Riacho dos Machados (MG);7,11
+MU;3154606;Ribeirão das Neves (MG);1917,9
+MU;3154705;Ribeirão Vermelho (MG);77,68
+MU;3154804;Rio Acima (MG);39,55
+MU;3154903;Rio Casca (MG);36,95
+MU;3155009;Rio Doce (MG);21,99
+MU;3155108;Rio do Prado (MG);10,87
+MU;3155207;Rio Espera (MG);25,44
+MU;3155306;Rio Manso (MG);22,79
+MU;3155405;Rio Novo (MG);41,62
+MU;3155504;Rio Paranaíba (MG);8,79
+MU;3155603;Rio Pardo de Minas (MG);9,33
+MU;3155702;Rio Piracicaba (MG);37,93
+MU;3155801;Rio Pomba (MG);67,78
+MU;3155900;Rio Preto (MG);15,2
+MU;3156007;Rio Vermelho (MG);13,83
+MU;3156106;Ritápolis (MG);12,17
+MU;3156205;Rochedo de Minas (MG);26,65
+MU;3156304;Rodeiro (MG);94,49
+MU;3156403;Romaria (MG);8,82
+MU;3156452;Rosário da Limeira (MG);38,21
+MU;3156502;Rubelita (MG);7
+MU;3156601;Rubim (MG);10,28
+MU;3156700;Sabará (MG);417,87
+MU;3156809;Sabinópolis (MG);17,07
+MU;3156908;Sacramento (MG);7,78
+MU;3157005;Salinas (MG);20,75
+MU;3157104;Salto da Divisa (MG);7,31
+MU;3157203;Santa Bárbara (MG);40,75
+MU;3157252;Santa Bárbara do Leste (MG);71,53
+MU;3157278;Santa Bárbara do Monte Verde (MG);6,67
+MU;3157302;Santa Bárbara do Tugúrio (MG);23,49
+MU;3157336;Santa Cruz de Minas (MG);2206,17
+MU;3157377;Santa Cruz de Salinas (MG);7,46
+MU;3157401;Santa Cruz do Escalvado (MG);19,29
+MU;3157500;Santa Efigênia de Minas (MG);34,86
+MU;3157609;Santa Fé de Minas (MG);1,36
+MU;3157658;Santa Helena de Minas (MG);21,9
+MU;3157708;Santa Juliana (MG);15,66
+MU;3157807;Santa Luzia (MG);862,38
+MU;3157906;Santa Margarida (MG);58,7
+MU;3158003;Santa Maria de Itabira (MG);17,66
+MU;3158102;Santa Maria do Salto (MG);11,99
+MU;3158201;Santa Maria do Suaçuí (MG);23,07
+MU;3158300;Santana da Vargem (MG);41,93
+MU;3158409;Santana de Cataguases (MG);22,43
+MU;3158508;Santana de Pirapama (MG);6,38
+MU;3158607;Santana do Deserto (MG);21,13
+MU;3158706;Santana do Garambéu (MG);11
+MU;3158805;Santana do Jacaré (MG);43,39
+MU;3158904;Santana do Manhuaçu (MG);24,71
+MU;3158953;Santana do Paraíso (MG);98,76
+MU;3159001;Santana do Riacho (MG);5,94
+MU;3159100;Santana dos Montes (MG);19,44
+MU;3159209;Santa Rita de Caldas (MG);17,95
+MU;3159308;Santa Rita de Jacutinga (MG);11,86
+MU;3159357;Santa Rita de Minas (MG);96,06
+MU;3159407;Santa Rita de Ibitipoca (MG);11,05
+MU;3159506;Santa Rita do Itueto (MG);11,74
+MU;3159605;Santa Rita do Sapucaí (MG);106,96
+MU;3159704;Santa Rosa da Serra (MG);11,34
+MU;3159803;Santa Vitória (MG);6,04
+MU;3159902;Santo Antônio do Amparo (MG);35,48
+MU;3160009;Santo Antônio do Aventureiro (MG);17,51
+MU;3160108;Santo Antônio do Grama (MG);31,37
+MU;3160207;Santo Antônio do Itambé (MG);13,52
+MU;3160306;Santo Antônio do Jacinto (MG);23,39
+MU;3160405;Santo Antônio do Monte (MG);23,07
+MU;3160454;Santo Antônio do Retiro (MG);8,73
+MU;3160504;Santo Antônio do Rio Abaixo (MG);16,57
+MU;3160603;Santo Hipólito (MG);7,52
+MU;3160702;Santos Dumont (MG);72,62
+MU;3160801;São Bento Abade (MG);56,93
+MU;3160900;São Brás do Suaçuí (MG);31,93
+MU;3160959;São Domingos das Dores (MG);88,85
+MU;3161007;São Domingos do Prata (MG);23,34
+MU;3161056;São Félix de Minas (MG);20,8
+MU;3161106;São Francisco (MG);16,27
+MU;3161205;São Francisco de Paula (MG);20,46
+MU;3161304;São Francisco de Sales (MG);5,12
+MU;3161403;São Francisco do Glória (MG);31,46
+MU;3161502;São Geraldo (MG);55,3
+MU;3161601;São Geraldo da Piedade (MG);28,81
+MU;3161650;São Geraldo do Baixio (MG);12,41
+MU;3161700;São Gonçalo do Abaeté (MG);2,33
+MU;3161809;São Gonçalo do Pará (MG);39,13
+MU;3161908;São Gonçalo do Rio Abaixo (MG);26,87
+MU;3162005;São Gonçalo do Sapucaí (MG);46,27
+MU;3162104;São Gotardo (MG);36,74
+MU;3162203;São João Batista do Glória (MG);12,57
+MU;3162252;São João da Lagoa (MG);4,67
+MU;3162302;São João da Mata (MG);22,66
+MU;3162401;São João da Ponte (MG);13,7
+MU;3162450;São João das Missões (MG);17,27
+MU;3162500;São João del Rei (MG);57,68
+MU;3162559;São João do Manhuaçu (MG);71,6
+MU;3162575;São João do Manteninha (MG);37,61
+MU;3162609;São João do Oriente (MG);65,55
+MU;3162658;São João do Pacuí (MG);9,76
+MU;3162708;São João do Paraíso (MG);11,59
+MU;3162807;São João Evangelista (MG);32,53
+MU;3162906;São João Nepomuceno (MG);61,5
+MU;3162922;São Joaquim de Bicas (MG);356,88
+MU;3162948;São José da Barra (MG);21,57
+MU;3162955;São José da Lapa (MG);413,09
+MU;3163003;São José da Safira (MG);19,05
+MU;3163102;São José da Varginha (MG);20,43
+MU;3163201;São José do Alegre (MG);45
+MU;3163300;São José do Divino (MG);11,66
+MU;3163409;São José do Goiabal (MG);30,55
+MU;3163508;São José do Jacuri (MG);18,99
+MU;3163607;São José do Mantimento (MG);47,38
+MU;3163706;São Lourenço (MG);717,99
+MU;3163805;São Miguel do Anta (MG);44,44
+MU;3163904;São Pedro da União (MG);19,32
+MU;3164001;São Pedro dos Ferros (MG);20,75
+MU;3164100;São Pedro do Suaçuí (MG);18,08
+MU;3164209;São Romão (MG);4,22
+MU;3164308;São Roque de Minas (MG);3,19
+MU;3164407;São Sebastião da Bela Vista (MG);29,6
+MU;3164431;São Sebastião da Vargem Alegre (MG);38
+MU;3164472;São Sebastião do Anta (MG);71,19
+MU;3164506;São Sebastião do Maranhão (MG);20,56
+MU;3164605;São Sebastião do Oeste (MG);14,22
+MU;3164704;São Sebastião do Paraíso (MG);79,74
+MU;3164803;São Sebastião do Rio Preto (MG);12,6
+MU;3164902;São Sebastião do Rio Verde (MG);22,89
+MU;3165008;São Tiago (MG);18,45
+MU;3165107;São Tomás de Aquino (MG);25,52
+MU;3165206;São Thomé das Letras (MG);18
+MU;3165305;São Vicente de Minas (MG);17,85
+MU;3165404;Sapucaí-Mirim (MG);21,89
+MU;3165503;Sardoá (MG);39,42
+MU;3165537;Sarzedo (MG);415,46
+MU;3165552;Setubinha (MG);20,36
+MU;3165560;Sem-Peixe (MG);16,12
+MU;3165578;Senador Amaral (MG);34,54
+MU;3165602;Senador Cortes (MG);20,22
+MU;3165701;Senador Firmino (MG);43,42
+MU;3165800;Senador José Bento (MG);19,9
+MU;3165909;Senador Modestino Gonçalves (MG);4,8
+MU;3166006;Senhora de Oliveira (MG);33,28
+MU;3166105;Senhora do Porto (MG);9,17
+MU;3166204;Senhora dos Remédios (MG);42,87
+MU;3166303;Sericita (MG);42,94
+MU;3166402;Seritinga (MG);15,59
+MU;3166501;Serra Azul de Minas (MG);19,31
+MU;3166600;Serra da Saudade (MG);2,43
+MU;3166709;Serra dos Aimorés (MG);39,39
+MU;3166808;Serra do Salitre (MG);8,14
+MU;3166907;Serrania (MG);36,04
+MU;3166956;Serranópolis de Minas (MG);8,02
+MU;3167004;Serranos (MG);9,36
+MU;3167103;Serro (MG);17,11
+MU;3167202;Sete Lagoas (MG);398,32
+MU;3167301;Silveirânia (MG);13,92
+MU;3167400;Silvianópolis (MG);19,31
+MU;3167509;Simão Pereira (MG);18,7
+MU;3167608;Simonésia (MG);37,61
+MU;3167707;Sobrália (MG);28,19
+MU;3167806;Soledade de Minas (MG);28,83
+MU;3167905;Tabuleiro (MG);19,32
+MU;3168002;Taiobeiras (MG);25,88
+MU;3168051;Taparuba (MG);16,25
+MU;3168101;Tapira (MG);3,49
+MU;3168200;Tapiraí (MG);4,59
+MU;3168309;Taquaraçu de Minas (MG);11,52
+MU;3168408;Tarumirim (MG);19,53
+MU;3168507;Teixeiras (MG);68,1
+MU;3168606;Teófilo Otoni (MG);41,56
+MU;3168705;Timóteo (MG);562,7
+MU;3168804;Tiradentes (MG);83,82
+MU;3168903;Tiros (MG);3,3
+MU;3169000;Tocantins (MG);91,01
+MU;3169059;Tocos do Moji (MG);34,44
+MU;3169109;Toledo (MG);42,14
+MU;3169208;Tombos (MG);33,45
+MU;3169307;Três Corações (MG);87,88
+MU;3169356;Três Marias (MG);10,57
+MU;3169406;Três Pontas (MG);78,08
+MU;3169505;Tumiritinga (MG);12,58
+MU;3169604;Tupaciguara (MG);13,26
+MU;3169703;Turmalina (MG);15,66
+MU;3169802;Turvolândia (MG);21,08
+MU;3169901;Ubá (MG);249,16
+MU;3170008;Ubaí (MG);14,24
+MU;3170057;Ubaporanga (MG);63,69
+MU;3170107;Uberaba (MG);65,43
+MU;3170206;Uberlândia (MG);146,78
+MU;3170305;Umburatiba (MG);6,67
+MU;3170404;Unaí (MG);9,18
+MU;3170438;União de Minas (MG);3,85
+MU;3170479;Uruana de Minas (MG);5,41
+MU;3170503;Urucânia (MG);74,15
+MU;3170529;Urucuia (MG);6,55
+MU;3170578;Vargem Alegre (MG);55,38
+MU;3170602;Vargem Bonita (MG);5,28
+MU;3170651;Vargem Grande do Rio Pardo (MG);9,63
+MU;3170701;Varginha (MG);311,29
+MU;3170750;Varjão de Minas (MG);9,29
+MU;3170800;Várzea da Palma (MG);16,13
+MU;3170909;Varzelândia (MG);23,46
+MU;3171006;Vazante (MG);10,31
+MU;3171030;Verdelândia (MG);5,31
+MU;3171071;Veredinha (MG);8,78
+MU;3171105;Veríssimo (MG);3,38
+MU;3171154;Vermelho Novo (MG);40,69
+MU;3171204;Vespasiano (MG);1468,49
+MU;3171303;Viçosa (MG);241,2
+MU;3171402;Vieiras (MG);33,11
+MU;3171501;Mathias Lobato (MG);19,56
+MU;3171600;Virgem da Lapa (MG);15,67
+MU;3171709;Virgínia (MG);26,41
+MU;3171808;Virginópolis (MG);24,03
+MU;3171907;Virgolândia (MG);20,13
+MU;3172004;Visconde do Rio Branco (MG);155,91
+MU;3172103;Volta Grande (MG);24,36
+MU;3172202;Wenceslau Braz (MG);24,91
+MU;3200102;Afonso Cláudio (ES);32,57
+MU;3200136;Águia Branca (ES);21,17
+MU;3200169;Água Doce do Norte (ES);24,32
+MU;3200201;Alegre (ES);39,82
+MU;3200300;Alfredo Chaves (ES);22,67
+MU;3200359;Alto Rio Novo (ES);32,13
+MU;3200409;Anchieta (ES);58,61
+MU;3200508;Apiacá (ES);38,8
+MU;3200607;Aracruz (ES);56,99
+MU;3200706;Atílio Vivácqua (ES);43,43
+MU;3200805;Baixo Guandu (ES);31,68
+MU;3200904;Barra de São Francisco (ES);43,53
+MU;3201001;Boa Esperança (ES);33,13
+MU;3201100;Bom Jesus do Norte (ES);106,45
+MU;3201159;Brejetuba (ES);34,79
+MU;3201209;Cachoeiro de Itapemirim (ES);216,57
+MU;3201308;Cariacica (ES);1245,6
+MU;3201407;Castelo (ES);52,31
+MU;3201506;Colatina (ES);78,54
+MU;3201605;Conceição da Barra (ES);23,95
+MU;3201704;Conceição do Castelo (ES);31,63
+MU;3201803;Divino de São Lourenço (ES);25,69
+MU;3201902;Domingos Martins (ES);25,99
+MU;3202009;Dores do Rio Preto (ES);40,35
+MU;3202108;Ecoporanga (ES);10,17
+MU;3202207;Fundão (ES);60,9
+MU;3202256;Governador Lindenberg (ES);30,22
+MU;3202306;Guaçuí (ES);59,54
+MU;3202405;Guarapari (ES);176,81
+MU;3202454;Ibatiba (ES);92,77
+MU;3202504;Ibiraçu (ES);55,93
+MU;3202553;Ibitirama (ES);27,19
+MU;3202603;Iconha (ES);61,71
+MU;3202652;Irupi (ES);63,56
+MU;3202702;Itaguaçu (ES);26,65
+MU;3202801;Itapemirim (ES);55,6
+MU;3202900;Itarana (ES);36,38
+MU;3203007;Iúna (ES);59,36
+MU;3203056;Jaguaré (ES);37,6
+MU;3203106;Jerônimo Monteiro (ES);67,09
+MU;3203130;João Neiva (ES);57,94
+MU;3203163;Laranja da Terra (ES);23,69
+MU;3203205;Linhares (ES);40,35
+MU;3203304;Mantenópolis (ES);42,44
+MU;3203320;Marataízes (ES);252,23
+MU;3203346;Marechal Floriano (ES);49,85
+MU;3203353;Marilândia (ES);35,89
+MU;3203403;Mimoso do Sul (ES);29,87
+MU;3203502;Montanha (ES);16,26
+MU;3203601;Mucurici (ES);10,5
+MU;3203700;Muniz Freire (ES);27,06
+MU;3203809;Muqui (ES);44,04
+MU;3203908;Nova Venécia (ES);31,78
+MU;3204005;Pancas (ES);26,16
+MU;3204054;Pedro Canário (ES);54,82
+MU;3204104;Pinheiros (ES);24,5
+MU;3204203;Piúma (ES);242,79
+MU;3204252;Ponto Belo (ES);19,6
+MU;3204302;Presidente Kennedy (ES);17,59
+MU;3204351;Rio Bananal (ES);27,16
+MU;3204401;Rio Novo do Sul (ES);55,59
+MU;3204500;Santa Leopoldina (ES);17,08
+MU;3204559;Santa Maria de Jetibá (ES);46,46
+MU;3204609;Santa Teresa (ES);31,42
+MU;3204658;São Domingos do Norte (ES);26,72
+MU;3204708;São Gabriel da Palha (ES);73,61
+MU;3204807;São José do Calçado (ES);38,17
+MU;3204906;São Mateus (ES);46,53
+MU;3204955;São Roque do Canaã (ES);32,92
+MU;3205002;Serra (ES);739,38
+MU;3205010;Sooretama (ES);40,18
+MU;3205036;Vargem Alta (ES);46,13
+MU;3205069;Venda Nova do Imigrante (ES);108,82
+MU;3205101;Viana (ES);208,6
+MU;3205150;Vila Pavão (ES);20,04
+MU;3205176;Vila Valério (ES);29,78
+MU;3205200;Vila Velha (ES);1951,99
+MU;3205309;Vitória (ES);3327,73
+MU;3300100;Angra dos Reis (RJ);205,45
+MU;3300159;Aperibé (RJ);107,92
+MU;3300209;Araruama (RJ);175,55
+MU;3300225;Areal (RJ);102,99
+MU;3300233;Armação dos Búzios (RJ);392,16
+MU;3300258;Arraial do Cabo (RJ);172,91
+MU;3300308;Barra do Piraí (RJ);163,7
+MU;3300407;Barra Mansa (RJ);324,94
+MU;3300456;Belford Roxo (RJ);6031,38
+MU;3300506;Bom Jardim (RJ);65,86
+MU;3300605;Bom Jesus do Itabapoana (RJ);59,13
+MU;3300704;Cabo Frio (RJ);453,75
+MU;3300803;Cachoeiras de Macacu (RJ);56,9
+MU;3300902;Cambuci (RJ);26,4
+MU;3300936;Carapebus (RJ);43,36
+MU;3300951;Comendador Levy Gasparian (RJ);76,53
+MU;3301009;Campos dos Goytacazes (RJ);115,16
+MU;3301108;Cantagalo (RJ);26,47
+MU;3301157;Cardoso Moreira (RJ);24,02
+MU;3301207;Carmo (RJ);54,07
+MU;3301306;Casimiro de Abreu (RJ);76,71
+MU;3301405;Conceição de Macabu (RJ);61,08
+MU;3301504;Cordeiro (RJ);175,59
+MU;3301603;Duas Barras (RJ);29,14
+MU;3301702;Duque de Caxias (RJ);1828,51
+MU;3301801;Engenheiro Paulo de Frontin (RJ);99,57
+MU;3301850;Guapimirim (RJ);142,7
+MU;3301876;Iguaba Grande (RJ);439,91
+MU;3301900;Itaboraí (RJ);506,56
+MU;3302007;Itaguaí (RJ);395,45
+MU;3302056;Italva (RJ);47,86
+MU;3302106;Itaocara (RJ);53,09
+MU;3302205;Itaperuna (RJ);86,71
+MU;3302254;Itatiaia (RJ);117,41
+MU;3302270;Japeri (RJ);1166,37
+MU;3302304;Laje do Muriaé (RJ);29,95
+MU;3302403;Macaé (RJ);169,89
+MU;3302452;Macuco (RJ);67,8
+MU;3302502;Magé (RJ);585,13
+MU;3302601;Mangaratiba (RJ);103,25
+MU;3302700;Maricá (RJ);351,55
+MU;3302809;Mendes (RJ);184,83
+MU;3302858;Mesquita (RJ);4310,48
+MU;3302908;Miguel Pereira (RJ);85,21
+MU;3303005;Miracema (RJ);88,15
+MU;3303104;Natividade (RJ);39
+MU;3303203;Nilópolis (RJ);8117,62
+MU;3303302;Niterói (RJ);3640,8
+MU;3303401;Nova Friburgo (RJ);195,07
+MU;3303500;Nova Iguaçu (RJ);1527,6
+MU;3303609;Paracambi (RJ);262,27
+MU;3303708;Paraíba do Sul (RJ);70,77
+MU;3303807;Paraty (RJ);40,57
+MU;3303856;Paty do Alferes (RJ);82,68
+MU;3303906;Petrópolis (RJ);371,85
+MU;3303955;Pinheiral (RJ);296,86
+MU;3304003;Piraí (RJ);52,07
+MU;3304102;Porciúncula (RJ);58,8
+MU;3304110;Porto Real (RJ);326,95
+MU;3304128;Quatis (RJ);44,72
+MU;3304144;Queimados (RJ);1822,6
+MU;3304151;Quissamã (RJ);28,4
+MU;3304201;Resende (RJ);109,35
+MU;3304300;Rio Bonito (RJ);121,7
+MU;3304409;Rio Claro (RJ);20,73
+MU;3304508;Rio das Flores (RJ);17,9
+MU;3304524;Rio das Ostras (RJ);461,38
+MU;3304557;Rio de Janeiro (RJ);5265,81
+MU;3304607;Santa Maria Madalena (RJ);12,67
+MU;3304706;Santo Antônio de Pádua (RJ);67,27
+MU;3304755;São Francisco de Itabapoana (RJ);36,84
+MU;3304805;São Fidélis (RJ);36,39
+MU;3304904;São Gonçalo (RJ);4035,9
+MU;3305000;São João da Barra (RJ);71,96
+MU;3305109;São João de Meriti (RJ);13024,56
+MU;3305133;São José de Ubá (RJ);27,98
+MU;3305158;São José do Vale do Rio Preto (RJ);91,87
+MU;3305208;São Pedro da Aldeia (RJ);264,05
+MU;3305307;São Sebastião do Alto (RJ);22,36
+MU;3305406;Sapucaia (RJ);32,38
+MU;3305505;Saquarema (RJ);209,96
+MU;3305554;Seropédica (RJ);275,53
+MU;3305604;Silva Jardim (RJ);22,77
+MU;3305703;Sumidouro (RJ);37,67
+MU;3305752;Tanguá (RJ);211,21
+MU;3305802;Teresópolis (RJ);212,49
+MU;3305901;Trajano de Moraes (RJ);17,44
+MU;3306008;Três Rios (RJ);237,42
+MU;3306107;Valença (RJ);55,06
+MU;3306156;Varre-Sai (RJ);49,85
+MU;3306206;Vassouras (RJ);63,94
+MU;3306305;Volta Redonda (RJ);1412,75
+MU;3500105;Adamantina (SP);82,16
+MU;3500204;Adolfo (SP);16,85
+MU;3500303;Aguaí (SP);67,72
+MU;3500402;Águas da Prata (SP);53,05
+MU;3500501;Águas de Lindóia (SP);287,16
+MU;3500550;Águas de Santa Bárbara (SP);13,73
+MU;3500600;Águas de São Pedro (SP);504,1
+MU;3500709;Agudos (SP);35,73
+MU;3500758;Alambari (SP);30,66
+MU;3500808;Alfredo Marcondes (SP);32,86
+MU;3500907;Altair (SP);12,16
+MU;3501004;Altinópolis (SP);16,78
+MU;3501103;Alto Alegre (SP);12,86
+MU;3501152;Alumínio (SP);200,92
+MU;3501202;Álvares Florence (SP);10,74
+MU;3501301;Álvares Machado (SP);67,69
+MU;3501400;Álvaro de Carvalho (SP);30,36
+MU;3501509;Alvinlândia (SP);35,38
+MU;3501608;Americana (SP);1579,59
+MU;3501707;Américo Brasiliense (SP);281,99
+MU;3501806;Américo de Campos (SP);22,54
+MU;3501905;Amparo (SP);147,75
+MU;3502002;Analândia (SP);13,16
+MU;3502101;Andradina (SP);57,39
+MU;3502200;Angatuba (SP);21,61
+MU;3502309;Anhembi (SP);7,68
+MU;3502408;Anhumas (SP);11,67
+MU;3502507;Aparecida (SP);289,12
+MU;3502606;Aparecida d'Oeste (SP);24,86
+MU;3502705;Apiaí (SP);25,85
+MU;3502754;Araçariguama (SP);116,72
+MU;3502804;Araçatuba (SP);155,54
+MU;3502903;Araçoiaba da Serra (SP);106,87
+MU;3503000;Aramina (SP);25,39
+MU;3503109;Arandu (SP);21,42
+MU;3503158;Arapeí (SP);15,9
+MU;3503208;Araraquara (SP);207,8
+MU;3503307;Araras (SP);184,3
+MU;3503356;Arco-Íris (SP);7,27
+MU;3503406;Arealva (SP);15,53
+MU;3503505;Areias (SP);12,11
+MU;3503604;Areiópolis (SP);123,34
+MU;3503703;Ariranha (SP);64,19
+MU;3503802;Artur Nogueira (SP);248,15
+MU;3503901;Arujá (SP);777,35
+MU;3503950;Aspásia (SP);26,09
+MU;3504008;Assis (SP);206,7
+MU;3504107;Atibaia (SP);264,61
+MU;3504206;Auriflama (SP);32,72
+MU;3504305;Avaí (SP);9,18
+MU;3504404;Avanhandava (SP);33,4
+MU;3504503;Avaré (SP);68,37
+MU;3504602;Bady Bassitt (SP);134,54
+MU;3504701;Balbinos (SP);40,4
+MU;3504800;Bálsamo (SP);54,18
+MU;3504909;Bananal (SP);16,59
+MU;3505005;Barão de Antonina (SP);20,35
+MU;3505104;Barbosa (SP);32,14
+MU;3505203;Bariri (SP);71,14
+MU;3505302;Barra Bonita (SP);235,12
+MU;3505351;Barra do Chapéu (SP);12,93
+MU;3505401;Barra do Turvo (SP);7,67
+MU;3505500;Barretos (SP);71,6
+MU;3505609;Barrinha (SP);195,66
+MU;3505708;Barueri (SP);3639,94
+MU;3505807;Bastos (SP);118,95
+MU;3505906;Batatais (SP);66,48
+MU;3506003;Bauru (SP);515,12
+MU;3506102;Bebedouro (SP);109,81
+MU;3506201;Bento de Abreu (SP);8,87
+MU;3506300;Bernardino de Campos (SP);44,12
+MU;3506359;Bertioga (SP);97,23
+MU;3506409;Bilac (SP);44,63
+MU;3506508;Birigui (SP);204,79
+MU;3506607;Biritiba Mirim (SP);90,1
+MU;3506706;Boa Esperança do Sul (SP);19,75
+MU;3506805;Bocaina (SP);29,84
+MU;3506904;Bofete (SP);14,72
+MU;3507001;Boituva (SP);194,07
+MU;3507100;Bom Jesus dos Perdões (SP);183,08
+MU;3507159;Bom Sucesso de Itararé (SP);26,73
+MU;3507209;Borá (SP);6,8
+MU;3507308;Boracéia (SP);34,95
+MU;3507407;Borborema (SP);26,31
+MU;3507456;Borebi (SP);6,59
+MU;3507506;Botucatu (SP);85,88
+MU;3507605;Bragança Paulista (SP);286,26
+MU;3507704;Braúna (SP);25,7
+MU;3507753;Brejo Alegre (SP);24,41
+MU;3507803;Brodowski (SP);75,51
+MU;3507902;Brotas (SP);19,59
+MU;3508009;Buri (SP);15,52
+MU;3508108;Buritama (SP);47,19
+MU;3508207;Buritizal (SP);15,21
+MU;3508306;Cabrália Paulista (SP);18,19
+MU;3508405;Cabreúva (SP);159,91
+MU;3508504;Caçapava (SP);228,91
+MU;3508603;Cachoeira Paulista (SP);104,49
+MU;3508702;Caconde (SP);39,44
+MU;3508801;Cafelândia (SP);18,05
+MU;3508900;Caiabu (SP);16,11
+MU;3509007;Caieiras (SP);894,84
+MU;3509106;Caiuá (SP);9,13
+MU;3509205;Cajamar (SP);487,92
+MU;3509254;Cajati (SP);62,43
+MU;3509304;Cajobi (SP);55,22
+MU;3509403;Cajuru (SP);35,41
+MU;3509452;Campina do Monte Alegre (SP);30,09
+MU;3509502;Campinas (SP);1358,63
+MU;3509601;Campo Limpo Paulista (SP);930,79
+MU;3509700;Campos do Jordão (SP);164,49
+MU;3509809;Campos Novos Paulista (SP);9,38
+MU;3509908;Cananéia (SP);9,84
+MU;3509957;Canas (SP);82,33
+MU;3510005;Cândido Mota (SP);50,12
+MU;3510104;Cândido Rodrigues (SP);37,94
+MU;3510153;Canitar (SP);76,34
+MU;3510203;Capão Bonito (SP);28,15
+MU;3510302;Capela do Alto (SP);103,2
+MU;3510401;Capivari (SP);150,53
+MU;3510500;Caraguatatuba (SP);207,76
+MU;3510609;Carapicuíba (SP);10680,08
+MU;3510708;Cardoso (SP);18,45
+MU;3510807;Casa Branca (SP);32,76
+MU;3510906;Cássia dos Coqueiros (SP);13,74
+MU;3511003;Castilho (SP);16,89
+MU;3511102;Catanduva (SP);388,24
+MU;3511201;Catiguá (SP);48,03
+MU;3511300;Cedral (SP);40,38
+MU;3511409;Cerqueira César (SP);34,48
+MU;3511508;Cerquilho (SP);309,98
+MU;3511607;Cesário Lange (SP);81,46
+MU;3511706;Charqueada (SP);85,79
+MU;3511904;Clementina (SP);41,85
+MU;3512001;Colina (SP);41,11
+MU;3512100;Colômbia (SP);8,22
+MU;3512209;Conchal (SP);138,02
+MU;3512308;Conchas (SP);34,95
+MU;3512407;Cordeirópolis (SP);153,22
+MU;3512506;Coroados (SP);21,26
+MU;3512605;Coronel Macedo (SP);16,45
+MU;3512704;Corumbataí (SP);13,9
+MU;3512803;Cosmópolis (SP);380,37
+MU;3512902;Cosmorama (SP);16,25
+MU;3513009;Cotia (SP);622,55
+MU;3513108;Cravinhos (SP);101,84
+MU;3513207;Cristais Paulista (SP);19,7
+MU;3513306;Cruzália (SP);15,26
+MU;3513405;Cruzeiro (SP);252,01
+MU;3513504;Cubatão (SP);833,81
+MU;3513603;Cunha (SP);15,54
+MU;3513702;Descalvado (SP);41,2
+MU;3513801;Diadema (SP);12519,1
+MU;3513850;Dirce Reis (SP);19,12
+MU;3513900;Divinolândia (SP);50,46
+MU;3514007;Dobrada (SP);53,02
+MU;3514106;Dois Córregos (SP);39,12
+MU;3514205;Dolcinópolis (SP);26,76
+MU;3514304;Dourado (SP);41,82
+MU;3514403;Dracena (SP);88,64
+MU;3514502;Duartina (SP);46,31
+MU;3514601;Dumont (SP);73,19
+MU;3514700;Echaporã (SP);12,26
+MU;3514809;Eldorado (SP);8,85
+MU;3514908;Elias Fausto (SP);77,83
+MU;3514924;Elisiário (SP);33,2
+MU;3514957;Embaúba (SP);29,15
+MU;3515004;Embu das Artes (SP);3412,5
+MU;3515103;Embu-Guaçu (SP);405,11
+MU;3515129;Emilianópolis (SP);13,45
+MU;3515152;Engenheiro Coelho (SP);142,99
+MU;3515186;Espírito Santo do Pinhal (SP);107,61
+MU;3515194;Espírito Santo do Turvo (SP);21,92
+MU;3515202;Estrela d'Oeste (SP);27,69
+MU;3515301;Estrela do Norte (SP);10,09
+MU;3515350;Euclides da Cunha Paulista (SP);16,66
+MU;3515400;Fartura (SP);35,7
+MU;3515509;Fernandópolis (SP);117,62
+MU;3515608;Fernando Prestes (SP);32,43
+MU;3515657;Fernão (SP);15,51
+MU;3515707;Ferraz de Vasconcelos (SP);5624,82
+MU;3515806;Flora Rica (SP);7,78
+MU;3515905;Floreal (SP);14,7
+MU;3516002;Flórida Paulista (SP);24,47
+MU;3516101;Florínea (SP);12,54
+MU;3516200;Franca (SP);526,09
+MU;3516309;Francisco Morato (SP);3130,45
+MU;3516408;Franco da Rocha (SP);981,28
+MU;3516507;Gabriel Monteiro (SP);19,55
+MU;3516606;Gália (SP);19,69
+MU;3516705;Garça (SP);77,6
+MU;3516804;Gastão Vidigal (SP);23,17
+MU;3516853;Gavião Peixoto (SP);18,13
+MU;3516903;General Salgado (SP);21,63
+MU;3517000;Getulina (SP);15,86
+MU;3517109;Glicério (SP);16,69
+MU;3517208;Guaiçara (SP);39,48
+MU;3517307;Guaimbê (SP);24,88
+MU;3517406;Guaíra (SP);29,72
+MU;3517505;Guapiaçu (SP);54,81
+MU;3517604;Guapiara (SP);44,08
+MU;3517703;Guará (SP);54,78
+MU;3517802;Guaraçaí (SP);14,8
+MU;3517901;Guaraci (SP);15,55
+MU;3518008;Guarani d'Oeste (SP);23,03
+MU;3518107;Guarantã (SP);13,89
+MU;3518206;Guararapes (SP);31,99
+MU;3518305;Guararema (SP);95,5
+MU;3518404;Guaratinguetá (SP);148,95
+MU;3518503;Guareí (SP);25,72
+MU;3518602;Guariba (SP);131,29
+MU;3518701;Guarujá (SP);2034,91
+MU;3518800;Guarulhos (SP);3828,36
+MU;3518859;Guatapará (SP);16,86
+MU;3518909;Guzolândia (SP);18,86
+MU;3519006;Herculândia (SP);23,85
+MU;3519055;Holambra (SP);172,3
+MU;3519071;Hortolândia (SP);3082,92
+MU;3519105;Iacanga (SP);18,29
+MU;3519204;Iacri (SP);19,9
+MU;3519253;Iaras (SP);15,89
+MU;3519303;Ibaté (SP);105,74
+MU;3519402;Ibirá (SP);40,07
+MU;3519501;Ibirarema (SP);29,45
+MU;3519600;Ibitinga (SP);77,12
+MU;3519709;Ibiúna (SP);67,34
+MU;3519808;Icém (SP);20,58
+MU;3519907;Iepê (SP);12,81
+MU;3520004;Igaraçu do Tietê (SP);239,07
+MU;3520103;Igarapava (SP);59,7
+MU;3520202;Igaratá (SP);30,14
+MU;3520301;Iguape (SP);14,59
+MU;3520400;Ilhabela (SP);81,13
+MU;3520426;Ilha Comprida (SP);47,9
+MU;3520442;Ilha Solteira (SP);38,19
+MU;3520509;Indaiatuba (SP);647,54
+MU;3520608;Indiana (SP);38,1
+MU;3520707;Indiaporã (SP);13,96
+MU;3520806;Inúbia Paulista (SP);41,53
+MU;3520905;Ipaussu (SP);65,17
+MU;3521002;Iperó (SP);166,42
+MU;3521101;Ipeúna (SP);31,66
+MU;3521150;Ipiguá (SP);32,62
+MU;3521200;Iporanga (SP);3,73
+MU;3521309;Ipuã (SP);30,37
+MU;3521408;Iracemápolis (SP);173,99
+MU;3521507;Irapuã (SP);28,21
+MU;3521606;Irapuru (SP);36,24
+MU;3521705;Itaberá (SP);16,5
+MU;3521804;Itaí (SP);21,61
+MU;3521903;Itajobi (SP);28,99
+MU;3522000;Itaju (SP);14,12
+MU;3522109;Itanhaém (SP);145,2
+MU;3522158;Itaoca (SP);17,64
+MU;3522208;Itapecerica da Serra (SP);1015,41
+MU;3522307;Itapetininga (SP);80,65
+MU;3522406;Itapeva (SP);48,05
+MU;3522505;Itapevi (SP);2415,79
+MU;3522604;Itapira (SP);132,21
+MU;3522653;Itapirapuã Paulista (SP);9,55
+MU;3522703;Itápolis (SP);40,18
+MU;3522802;Itaporanga (SP);28,66
+MU;3522901;Itapuí (SP);86,46
+MU;3523008;Itapura (SP);14,46
+MU;3523107;Itaquaquecetuba (SP);3877,73
+MU;3523206;Itararé (SP);47,76
+MU;3523305;Itariri (SP);56,5
+MU;3523404;Itatiba (SP);314,92
+MU;3523503;Itatinga (SP);18,42
+MU;3523602;Itirapina (SP);27,52
+MU;3523701;Itirapuã (SP);36,71
+MU;3523800;Itobi (SP);54,2
+MU;3523909;Itu (SP);240,57
+MU;3524006;Itupeva (SP);223,46
+MU;3524105;Ituverava (SP);54,87
+MU;3524204;Jaborandi (SP);24,11
+MU;3524303;Jaboticabal (SP);101,42
+MU;3524402;Jacareí (SP);459,48
+MU;3524501;Jaci (SP);38,87
+MU;3524600;Jacupiranga (SP);24,44
+MU;3524709;Jaguariúna (SP);312,56
+MU;3524808;Jales (SP);127,57
+MU;3524907;Jambeiro (SP);29,03
+MU;3525003;Jandira (SP);6124,59
+MU;3525102;Jardinópolis (SP);74,95
+MU;3525201;Jarinu (SP);114,85
+MU;3525300;Jaú (SP);191,09
+MU;3525409;Jeriquara (SP);22,26
+MU;3525508;Joanópolis (SP);31,37
+MU;3525607;João Ramalho (SP);9,99
+MU;3525706;José Bonifácio (SP);38,1
+MU;3525805;Júlio Mesquita (SP);34,55
+MU;3525854;Jumirim (SP);49,36
+MU;3525904;Jundiaí (SP);857,77
+MU;3526001;Junqueirópolis (SP);32,12
+MU;3526100;Juquiá (SP);23,41
+MU;3526209;Juquitiba (SP);55,04
+MU;3526308;Lagoinha (SP);18,95
+MU;3526407;Laranjal Paulista (SP);65,75
+MU;3526506;Lavínia (SP);16,33
+MU;3526605;Lavrinhas (SP);39,45
+MU;3526704;Leme (SP);227,75
+MU;3526803;Lençóis Paulista (SP);75,88
+MU;3526902;Limeira (SP);475,08
+MU;3527009;Lindóia (SP);137,67
+MU;3527108;Lins (SP);125,27
+MU;3527207;Lorena (SP);199,19
+MU;3527256;Lourdes (SP);18,71
+MU;3527306;Louveira (SP);673,37
+MU;3527405;Lucélia (SP);63,16
+MU;3527504;Lucianópolis (SP);11,85
+MU;3527603;Luís Antônio (SP);18,86
+MU;3527702;Luiziânia (SP);30,2
+MU;3527801;Lupércio (SP);28,18
+MU;3527900;Lutécia (SP);5,71
+MU;3528007;Macatuba (SP);72,19
+MU;3528106;Macaubal (SP);30,88
+MU;3528205;Macedônia (SP);11,18
+MU;3528304;Magda (SP);10,27
+MU;3528403;Mairinque (SP);206,18
+MU;3528502;Mairiporã (SP);252,25
+MU;3528601;Manduri (SP);39,26
+MU;3528700;Marabá Paulista (SP);5,24
+MU;3528809;Maracaí (SP);24,97
+MU;3528858;Marapoama (SP);23,66
+MU;3528908;Mariápolis (SP);21,07
+MU;3529005;Marília (SP);185,21
+MU;3529104;Marinópolis (SP);27,15
+MU;3529203;Martinópolis (SP);19,33
+MU;3529302;Matão (SP);146,3
+MU;3529401;Mauá (SP);6803,54
+MU;3529500;Mendonça (SP);23,79
+MU;3529609;Meridiano (SP);16,82
+MU;3529658;Mesópolis (SP);12,67
+MU;3529708;Miguelópolis (SP);24,88
+MU;3529807;Mineiros do Tietê (SP);56,45
+MU;3529906;Miracatu (SP);20,56
+MU;3530003;Mira Estrela (SP);13,01
+MU;3530102;Mirandópolis (SP);29,91
+MU;3530201;Mirante do Paranapanema (SP);13,77
+MU;3530300;Mirassol (SP);221,22
+MU;3530409;Mirassolândia (SP);25,85
+MU;3530508;Mococa (SP);77,55
+MU;3530607;Mogi das Cruzes (SP);543,65
+MU;3530706;Mogi Guaçu (SP);168,98
+MU;3530805;Mogi Mirim (SP);173,78
+MU;3530904;Mombuca (SP);24,43
+MU;3531001;Monções (SP);20,45
+MU;3531100;Mongaguá (SP);325,72
+MU;3531209;Monte Alegre do Sul (SP);64,84
+MU;3531308;Monte Alto (SP);134,61
+MU;3531407;Monte Aprazível (SP);43,76
+MU;3531506;Monte Azul Paulista (SP);71,86
+MU;3531605;Monte Castelo (SP);17,47
+MU;3531704;Monteiro Lobato (SP);12,36
+MU;3531803;Monte Mor (SP);203,55
+MU;3531902;Morro Agudo (SP);20,97
+MU;3532009;Morungaba (SP);80,14
+MU;3532058;Motuca (SP);18,76
+MU;3532108;Murutinga do Sul (SP);16,69
+MU;3532157;Nantes (SP);9,46
+MU;3532207;Narandiba (SP);11,98
+MU;3532306;Natividade da Serra (SP);8,01
+MU;3532405;Nazaré Paulista (SP);50,36
+MU;3532504;Neves Paulista (SP);40,18
+MU;3532603;Nhandeara (SP);24,61
+MU;3532702;Nipoã (SP);31,01
+MU;3532801;Nova Aliança (SP);27,11
+MU;3532827;Nova Campina (SP);22,1
+MU;3532843;Nova Canaã Paulista (SP);16,99
+MU;3532868;Nova Castilho (SP);6,14
+MU;3532900;Nova Europa (SP);58
+MU;3533007;Nova Granada (SP);36,06
+MU;3533106;Nova Guataporanga (SP);63,81
+MU;3533205;Nova Independência (SP);11,54
+MU;3533254;Novais (SP);38,99
+MU;3533304;Nova Luzitânia (SP);46,46
+MU;3533403;Nova Odessa (SP);694,34
+MU;3533502;Novo Horizonte (SP);39,28
+MU;3533601;Nuporanga (SP);19,57
+MU;3533700;Ocauçu (SP);13,86
+MU;3533809;Óleo (SP);13,49
+MU;3533908;Olímpia (SP);62,32
+MU;3534005;Onda Verde (SP);15,98
+MU;3534104;Oriente (SP);27,89
+MU;3534203;Orindiúva (SP);22,87
+MU;3534302;Orlândia (SP);136,34
+MU;3534401;Osasco (SP);10411,79
+MU;3534500;Oscar Bressane (SP);11,46
+MU;3534609;Osvaldo Cruz (SP);124,47
+MU;3534708;Ourinhos (SP);347,78
+MU;3534757;Ouroeste (SP);29,1
+MU;3534807;Ouro Verde (SP);29,15
+MU;3534906;Pacaembu (SP);39,07
+MU;3535002;Palestina (SP);15,89
+MU;3535101;Palmares Paulista (SP);133,14
+MU;3535200;Palmeira d'Oeste (SP);30,02
+MU;3535309;Palmital (SP);38,67
+MU;3535408;Panorama (SP);40,93
+MU;3535507;Paraguaçu Paulista (SP);42,28
+MU;3535606;Paraibuna (SP);21,48
+MU;3535705;Paraíso (SP);37,85
+MU;3535804;Paranapanema (SP);17,48
+MU;3535903;Paranapuã (SP);27,16
+MU;3536000;Parapuã (SP);29,65
+MU;3536109;Pardinho (SP);26,59
+MU;3536208;Pariquera-Açu (SP);51,34
+MU;3536257;Parisi (SP);24,04
+MU;3536307;Patrocínio Paulista (SP);21,56
+MU;3536406;Paulicéia (SP);16,97
+MU;3536505;Paulínia (SP);591,72
+MU;3536570;Paulistânia (SP);6,93
+MU;3536604;Paulo de Faria (SP);11,63
+MU;3536703;Pederneiras (SP);56,92
+MU;3536802;Pedra Bela (SP);36,45
+MU;3536901;Pedranópolis (SP);9,83
+MU;3537008;Pedregulho (SP);22,03
+MU;3537107;Pedreira (SP);380,45
+MU;3537156;Pedrinhas Paulista (SP);19,28
+MU;3537206;Pedro de Toledo (SP);15,22
+MU;3537305;Penápolis (SP);82,31
+MU;3537404;Pereira Barreto (SP);25,5
+MU;3537503;Pereiras (SP);33,38
+MU;3537602;Peruíbe (SP);191,95
+MU;3537701;Piacatu (SP);22,75
+MU;3537800;Piedade (SP);69,82
+MU;3537909;Pilar do Sul (SP);38,77
+MU;3538006;Pindamonhangaba (SP);201,39
+MU;3538105;Pindorama (SP);81,37
+MU;3538204;Pinhalzinho (SP);84,8
+MU;3538303;Piquerobi (SP);7,33
+MU;3538501;Piquete (SP);80,16
+MU;3538600;Piracaia (SP);65,23
+MU;3538709;Piracicaba (SP);264,77
+MU;3538808;Piraju (SP);56,44
+MU;3538907;Pirajuí (SP);27,55
+MU;3539004;Pirangi (SP);49,3
+MU;3539103;Pirapora do Bom Jesus (SP);144,63
+MU;3539202;Pirapozinho (SP);51,49
+MU;3539301;Pirassununga (SP);96,38
+MU;3539400;Piratininga (SP);30
+MU;3539509;Pitangueiras (SP);81,99
+MU;3539608;Planalto (SP);15,38
+MU;3539707;Platina (SP);9,77
+MU;3539806;Poá (SP);6211,94
+MU;3539905;Poloni (SP);40,4
+MU;3540002;Pompéia (SP);25,46
+MU;3540101;Pongaí (SP);18,99
+MU;3540200;Pontal (SP);112,94
+MU;3540259;Pontalinda (SP);19,38
+MU;3540309;Pontes Gestal (SP);11,58
+MU;3540408;Populina (SP);13,37
+MU;3540507;Porangaba (SP);31,34
+MU;3540606;Porto Feliz (SP);87,76
+MU;3540705;Porto Ferreira (SP);209,88
+MU;3540754;Potim (SP);436,22
+MU;3540804;Potirendaba (SP);45,12
+MU;3540853;Pracinha (SP);45,48
+MU;3540903;Pradópolis (SP);103,73
+MU;3541000;Praia Grande (SP);1776,09
+MU;3541059;Pratânia (SP);26,26
+MU;3541109;Presidente Alves (SP);14,36
+MU;3541208;Presidente Bernardes (SP);18,04
+MU;3541307;Presidente Epitácio (SP);32,82
+MU;3541406;Presidente Prudente (SP);368,89
+MU;3541505;Presidente Venceslau (SP);50,1
+MU;3541604;Promissão (SP);45,65
+MU;3541653;Quadra (SP);15,73
+MU;3541703;Quatá (SP);19,64
+MU;3541802;Queiroz (SP);12,01
+MU;3541901;Queluz (SP);45,27
+MU;3542008;Quintana (SP);18,79
+MU;3542107;Rafard (SP);70,93
+MU;3542206;Rancharia (SP);18,14
+MU;3542305;Redenção da Serra (SP);12,52
+MU;3542404;Regente Feijó (SP);69,76
+MU;3542503;Reginópolis (SP);17,83
+MU;3542602;Registro (SP);75,11
+MU;3542701;Restinga (SP);26,8
+MU;3542800;Ribeira (SP);10
+MU;3542909;Ribeirão Bonito (SP);25,73
+MU;3543006;Ribeirão Branco (SP);26,19
+MU;3543105;Ribeirão Corrente (SP);28,81
+MU;3543204;Ribeirão do Sul (SP);21,83
+MU;3543238;Ribeirão dos Índios (SP);11,14
+MU;3543253;Ribeirão Grande (SP);22,26
+MU;3543303;Ribeirão Pires (SP);1144,99
+MU;3543402;Ribeirão Preto (SP);928,46
+MU;3543501;Riversul (SP);15,96
+MU;3543600;Rifaina (SP);21,14
+MU;3543709;Rincão (SP);32,97
+MU;3543808;Rinópolis (SP);27,73
+MU;3543907;Rio Claro (SP);373,47
+MU;3544004;Rio das Pedras (SP);130,16
+MU;3544103;Rio Grande da Serra (SP);1192,45
+MU;3544202;Riolândia (SP);16,7
+MU;3544251;Rosana (SP);26,51
+MU;3544301;Roseira (SP);73,47
+MU;3544400;Rubiácea (SP);11,52
+MU;3544509;Rubinéia (SP);12,08
+MU;3544608;Sabino (SP);16,78
+MU;3544707;Sagres (SP);16,2
+MU;3544806;Sales (SP);17,67
+MU;3544905;Sales Oliveira (SP);34,58
+MU;3545001;Salesópolis (SP);36,79
+MU;3545100;Salmourão (SP);27,96
+MU;3545159;Saltinho (SP);70,77
+MU;3545209;Salto (SP);792,17
+MU;3545308;Salto de Pirapora (SP);143,07
+MU;3545407;Salto Grande (SP);46,64
+MU;3545506;Sandovalina (SP);8,13
+MU;3545605;Santa Adélia (SP);43,32
+MU;3545704;Santa Albertina (SP);20,98
+MU;3545803;Santa Bárbara d'Oeste (SP);663,08
+MU;3546009;Santa Branca (SP);50
+MU;3546108;Santa Clara d'Oeste (SP);11,36
+MU;3546207;Santa Cruz da Conceição (SP);26,66
+MU;3546256;Santa Cruz da Esperança (SP);13,19
+MU;3546306;Santa Cruz das Palmeiras (SP);101,35
+MU;3546405;Santa Cruz do Rio Pardo (SP);39,44
+MU;3546504;Santa Ernestina (SP);41,42
+MU;3546603;Santa Fé do Sul (SP);140,43
+MU;3546702;Santa Gertrudes (SP);220,74
+MU;3546801;Santa Isabel (SP);139,09
+MU;3546900;Santa Lúcia (SP);53,55
+MU;3547007;Santa Maria da Serra (SP);21,05
+MU;3547106;Santa Mercedes (SP);16,96
+MU;3547205;Santana da Ponte Pensa (SP);12,6
+MU;3547304;Santana de Parnaíba (SP);605,17
+MU;3547403;Santa Rita d'Oeste (SP);12,1
+MU;3547502;Santa Rita do Passa Quatro (SP);35,11
+MU;3547601;Santa Rosa de Viterbo (SP);82,69
+MU;3547650;Santa Salete (SP);18,23
+MU;3547700;Santo Anastácio (SP);37,06
+MU;3547809;Santo André (SP);3866,35
+MU;3547908;Santo Antônio da Alegria (SP);20,31
+MU;3548005;Santo Antônio de Posse (SP);134,09
+MU;3548054;Santo Antônio do Aracanguá (SP);5,83
+MU;3548104;Santo Antônio do Jardim (SP);54,05
+MU;3548203;Santo Antônio do Pinhal (SP);48,76
+MU;3548302;Santo Expedito (SP);29,68
+MU;3548401;Santópolis do Aguapeí (SP);33,44
+MU;3548500;Santos (SP);1492,23
+MU;3548609;São Bento do Sapucaí (SP);41,44
+MU;3548708;São Bernardo do Campo (SP);1872,59
+MU;3548807;São Caetano do Sul (SP);9708,79
+MU;3548906;São Carlos (SP);195,15
+MU;3549003;São Francisco (SP);36,94
+MU;3549102;São João da Boa Vista (SP);161,96
+MU;3549201;São João das Duas Pontes (SP);19,84
+MU;3549250;São João de Iracema (SP);9,97
+MU;3549300;São João do Pau d'Alho (SP);17,86
+MU;3549409;São Joaquim da Barra (SP);113,28
+MU;3549508;São José da Bela Vista (SP);30,35
+MU;3549607;São José do Barreiro (SP);7,14
+MU;3549706;São José do Rio Pardo (SP);123,81
+MU;3549805;São José do Rio Preto (SP);946,53
+MU;3549904;São José dos Campos (SP);572,77
+MU;3549953;São Lourenço da Serra (SP);74,96
+MU;3550001;São Luiz do Paraitinga (SP);16,84
+MU;3550100;São Manuel (SP);58,92
+MU;3550209;São Miguel Arcanjo (SP);33,8
+MU;3550308;São Paulo (SP);7387,69
+MU;3550407;São Pedro (SP);51,82
+MU;3550506;São Pedro do Turvo (SP);9,84
+MU;3550605;São Roque (SP);257,3
+MU;3550704;São Sebastião (SP);184,68
+MU;3550803;São Sebastião da Grama (SP);47,94
+MU;3550902;São Simão (SP);23,24
+MU;3551009;São Vicente (SP);2232,28
+MU;3551108;Sarapuí (SP);25,6
+MU;3551207;Sarutaiá (SP);25,58
+MU;3551306;Sebastianópolis do Sul (SP);18,61
+MU;3551405;Serra Azul (SP);39,77
+MU;3551504;Serrana (SP);309,68
+MU;3551603;Serra Negra (SP);129,52
+MU;3551702;Sertãozinho (SP);273,43
+MU;3551801;Sete Barras (SP);12,34
+MU;3551900;Severínia (SP);110,38
+MU;3552007;Silveiras (SP);13,96
+MU;3552106;Socorro (SP);81,7
+MU;3552205;Sorocaba (SP);1306,55
+MU;3552304;Sud Mennucci (SP);12,57
+MU;3552403;Sumaré (SP);1577,14
+MU;3552502;Suzano (SP);1270,37
+MU;3552551;Suzanápolis (SP);10,3
+MU;3552601;Tabapuã (SP);32,88
+MU;3552700;Tabatinga (SP);39,74
+MU;3552809;Taboão da Serra (SP);12049,87
+MU;3552908;Taciba (SP);9,41
+MU;3553005;Taguaí (SP);74,51
+MU;3553104;Taiaçu (SP);55,27
+MU;3553203;Taiúva (SP);41,12
+MU;3553302;Tambaú (SP);39,88
+MU;3553401;Tanabi (SP);32,25
+MU;3553500;Tapiraí (SP);10,61
+MU;3553609;Tapiratiba (SP);57,23
+MU;3553658;Taquaral (SP);50,58
+MU;3553708;Taquaritinga (SP);90,95
+MU;3553807;Taquarituba (SP);49,71
+MU;3553856;Taquarivaí (SP);22,22
+MU;3553906;Tarabai (SP);33,57
+MU;3553955;Tarumã (SP);42,5
+MU;3554003;Tatuí (SP);205,03
+MU;3554102;Taubaté (SP);445,98
+MU;3554201;Tejupá (SP);16,23
+MU;3554300;Teodoro Sampaio (SP);13,74
+MU;3554409;Terra Roxa (SP);38,39
+MU;3554508;Tietê (SP);91
+MU;3554607;Timburi (SP);13,45
+MU;3554656;Torre de Pedra (SP);31,59
+MU;3554706;Torrinha (SP);30,03
+MU;3554755;Trabiju (SP);24,35
+MU;3554805;Tremembé (SP);214,17
+MU;3554904;Três Fronteiras (SP);35,45
+MU;3554953;Tuiuti (SP);46,8
+MU;3555000;Tupã (SP);100,99
+MU;3555109;Tupi Paulista (SP);58,16
+MU;3555208;Turiúba (SP);12,6
+MU;3555307;Turmalina (SP);13,37
+MU;3555356;Ubarana (SP);25,23
+MU;3555406;Ubatuba (SP);110,87
+MU;3555505;Ubirajara (SP);15,68
+MU;3555604;Uchoa (SP);37,51
+MU;3555703;União Paulista (SP);20,21
+MU;3555802;Urânia (SP);42,29
+MU;3555901;Uru (SP);8,51
+MU;3556008;Urupês (SP);39,27
+MU;3556107;Valentim Gentil (SP);73,72
+MU;3556206;Valinhos (SP);721,02
+MU;3556305;Valparaíso (SP);26,33
+MU;3556354;Vargem (SP);61,64
+MU;3556404;Vargem Grande do Sul (SP);146,94
+MU;3556453;Vargem Grande Paulista (SP);1021,79
+MU;3556503;Várzea Paulista (SP);3076,65
+MU;3556602;Vera Cruz (SP);43,41
+MU;3556701;Vinhedo (SP);779,51
+MU;3556800;Viradouro (SP);79,44
+MU;3556909;Vista Alegre do Alto (SP);72,5
+MU;3556958;Vitória Brasil (SP);34,95
+MU;3557006;Votorantim (SP);592,47
+MU;3557105;Votuporanga (SP);199,69
+MU;3557154;Zacarias (SP);7,32
+MU;3557204;Chavantes (SP);64,4
+MU;3557303;Estiva Gerbi (SP);135,35
+MU;4100103;Abatiá (PR);33,95
+MU;4100202;Adrianópolis (PR);4,73
+MU;4100301;Agudos do Sul (PR);43,02
+MU;4100400;Almirante Tamandaré (PR);529,94
+MU;4100459;Altamira do Paraná (PR);11,13
+MU;4100509;Altônia (PR);31,01
+MU;4100608;Alto Paraná (PR);33,51
+MU;4100707;Alto Piquiri (PR);22,74
+MU;4100806;Alvorada do Sul (PR);24,24
+MU;4100905;Amaporã (PR);14,15
+MU;4101002;Ampére (PR);58,01
+MU;4101051;Anahy (PR);28
+MU;4101101;Andirá (PR);87,3
+MU;4101150;Ângulo (PR);26,97
+MU;4101200;Antonina (PR);21,41
+MU;4101309;Antônio Olinto (PR);15,65
+MU;4101408;Apucarana (PR);216,55
+MU;4101507;Arapongas (PR);273,3
+MU;4101606;Arapoti (PR);19
+MU;4101655;Arapuã (PR);16,34
+MU;4101705;Araruna (PR);27,21
+MU;4101804;Araucária (PR);253,9
+MU;4101853;Ariranha do Ivaí (PR);10,24
+MU;4101903;Assaí (PR);37,14
+MU;4102000;Assis Chateaubriand (PR);34,06
+MU;4102109;Astorga (PR);56,8
+MU;4102208;Atalaia (PR);28,42
+MU;4102307;Balsa Nova (PR);32,38
+MU;4102406;Bandeirantes (PR);72,29
+MU;4102505;Barbosa Ferraz (PR);23,5
+MU;4102604;Barracão (PR);56,67
+MU;4102703;Barra do Jacaré (PR);23,56
+MU;4102752;Bela Vista da Caroba (PR);26,64
+MU;4102802;Bela Vista do Paraíso (PR);62,13
+MU;4102901;Bituruna (PR);13,07
+MU;4103008;Boa Esperança (PR);14,86
+MU;4103024;Boa Esperança do Iguaçu (PR);18,21
+MU;4103040;Boa Ventura de São Roque (PR);10,53
+MU;4103057;Boa Vista da Aparecida (PR);30,87
+MU;4103107;Bocaiúva do Sul (PR);13,3
+MU;4103156;Bom Jesus do Sul (PR);21,82
+MU;4103206;Bom Sucesso (PR);20,33
+MU;4103222;Bom Sucesso do Sul (PR);16,81
+MU;4103305;Borrazópolis (PR);23,56
+MU;4103354;Braganey (PR);16,7
+MU;4103370;Brasilândia do Sul (PR);11,03
+MU;4103404;Cafeara (PR);14,5
+MU;4103453;Cafelândia (PR);53,96
+MU;4103479;Cafezal do Sul (PR);12,79
+MU;4103503;Califórnia (PR);56,9
+MU;4103602;Cambará (PR);65,23
+MU;4103701;Cambé (PR);195,54
+MU;4103800;Cambira (PR);44,29
+MU;4103909;Campina da Lagoa (PR);19,32
+MU;4103958;Campina do Simão (PR);9,09
+MU;4104006;Campina Grande do Sul (PR);71,93
+MU;4104055;Campo Bonito (PR);10,16
+MU;4104105;Campo do Tenente (PR);23,4
+MU;4104204;Campo Largo (PR);89,94
+MU;4104253;Campo Magro (PR);90,15
+MU;4104303;Campo Mourão (PR);115,05
+MU;4104402;Cândido de Abreu (PR);11,03
+MU;4104428;Candói (PR);9,9
+MU;4104451;Cantagalo (PR);22,2
+MU;4104501;Capanema (PR);44,25
+MU;4104600;Capitão Leônidas Marques (PR);54,29
+MU;4104659;Carambeí (PR);29,5
+MU;4104709;Carlópolis (PR);30,36
+MU;4104808;Cascavel (PR);136,23
+MU;4104907;Castro (PR);26,5
+MU;4105003;Catanduvas (PR);17,54
+MU;4105102;Centenário do Sul (PR);30,09
+MU;4105201;Cerro Azul (PR);12,63
+MU;4105300;Céu Azul (PR);9,35
+MU;4105409;Chopinzinho (PR);20,51
+MU;4105508;Cianorte (PR);86,19
+MU;4105607;Cidade Gaúcha (PR);27,45
+MU;4105706;Clevelândia (PR);24,47
+MU;4105805;Colombo (PR);1079,08
+MU;4105904;Colorado (PR);55,41
+MU;4106001;Congonhinhas (PR);15,45
+MU;4106100;Conselheiro Mairinck (PR);17,76
+MU;4106209;Contenda (PR);53,14
+MU;4106308;Corbélia (PR);30,81
+MU;4106407;Cornélio Procópio (PR);73,89
+MU;4106456;Coronel Domingos Soares (PR);4,59
+MU;4106506;Coronel Vivida (PR);31,78
+MU;4106555;Corumbataí do Sul (PR);24,35
+MU;4106571;Cruzeiro do Iguaçu (PR);26,43
+MU;4106605;Cruzeiro do Oeste (PR);26,2
+MU;4106704;Cruzeiro do Sul (PR);17,61
+MU;4106803;Cruz Machado (PR);12,2
+MU;4106852;Cruzmaltina (PR);10,12
+MU;4106902;Curitiba (PR);4024,84
+MU;4107009;Curiúva (PR);24,16
+MU;4107108;Diamante do Norte (PR);22,71
+MU;4107124;Diamante do Sul (PR);9,75
+MU;4107157;Diamante D'Oeste (PR);16,26
+MU;4107207;Dois Vizinhos (PR);86,42
+MU;4107256;Douradina (PR);17,73
+MU;4107306;Doutor Camargo (PR);49,27
+MU;4107405;Enéas Marques (PR);31,75
+MU;4107504;Engenheiro Beltrão (PR);29,75
+MU;4107520;Esperança Nova (PR);14,22
+MU;4107538;Entre Rios do Oeste (PR);32,16
+MU;4107546;Espigão Alto do Iguaçu (PR);14,33
+MU;4107553;Farol (PR);12
+MU;4107603;Faxinal (PR);22,79
+MU;4107652;Fazenda Rio Grande (PR);700,02
+MU;4107702;Fênix (PR);20,51
+MU;4107736;Fernandes Pinheiro (PR);14,59
+MU;4107751;Figueira (PR);63,91
+MU;4107801;Floraí (PR);26,42
+MU;4107850;Flor da Serra do Sul (PR);19,75
+MU;4107900;Floresta (PR);37,48
+MU;4108007;Florestópolis (PR);45,56
+MU;4108106;Flórida (PR);30,62
+MU;4108205;Formosa do Oeste (PR);27,35
+MU;4108304;Foz do Iguaçu (PR);414,58
+MU;4108320;Francisco Alves (PR);19,94
+MU;4108403;Francisco Beltrão (PR);107,39
+MU;4108452;Foz do Jordão (PR);23,03
+MU;4108502;General Carneiro (PR);12,77
+MU;4108551;Godoy Moreira (PR);25,47
+MU;4108601;Goioerê (PR);51,44
+MU;4108650;Goioxim (PR);10,68
+MU;4108700;Grandes Rios (PR);21,09
+MU;4108809;Guaíra (PR);54,78
+MU;4108908;Guairaçá (PR);12,55
+MU;4108957;Guamiranga (PR);32,27
+MU;4109005;Guapirama (PR);20,58
+MU;4109104;Guaporema (PR);11,08
+MU;4109203;Guaraci (PR);24,69
+MU;4109302;Guaraniaçu (PR);11,9
+MU;4109401;Guarapuava (PR);53,69
+MU;4109500;Guaraqueçaba (PR);3,9
+MU;4109609;Guaratuba (PR);24,21
+MU;4109658;Honório Serpa (PR);11,86
+MU;4109708;Ibaiti (PR);32,03
+MU;4109757;Ibema (PR);41,71
+MU;4109807;Ibiporã (PR);161,88
+MU;4109906;Icaraíma (PR);13,09
+MU;4110003;Iguaraçu (PR);24,14
+MU;4110052;Iguatu (PR);20,89
+MU;4110078;Imbaú (PR);34,03
+MU;4110102;Imbituva (PR);37,61
+MU;4110201;Inácio Martins (PR);11,68
+MU;4110300;Inajá (PR);15,35
+MU;4110409;Indianópolis (PR);35,06
+MU;4110508;Ipiranga (PR);15,26
+MU;4110607;Iporã (PR);23,12
+MU;4110656;Iracema do Oeste (PR);31,62
+MU;4110706;Irati (PR);56,23
+MU;4110805;Iretama (PR);18,62
+MU;4110904;Itaguajé (PR);24
+MU;4110953;Itaipulândia (PR);27,25
+MU;4111001;Itambaracá (PR);32,6
+MU;4111100;Itambé (PR);24,52
+MU;4111209;Itapejara d'Oeste (PR);41,46
+MU;4111258;Itaperuçu (PR);75,97
+MU;4111308;Itaúna do Sul (PR);27,8
+MU;4111407;Ivaí (PR);21,08
+MU;4111506;Ivaiporã (PR);73,73
+MU;4111555;Ivaté (PR);18,29
+MU;4111605;Ivatuba (PR);31,14
+MU;4111704;Jaboti (PR);35,2
+MU;4111803;Jacarezinho (PR);64,93
+MU;4111902;Jaguapitã (PR);25,74
+MU;4112009;Jaguariaíva (PR);22,44
+MU;4112108;Jandaia do Sul (PR);108,04
+MU;4112207;Janiópolis (PR);19,46
+MU;4112306;Japira (PR);26,04
+MU;4112405;Japurá (PR);51,75
+MU;4112504;Jardim Alegre (PR);30,4
+MU;4112603;Jardim Olinda (PR);10,96
+MU;4112702;Jataizinho (PR);74,6
+MU;4112751;Jesuítas (PR);36,37
+MU;4112801;Joaquim Távora (PR);37,13
+MU;4112900;Jundiaí do Sul (PR);10,7
+MU;4112959;Juranda (PR);21,85
+MU;4113007;Jussara (PR);31,35
+MU;4113106;Kaloré (PR);23,31
+MU;4113205;Lapa (PR);21,46
+MU;4113254;Laranjal (PR);11,37
+MU;4113304;Laranjeiras do Sul (PR);45,79
+MU;4113403;Leópolis (PR);12,02
+MU;4113429;Lidianópolis (PR);25,02
+MU;4113452;Lindoeste (PR);14,84
+MU;4113502;Loanda (PR);29,34
+MU;4113601;Lobato (PR);18,27
+MU;4113700;Londrina (PR);306,49
+MU;4113734;Luiziana (PR);8,05
+MU;4113759;Lunardelli (PR);25,9
+MU;4113809;Lupionópolis (PR);37,93
+MU;4113908;Mallet (PR);17,94
+MU;4114005;Mamborê (PR);17,72
+MU;4114104;Mandaguaçu (PR);67,28
+MU;4114203;Mandaguari (PR);97,25
+MU;4114302;Mandirituba (PR);58,6
+MU;4114351;Manfrinópolis (PR);14,45
+MU;4114401;Mangueirinha (PR);16,15
+MU;4114500;Manoel Ribas (PR);23,06
+MU;4114609;Marechal Cândido Rondon (PR);62,59
+MU;4114708;Maria Helena (PR);12,25
+MU;4114807;Marialva (PR);67,2
+MU;4114906;Marilândia do Sul (PR);23,06
+MU;4115002;Marilena (PR);29,51
+MU;4115101;Mariluz (PR);23,6
+MU;4115200;Maringá (PR);732,12
+MU;4115309;Mariópolis (PR);27,16
+MU;4115358;Maripá (PR);20,03
+MU;4115408;Marmeleiro (PR);35,85
+MU;4115457;Marquinho (PR);9,74
+MU;4115507;Marumbi (PR);22,08
+MU;4115606;Matelândia (PR);25,13
+MU;4115705;Matinhos (PR);249,93
+MU;4115739;Mato Rico (PR);9,68
+MU;4115754;Mauá da Serra (PR);78,98
+MU;4115804;Medianeira (PR);127,21
+MU;4115853;Mercedes (PR);25,12
+MU;4115903;Mirador (PR);10,5
+MU;4116000;Miraselva (PR);20,62
+MU;4116059;Missal (PR);32,29
+MU;4116109;Moreira Sales (PR);35,63
+MU;4116208;Morretes (PR);22,96
+MU;4116307;Munhoz de Melo (PR);26,8
+MU;4116406;Nossa Senhora das Graças (PR);20,65
+MU;4116505;Nova Aliança do Ivaí (PR);10,9
+MU;4116604;Nova América da Colina (PR);26,86
+MU;4116703;Nova Aurora (PR);25,03
+MU;4116802;Nova Cantu (PR);13,37
+MU;4116901;Nova Esperança (PR);66,27
+MU;4116950;Nova Esperança do Sudoeste (PR);24,45
+MU;4117008;Nova Fátima (PR);28,75
+MU;4117057;Nova Laranjeiras (PR);9,81
+MU;4117107;Nova Londrina (PR);48,51
+MU;4117206;Nova Olímpia (PR);40,36
+MU;4117214;Nova Santa Bárbara (PR);54,46
+MU;4117222;Nova Santa Rosa (PR);37,26
+MU;4117255;Nova Prata do Iguaçu (PR);29,43
+MU;4117271;Nova Tebas (PR);13,56
+MU;4117297;Novo Itacolomi (PR);17,51
+MU;4117305;Ortigueira (PR);9,62
+MU;4117404;Ourizona (PR);19,15
+MU;4117453;Ouro Verde do Oeste (PR);19,42
+MU;4117503;Paiçandu (PR);210,35
+MU;4117602;Palmas (PR);27,36
+MU;4117701;Palmeira (PR);22,04
+MU;4117800;Palmital (PR);18,18
+MU;4117909;Palotina (PR);44,04
+MU;4118006;Paraíso do Norte (PR);57,55
+MU;4118105;Paranacity (PR);29,4
+MU;4118204;Paranaguá (PR);169,92
+MU;4118303;Paranapoema (PR);15,87
+MU;4118402;Paranavaí (PR);67,86
+MU;4118451;Pato Bragado (PR);35,64
+MU;4118501;Pato Branco (PR);134,24
+MU;4118600;Paula Freitas (PR);12,93
+MU;4118709;Paulo Frontin (PR);18,72
+MU;4118808;Peabiru (PR);29,07
+MU;4118857;Perobal (PR);13,87
+MU;4118907;Pérola (PR);42,42
+MU;4119004;Pérola d'Oeste (PR);32,81
+MU;4119103;Piên (PR);44,08
+MU;4119152;Pinhais (PR);1926,09
+MU;4119202;Pinhalão (PR);28,17
+MU;4119251;Pinhal de São Bento (PR);26,93
+MU;4119301;Pinhão (PR);15,09
+MU;4119400;Piraí do Sul (PR);16,69
+MU;4119509;Piraquara (PR);410,54
+MU;4119608;Pitanga (PR);19,62
+MU;4119657;Pitangueiras (PR);22,84
+MU;4119707;Planaltina do Paraná (PR);11,5
+MU;4119806;Planalto (PR);39,49
+MU;4119905;Ponta Grossa (PR);150,72
+MU;4119954;Pontal do Paraná (PR);104,67
+MU;4120002;Porecatu (PR);48,65
+MU;4120101;Porto Amazonas (PR);24,19
+MU;4120150;Porto Barreiro (PR);10,15
+MU;4120200;Porto Rico (PR);11,62
+MU;4120309;Porto Vitória (PR);18,93
+MU;4120333;Prado Ferreira (PR);22,39
+MU;4120358;Pranchita (PR);24,92
+MU;4120408;Presidente Castelo Branco (PR);30,72
+MU;4120507;Primeiro de Maio (PR);26,14
+MU;4120606;Prudentópolis (PR);21,14
+MU;4120655;Quarto Centenário (PR);15,09
+MU;4120705;Quatiguá (PR);62,52
+MU;4120804;Quatro Barras (PR);109,59
+MU;4120853;Quatro Pontes (PR);33,25
+MU;4120903;Quedas do Iguaçu (PR);37,25
+MU;4121000;Querência do Norte (PR);12,82
+MU;4121109;Quinta do Sol (PR);15,6
+MU;4121208;Quitandinha (PR);38,23
+MU;4121257;Ramilândia (PR);17,43
+MU;4121307;Rancho Alegre (PR);23,59
+MU;4121356;Rancho Alegre D'Oeste (PR);11,79
+MU;4121406;Realeza (PR);46,23
+MU;4121505;Rebouças (PR);29,42
+MU;4121604;Renascença (PR);16,03
+MU;4121703;Reserva (PR);15,4
+MU;4121752;Reserva do Iguaçu (PR);8,76
+MU;4121802;Ribeirão Claro (PR);16,97
+MU;4121901;Ribeirão do Pinhal (PR);36,09
+MU;4122008;Rio Azul (PR);22,38
+MU;4122107;Rio Bom (PR);18,75
+MU;4122156;Rio Bonito do Iguaçu (PR);18,31
+MU;4122172;Rio Branco do Ivaí (PR);10,2
+MU;4122206;Rio Branco do Sul (PR);37,73
+MU;4122305;Rio Negro (PR);51,84
+MU;4122404;Rolândia (PR);125,74
+MU;4122503;Roncador (PR);15,55
+MU;4122602;Rondon (PR);16,18
+MU;4122651;Rosário do Ivaí (PR);15,05
+MU;4122701;Sabáudia (PR);32,03
+MU;4122800;Salgado Filho (PR);23,26
+MU;4122909;Salto do Itararé (PR);25,82
+MU;4123006;Salto do Lontra (PR);43,77
+MU;4123105;Santa Amélia (PR);48,73
+MU;4123204;Santa Cecília do Pavão (PR);33,09
+MU;4123303;Santa Cruz de Monte Castelo (PR);18,31
+MU;4123402;Santa Fé (PR);37,76
+MU;4123501;Santa Helena (PR);30,88
+MU;4123600;Santa Inês (PR);13,13
+MU;4123709;Santa Isabel do Ivaí (PR);25,06
+MU;4123808;Santa Izabel do Oeste (PR);40,89
+MU;4123824;Santa Lúcia (PR);33,59
+MU;4123857;Santa Maria do Oeste (PR);13,58
+MU;4123907;Santa Mariana (PR);29,11
+MU;4123956;Santa Mônica (PR);13,74
+MU;4124004;Santana do Itararé (PR);20,89
+MU;4124020;Santa Tereza do Oeste (PR);31,67
+MU;4124053;Santa Terezinha de Itaipu (PR);80,34
+MU;4124103;Santo Antônio da Platina (PR);59,19
+MU;4124202;Santo Antônio do Caiuá (PR);12,45
+MU;4124301;Santo Antônio do Paraíso (PR);14,51
+MU;4124400;Santo Antônio do Sudoeste (PR);58
+MU;4124509;Santo Inácio (PR);17,17
+MU;4124608;São Carlos do Ivaí (PR);28,23
+MU;4124707;São Jerônimo da Serra (PR);13,76
+MU;4124806;São João (PR);27,31
+MU;4124905;São João do Caiuá (PR);19,42
+MU;4125001;São João do Ivaí (PR);32,62
+MU;4125100;São João do Triunfo (PR);19,02
+MU;4125209;São Jorge d'Oeste (PR);23,94
+MU;4125308;São Jorge do Ivaí (PR);17,51
+MU;4125357;São Jorge do Patrocínio (PR);14,93
+MU;4125407;São José da Boa Vista (PR);16,29
+MU;4125456;São José das Palmeiras (PR);21
+MU;4125506;São José dos Pinhais (PR);279,16
+MU;4125555;São Manoel do Paraná (PR);22
+MU;4125605;São Mateus do Sul (PR);30,73
+MU;4125704;São Miguel do Iguaçu (PR);30,27
+MU;4125753;São Pedro do Iguaçu (PR);21,05
+MU;4125803;São Pedro do Ivaí (PR);31,51
+MU;4125902;São Pedro do Paraná (PR);9,94
+MU;4126009;São Sebastião da Amoreira (PR);37,84
+MU;4126108;São Tomé (PR);24,47
+MU;4126207;Sapopema (PR);9,94
+MU;4126256;Sarandi (PR);801,79
+MU;4126272;Saudade do Iguaçu (PR);33,06
+MU;4126306;Sengés (PR);12,81
+MU;4126355;Serranópolis do Iguaçu (PR);9,44
+MU;4126405;Sertaneja (PR);13,09
+MU;4126504;Sertanópolis (PR);30,93
+MU;4126603;Siqueira Campos (PR);66,37
+MU;4126652;Sulina (PR);19,88
+MU;4126678;Tamarana (PR);25,97
+MU;4126702;Tamboara (PR);24,12
+MU;4126801;Tapejara (PR);24,68
+MU;4126900;Tapira (PR);13,44
+MU;4127007;Teixeira Soares (PR);11,39
+MU;4127106;Telêmaco Borba (PR);50,53
+MU;4127205;Terra Boa (PR);49,17
+MU;4127304;Terra Rica (PR);21,73
+MU;4127403;Terra Roxa (PR);20,93
+MU;4127502;Tibagi (PR);6,55
+MU;4127601;Tijucas do Sul (PR);21,63
+MU;4127700;Toledo (PR);99,68
+MU;4127809;Tomazina (PR);14,86
+MU;4127858;Três Barras do Paraná (PR);23,45
+MU;4127882;Tunas do Paraná (PR);9,36
+MU;4127908;Tuneiras do Oeste (PR);12,44
+MU;4127957;Tupãssi (PR);25,72
+MU;4127965;Turvo (PR);15,07
+MU;4128005;Ubiratã (PR);33,03
+MU;4128104;Umuarama (PR);81,67
+MU;4128203;União da Vitória (PR);73,22
+MU;4128302;Uniflor (PR);26,01
+MU;4128401;Uraí (PR);48,24
+MU;4128500;Wenceslau Braz (PR);48,5
+MU;4128534;Ventania (PR);13,11
+MU;4128559;Vera Cruz do Oeste (PR);27,43
+MU;4128609;Verê (PR);25,27
+MU;4128625;Alto Paraíso (PR);3,31
+MU;4128633;Doutor Ulysses (PR);7,33
+MU;4128658;Virmond (PR);16,24
+MU;4128708;Vitorino (PR);21,13
+MU;4128807;Xambrê (PR);16,71
+MU;4200051;Abdon Batista (SC);11,26
+MU;4200101;Abelardo Luz (SC);17,9
+MU;4200200;Agrolândia (SC);45,01
+MU;4200309;Agronômica (SC);37,73
+MU;4200408;Água Doce (SC);5,3
+MU;4200507;Águas de Chapecó (SC);43,92
+MU;4200556;Águas Frias (SC);32,25
+MU;4200606;Águas Mornas (SC);16,99
+MU;4200705;Alfredo Wagner (SC);12,85
+MU;4200754;Alto Bela Vista (SC);19,35
+MU;4200804;Anchieta (SC);27,91
+MU;4200903;Angelina (SC);10,5
+MU;4201000;Anita Garibaldi (SC);14,65
+MU;4201109;Anitápolis (SC);5,93
+MU;4201208;Antônio Carlos (SC);32,55
+MU;4201257;Apiúna (SC);19,45
+MU;4201273;Arabutã (SC);31,71
+MU;4201307;Araquari (SC);64,25
+MU;4201406;Araranguá (SC);201,74
+MU;4201505;Armazém (SC);44,69
+MU;4201604;Arroio Trinta (SC);37,12
+MU;4201653;Arvoredo (SC);24,91
+MU;4201703;Ascurra (SC);66,37
+MU;4201802;Atalanta (SC);34,91
+MU;4201901;Aurora (SC);26,81
+MU;4201950;Balneário Arroio do Silva (SC);101,33
+MU;4202008;Balneário Camboriú (SC);2309,74
+MU;4202057;Balneário Barra do Sul (SC);76,28
+MU;4202073;Balneário Gaivota (SC);55,83
+MU;4202081;Bandeirante (SC);19,87
+MU;4202099;Barra Bonita (SC);20,09
+MU;4202107;Barra Velha (SC);159,7
+MU;4202131;Bela Vista do Toldo (SC);11,23
+MU;4202156;Belmonte (SC);28,15
+MU;4202206;Benedito Novo (SC);26,62
+MU;4202305;Biguaçu (SC);155,44
+MU;4202404;Blumenau (SC);594,44
+MU;4202438;Bocaina do Sul (SC);6,41
+MU;4202453;Bombinhas (SC);423,28
+MU;4202503;Bom Jardim da Serra (SC);4,7
+MU;4202537;Bom Jesus (SC);39,75
+MU;4202578;Bom Jesus do Oeste (SC);31,4
+MU;4202602;Bom Retiro (SC);8,47
+MU;4202701;Botuverá (SC);14,74
+MU;4202800;Braço do Norte (SC);137,12
+MU;4202859;Braço do Trombudo (SC);38,55
+MU;4202875;Brunópolis (SC);8,49
+MU;4202909;Brusque (SC);372,22
+MU;4203006;Caçador (SC);72,07
+MU;4203105;Caibi (SC);36,22
+MU;4203154;Calmon (SC);5,3
+MU;4203204;Camboriú (SC);290,73
+MU;4203253;Capão Alto (SC);2,06
+MU;4203303;Campo Alegre (SC);23,68
+MU;4203402;Campo Belo do Sul (SC);7,28
+MU;4203501;Campo Erê (SC);19,57
+MU;4203600;Campos Novos (SC);19,09
+MU;4203709;Canelinha (SC);70,03
+MU;4203808;Canoinhas (SC);46,09
+MU;4203907;Capinzal (SC);85,15
+MU;4203956;Capivari de Baixo (SC);407,68
+MU;4204004;Catanduvas (SC);48,25
+MU;4204103;Caxambu do Sul (SC);31,38
+MU;4204152;Celso Ramos (SC);13,36
+MU;4204178;Cerro Negro (SC);8,59
+MU;4204194;Chapadão do Lageado (SC);22,19
+MU;4204202;Chapecó (SC);293,98
+MU;4204251;Cocal do Sul (SC);212,88
+MU;4204301;Concórdia (SC);86,07
+MU;4204350;Cordilheira Alta (SC);44,97
+MU;4204400;Coronel Freitas (SC);43,62
+MU;4204459;Coronel Martins (SC);22,88
+MU;4204509;Corupá (SC);34,2
+MU;4204558;Correia Pinto (SC);22,69
+MU;4204608;Criciúma (SC);816,15
+MU;4204707;Cunha Porã (SC);48,18
+MU;4204756;Cunhataí (SC);34,53
+MU;4204806;Curitibanos (SC);39,64
+MU;4204905;Descanso (SC);30,23
+MU;4205001;Dionísio Cerqueira (SC);39,21
+MU;4205100;Dona Emma (SC);20,56
+MU;4205159;Doutor Pedrinho (SC);9,59
+MU;4205175;Entre Rios (SC);28,7
+MU;4205191;Ermo (SC);32,09
+MU;4205209;Erval Velho (SC);21
+MU;4205308;Faxinal dos Guedes (SC);31,39
+MU;4205357;Flor do Sertão (SC);27,05
+MU;4205407;Florianópolis (SC);627,24
+MU;4205431;Formosa do Sul (SC);26,12
+MU;4205456;Forquilhinha (SC);123,95
+MU;4205506;Fraiburgo (SC);63,25
+MU;4205555;Frei Rogério (SC);15,67
+MU;4205605;Galvão (SC);28,48
+MU;4205704;Garopaba (SC);156,96
+MU;4205803;Garuva (SC);29,44
+MU;4205902;Gaspar (SC);150,07
+MU;4206009;Governador Celso Ramos (SC);111,42
+MU;4206108;Grão-Pará (SC);18,51
+MU;4206207;Gravatal (SC);63,15
+MU;4206306;Guabiruba (SC);106,17
+MU;4206405;Guaraciaba (SC);31,75
+MU;4206504;Guaramirim (SC);131,18
+MU;4206603;Guarujá do Sul (SC);48,82
+MU;4206652;Guatambú (SC);22,85
+MU;4206702;Herval d'Oeste (SC);97,95
+MU;4206751;Ibiam (SC);13,2
+MU;4206801;Ibicaré (SC);21,61
+MU;4206900;Ibirama (SC);70,25
+MU;4207007;Içara (SC);200,02
+MU;4207106;Ilhota (SC);48,75
+MU;4207205;Imaruí (SC);21,53
+MU;4207304;Imbituba (SC);220,06
+MU;4207403;Imbuia (SC);46,82
+MU;4207502;Indaial (SC);127,41
+MU;4207577;Iomerê (SC);23,87
+MU;4207601;Ipira (SC);30,57
+MU;4207650;Iporã do Oeste (SC);41,55
+MU;4207684;Ipuaçu (SC);26,01
+MU;4207700;Ipumirim (SC);29,22
+MU;4207759;Iraceminha (SC);25,87
+MU;4207809;Irani (SC);29,14
+MU;4207858;Irati (SC);27,04
+MU;4207908;Irineópolis (SC);17,67
+MU;4208005;Itá (SC);38,84
+MU;4208104;Itaiópolis (SC);15,67
+MU;4208203;Itajaí (SC);633,75
+MU;4208302;Itapema (SC);771,5
+MU;4208401;Itapiranga (SC);55,01
+MU;4208450;Itapoá (SC);57,73
+MU;4208500;Ituporanga (SC);66,03
+MU;4208609;Jaborá (SC);21,14
+MU;4208708;Jacinto Machado (SC);24,74
+MU;4208807;Jaguaruna (SC);52,49
+MU;4208906;Jaraguá do Sul (SC);268,73
+MU;4208955;Jardinópolis (SC);25,93
+MU;4209003;Joaçaba (SC);116,29
+MU;4209102;Joinville (SC);449,3
+MU;4209151;José Boiteux (SC);11,64
+MU;4209177;Jupiá (SC);23,42
+MU;4209201;Lacerdópolis (SC);32,12
+MU;4209300;Lages (SC);59,6
+MU;4209409;Laguna (SC);117
+MU;4209458;Lajeado Grande (SC);22,6
+MU;4209508;Laurentino (SC);75,52
+MU;4209607;Lauro Müller (SC);53,11
+MU;4209706;Lebon Régis (SC);12,58
+MU;4209805;Leoberto Leal (SC);11,56
+MU;4209854;Lindóia do Sul (SC);24,49
+MU;4209904;Lontras (SC);51,63
+MU;4210001;Luiz Alves (SC);40,13
+MU;4210035;Luzerna (SC);47,93
+MU;4210050;Macieira (SC);7,02
+MU;4210100;Mafra (SC);37,68
+MU;4210209;Major Gercino (SC);11,48
+MU;4210308;Major Vieira (SC);14,22
+MU;4210407;Maracajá (SC);101,01
+MU;4210506;Maravilha (SC);130,43
+MU;4210555;Marema (SC);21,26
+MU;4210605;Massaranduba (SC);39,31
+MU;4210704;Matos Costa (SC);6,57
+MU;4210803;Meleiro (SC);37,51
+MU;4210852;Mirim Doce (SC);7,47
+MU;4210902;Modelo (SC);43,63
+MU;4211009;Mondaí (SC);50,91
+MU;4211058;Monte Carlo (SC);48,06
+MU;4211108;Monte Castelo (SC);14,86
+MU;4211207;Morro da Fumaça (SC);194,44
+MU;4211256;Morro Grande (SC);11,27
+MU;4211306;Navegantes (SC);543,29
+MU;4211405;Nova Erechim (SC);66,38
+MU;4211454;Nova Itaberaba (SC);31,01
+MU;4211504;Nova Trento (SC);30,31
+MU;4211603;Nova Veneza (SC);45,34
+MU;4211652;Novo Horizonte (SC);18,13
+MU;4211702;Orleans (SC);38,91
+MU;4211751;Otacílio Costa (SC);19,3
+MU;4211801;Ouro (SC);34,66
+MU;4211850;Ouro Verde (SC);12
+MU;4211876;Paial (SC);20,56
+MU;4211892;Painel (SC);3,18
+MU;4211900;Palhoça (SC);347,68
+MU;4212007;Palma Sola (SC);23,4
+MU;4212056;Palmeira (SC);8,12
+MU;4212106;Palmitos (SC);45,68
+MU;4212205;Papanduva (SC);23,59
+MU;4212239;Paraíso (SC);22,84
+MU;4212254;Passo de Torres (SC);69,61
+MU;4212270;Passos Maia (SC);7,2
+MU;4212304;Paulo Lopes (SC);14,86
+MU;4212403;Pedras Grandes (SC);23,9
+MU;4212502;Penha (SC);405,72
+MU;4212601;Peritiba (SC);31
+MU;4212700;Petrolândia (SC);20,03
+MU;4212809;Balneário Piçarras (SC);171,82
+MU;4212908;Pinhalzinho (SC);127,3
+MU;4213005;Pinheiro Preto (SC);47,9
+MU;4213104;Piratuba (SC);32,85
+MU;4213153;Planalto Alegre (SC);42,37
+MU;4213203;Pomerode (SC);128,57
+MU;4213302;Ponte Alta (SC);8,64
+MU;4213351;Ponte Alta do Norte (SC);8,24
+MU;4213401;Ponte Serrada (SC);19,56
+MU;4213500;Porto Belo (SC);167,82
+MU;4213609;Porto União (SC);39,35
+MU;4213708;Pouso Redondo (SC);41,19
+MU;4213807;Praia Grande (SC);26,09
+MU;4213906;Presidente Castello Branco (SC);26,39
+MU;4214003;Presidente Getúlio (SC);50,35
+MU;4214102;Presidente Nereu (SC);10,17
+MU;4214151;Princesa (SC);31,99
+MU;4214201;Quilombo (SC);36,69
+MU;4214300;Rancho Queimado (SC);9,59
+MU;4214409;Rio das Antas (SC);19,37
+MU;4214508;Rio do Campo (SC);12,23
+MU;4214607;Rio do Oeste (SC);28,86
+MU;4214706;Rio dos Cedros (SC);18,51
+MU;4214805;Rio do Sul (SC);236,83
+MU;4214904;Rio Fortuna (SC);14,73
+MU;4215000;Rio Negrinho (SC);43,86
+MU;4215059;Rio Rufino (SC);8,62
+MU;4215075;Riqueza (SC);25,43
+MU;4215109;Rodeio (SC);85,24
+MU;4215208;Romelândia (SC);24,81
+MU;4215307;Salete (SC);41,1
+MU;4215356;Saltinho (SC);25,3
+MU;4215406;Salto Veloso (SC);40,95
+MU;4215455;Sangão (SC);125,22
+MU;4215505;Santa Cecília (SC);13,76
+MU;4215554;Santa Helena (SC);29,41
+MU;4215604;Santa Rosa de Lima (SC);10,17
+MU;4215653;Santa Rosa do Sul (SC);53,18
+MU;4215679;Santa Terezinha (SC);12,24
+MU;4215687;Santa Terezinha do Progresso (SC);24,34
+MU;4215695;Santiago do Sul (SC);19,91
+MU;4215703;Santo Amaro da Imperatriz (SC);57,46
+MU;4215752;São Bernardino (SC);18,47
+MU;4215802;São Bento do Sul (SC);150,94
+MU;4215901;São Bonifácio (SC);6,52
+MU;4216008;São Carlos (SC);64,73
+MU;4216057;São Cristóvão do Sul (SC);14,36
+MU;4216107;São Domingos (SC);24,74
+MU;4216206;São Francisco do Sul (SC);86,25
+MU;4216255;São João do Oeste (SC);36,88
+MU;4216305;São João Batista (SC);118,97
+MU;4216354;São João do Itaperiú (SC);22,61
+MU;4216404;São João do Sul (SC);38,33
+MU;4216503;São Joaquim (SC);13,16
+MU;4216602;São José (SC);1388,17
+MU;4216701;São José do Cedro (SC);48,94
+MU;4216800;São José do Cerrito (SC);9,8
+MU;4216909;São Lourenço do Oeste (SC);60,24
+MU;4217006;São Ludgero (SC);102,19
+MU;4217105;São Martinho (SC);14,29
+MU;4217154;São Miguel da Boa Vista (SC);26,47
+MU;4217204;São Miguel do Oeste (SC);154,89
+MU;4217253;São Pedro de Alcântara (SC);33,69
+MU;4217303;Saudades (SC);43,86
+MU;4217402;Schroeder (SC);106,68
+MU;4217501;Seara (SC);54,19
+MU;4217550;Serra Alta (SC);36,32
+MU;4217600;Siderópolis (SC);49,48
+MU;4217709;Sombrio (SC);186,43
+MU;4217758;Sul Brasil (SC);24,54
+MU;4217808;Taió (SC);24,91
+MU;4217907;Tangará (SC);22,29
+MU;4217956;Tigrinhos (SC);30,59
+MU;4218004;Tijucas (SC);111,69
+MU;4218103;Timbé do Sul (SC);15,91
+MU;4218202;Timbó (SC);288,99
+MU;4218251;Timbó Grande (SC);12,01
+MU;4218301;Três Barras (SC);41,38
+MU;4218350;Treviso (SC);22,37
+MU;4218400;Treze de Maio (SC);42,69
+MU;4218509;Treze Tílias (SC);34,24
+MU;4218608;Trombudo Central (SC);60,27
+MU;4218707;Tubarão (SC);323,76
+MU;4218756;Tunápolis (SC);34,86
+MU;4218806;Turvo (SC);50,72
+MU;4218855;União do Oeste (SC);31,27
+MU;4218905;Urubici (SC);10,5
+MU;4218954;Urupema (SC);7,03
+MU;4219002;Urussanga (SC);84,1
+MU;4219101;Vargeão (SC);21,22
+MU;4219150;Vargem (SC);8,02
+MU;4219176;Vargem Bonita (SC);16,05
+MU;4219200;Vidal Ramos (SC);18,55
+MU;4219309;Videira (SC);124,88
+MU;4219358;Vitor Meireles (SC);14,01
+MU;4219408;Witmarsum (SC);23,87
+MU;4219507;Xanxerê (SC);116,88
+MU;4219606;Xavantina (SC);19,26
+MU;4219705;Xaxim (SC);87,25
+MU;4219853;Zortéa (SC);15,73
+MU;4300034;Aceguá (RS);2,84
+MU;4300059;Água Santa (RS);12,76
+MU;4300109;Agudo (RS);31,19
+MU;4300208;Ajuricaba (RS);22,44
+MU;4300307;Alecrim (RS);22,38
+MU;4300406;Alegrete (RS);9,95
+MU;4300455;Alegria (RS);24,91
+MU;4300471;Almirante Tamandaré do Sul (RS);7,79
+MU;4300505;Alpestre (RS);24,42
+MU;4300554;Alto Alegre (RS);16,15
+MU;4300570;Alto Feliz (RS);36,84
+MU;4300604;Alvorada (RS);2743,94
+MU;4300638;Amaral Ferrador (RS);12,54
+MU;4300646;Ametista do Sul (RS);78,33
+MU;4300661;André da Rocha (RS);3,75
+MU;4300703;Anta Gorda (RS);25
+MU;4300802;Antônio Prado (RS);36,92
+MU;4300851;Arambaré (RS);7,11
+MU;4300877;Araricá (RS);137,83
+MU;4300901;Aratiba (RS);19,23
+MU;4301008;Arroio do Meio (RS);118,91
+MU;4301057;Arroio do Sal (RS);64,01
+MU;4301073;Arroio do Padre (RS);21,96
+MU;4301107;Arroio dos Ratos (RS);31,94
+MU;4301206;Arroio do Tigre (RS);39,74
+MU;4301305;Arroio Grande (RS);7,35
+MU;4301404;Arvorezinha (RS);37,64
+MU;4301503;Augusto Pestana (RS);20,42
+MU;4301552;Áurea (RS);23,15
+MU;4301602;Bagé (RS);28,52
+MU;4301636;Balneário Pinhal (RS);104,63
+MU;4301651;Barão (RS);46,12
+MU;4301701;Barão de Cotegipe (RS);25,1
+MU;4301750;Barão do Triunfo (RS);16,08
+MU;4301800;Barracão (RS);10,38
+MU;4301859;Barra do Guarita (RS);47,82
+MU;4301875;Barra do Quaraí (RS);3,8
+MU;4301909;Barra do Ribeiro (RS);17,25
+MU;4301925;Barra do Rio Azul (RS);13,62
+MU;4301958;Barra Funda (RS);39,43
+MU;4302006;Barros Cassal (RS);17,16
+MU;4302055;Benjamin Constant do Sul (RS);17,42
+MU;4302105;Bento Gonçalves (RS);280,86
+MU;4302154;Boa Vista das Missões (RS);10,85
+MU;4302204;Boa Vista do Buricá (RS);60,46
+MU;4302220;Boa Vista do Cadeado (RS);3,48
+MU;4302238;Boa Vista do Incra (RS);4,82
+MU;4302253;Boa Vista do Sul (RS);29,42
+MU;4302303;Bom Jesus (RS);4,39
+MU;4302352;Bom Princípio (RS);133,2
+MU;4302378;Bom Progresso (RS);26,23
+MU;4302402;Bom Retiro do Sul (RS);112,11
+MU;4302451;Boqueirão do Leão (RS);28,91
+MU;4302501;Bossoroca (RS);4,27
+MU;4302584;Bozano (RS);10,94
+MU;4302600;Braga (RS);28,7
+MU;4302659;Brochier (RS);43,8
+MU;4302709;Butiá (RS);27,13
+MU;4302808;Caçapava do Sul (RS);11,06
+MU;4302907;Cacequi (RS);5,77
+MU;4303004;Cachoeira do Sul (RS);22,44
+MU;4303103;Cachoeirinha (RS);2687,04
+MU;4303202;Cacique Doble (RS);23,87
+MU;4303301;Caibaté (RS);19,08
+MU;4303400;Caiçara (RS);26,8
+MU;4303509;Camaquã (RS);37,37
+MU;4303558;Camargo (RS);18,77
+MU;4303608;Cambará do Sul (RS);5,4
+MU;4303673;Campestre da Serra (RS);6,04
+MU;4303707;Campina das Missões (RS);27,09
+MU;4303806;Campinas do Sul (RS);19,94
+MU;4303905;Campo Bom (RS);992,79
+MU;4304002;Campo Novo (RS);24,58
+MU;4304101;Campos Borges (RS);15,42
+MU;4304200;Candelária (RS);31,96
+MU;4304309;Cândido Godói (RS);26,54
+MU;4304358;Candiota (RS);9,39
+MU;4304408;Canela (RS);154,58
+MU;4304507;Canguçu (RS);15,11
+MU;4304606;Canoas (RS);2470,13
+MU;4304614;Canudos do Vale (RS);22,06
+MU;4304622;Capão Bonito do Sul (RS);3,33
+MU;4304630;Capão da Canoa (RS);432,96
+MU;4304655;Capão do Cipó (RS);3,08
+MU;4304663;Capão do Leão (RS);30,94
+MU;4304671;Capivari do Sul (RS);9,42
+MU;4304689;Capela de Santana (RS);63,19
+MU;4304697;Capitão (RS);35,64
+MU;4304705;Carazinho (RS);89,19
+MU;4304713;Caraá (RS);24,84
+MU;4304804;Carlos Barbosa (RS);110,17
+MU;4304853;Carlos Gomes (RS);19,33
+MU;4304903;Casca (RS);31,83
+MU;4304952;Caseiros (RS);12,76
+MU;4305009;Catuípe (RS);15,98
+MU;4305108;Caxias do Sul (RS);264,89
+MU;4305116;Centenário (RS);22,07
+MU;4305124;Cerrito (RS);14,17
+MU;4305132;Cerro Branco (RS);28,05
+MU;4305157;Cerro Grande (RS);32,91
+MU;4305173;Cerro Grande do Sul (RS);31,61
+MU;4305207;Cerro Largo (RS);74,79
+MU;4305306;Chapada (RS);13,71
+MU;4305355;Charqueadas (RS);163,13
+MU;4305371;Charrua (RS);17,52
+MU;4305405;Chiapetta (RS);10,2
+MU;4305439;Chuí (RS);29,21
+MU;4305447;Chuvisca (RS);22,42
+MU;4305454;Cidreira (RS);51,52
+MU;4305504;Ciríaco (RS);17,97
+MU;4305587;Colinas (RS);41,46
+MU;4305603;Colorado (RS);12,44
+MU;4305702;Condor (RS);14,08
+MU;4305801;Constantina (RS);48,04
+MU;4305835;Coqueiro Baixo (RS);13,61
+MU;4305850;Coqueiros do Sul (RS);8,92
+MU;4305871;Coronel Barros (RS);15,09
+MU;4305900;Coronel Bicaco (RS);15,74
+MU;4305934;Coronel Pilar (RS);16,36
+MU;4305959;Cotiporã (RS);22,72
+MU;4305975;Coxilha (RS);6,68
+MU;4306007;Crissiumal (RS);38,89
+MU;4306056;Cristal (RS);10,68
+MU;4306072;Cristal do Sul (RS);28,92
+MU;4306106;Cruz Alta (RS);46,18
+MU;4306130;Cruzaltense (RS);12,83
+MU;4306205;Cruzeiro do Sul (RS);79,2
+MU;4306304;David Canabarro (RS);26,77
+MU;4306320;Derrubadas (RS);8,83
+MU;4306353;Dezesseis de Novembro (RS);13,22
+MU;4306379;Dilermando de Aguiar (RS);5,1
+MU;4306403;Dois Irmãos (RS);423,17
+MU;4306429;Dois Irmãos das Missões (RS);9,56
+MU;4306452;Dois Lajeados (RS);24,58
+MU;4306502;Dom Feliciano (RS);10,6
+MU;4306551;Dom Pedro de Alcântara (RS);32,63
+MU;4306601;Dom Pedrito (RS);7,49
+MU;4306700;Dona Francisca (RS);29,74
+MU;4306734;Doutor Maurício Cardoso (RS);21,03
+MU;4306759;Doutor Ricardo (RS);18,72
+MU;4306767;Eldorado do Sul (RS);67,38
+MU;4306809;Encantado (RS);147,38
+MU;4306908;Encruzilhada do Sul (RS);7,33
+MU;4306924;Engenho Velho (RS);21,45
+MU;4306932;Entre-Ijuís (RS);16,17
+MU;4306957;Entre Rios do Sul (RS);25,65
+MU;4306973;Erebango (RS);19,4
+MU;4307005;Erechim (RS);223,11
+MU;4307054;Ernestina (RS);12,91
+MU;4307104;Herval (RS);3,84
+MU;4307203;Erval Grande (RS);18,06
+MU;4307302;Erval Seco (RS);21,65
+MU;4307401;Esmeralda (RS);3,82
+MU;4307450;Esperança do Sul (RS);22,05
+MU;4307500;Espumoso (RS);19,46
+MU;4307559;Estação (RS);59,95
+MU;4307609;Estância Velha (RS);816,42
+MU;4307708;Esteio (RS);2917,87
+MU;4307807;Estrela (RS);166,25
+MU;4307815;Estrela Velha (RS);12,88
+MU;4307831;Eugênio de Castro (RS);6,67
+MU;4307864;Fagundes Varela (RS);19,2
+MU;4307906;Farroupilha (RS);176,57
+MU;4308003;Faxinal do Soturno (RS);39,27
+MU;4308052;Faxinalzinho (RS);17,9
+MU;4308078;Fazenda Vilanova (RS);43,6
+MU;4308102;Feliz (RS);129,59
+MU;4308201;Flores da Cunha (RS);99,2
+MU;4308250;Floriano Peixoto (RS);11,98
+MU;4308300;Fontoura Xavier (RS);18,37
+MU;4308409;Formigueiro (RS);12,05
+MU;4308433;Forquetinha (RS);26,49
+MU;4308458;Fortaleza dos Valos (RS);7,03
+MU;4308508;Frederico Westphalen (RS);108,85
+MU;4308607;Garibaldi (RS);181,34
+MU;4308656;Garruchos (RS);4,04
+MU;4308706;Gaurama (RS);28,7
+MU;4308805;General Câmara (RS);16,56
+MU;4308854;Gentil (RS);9,11
+MU;4308904;Getúlio Vargas (RS);56,37
+MU;4309001;Giruá (RS);19,95
+MU;4309050;Glorinha (RS);21,29
+MU;4309100;Gramado (RS);135,7
+MU;4309126;Gramado dos Loureiros (RS);17,27
+MU;4309159;Gramado Xavier (RS);18,25
+MU;4309209;Gravataí (RS);551,58
+MU;4309258;Guabiju (RS);10,77
+MU;4309308;Guaíba (RS);252,57
+MU;4309407;Guaporé (RS);76,64
+MU;4309506;Guarani das Missões (RS);27,93
+MU;4309555;Harmonia (RS);95,04
+MU;4309571;Herveiras (RS);24,97
+MU;4309605;Horizontina (RS);78,92
+MU;4309654;Hulha Negra (RS);7,34
+MU;4309704;Humaitá (RS);36,57
+MU;4309753;Ibarama (RS);22,63
+MU;4309803;Ibiaçá (RS);13,5
+MU;4309902;Ibiraiaras (RS);23,85
+MU;4309951;Ibirapuitã (RS);13,23
+MU;4310009;Ibirubá (RS);31,79
+MU;4310108;Igrejinha (RS);233,03
+MU;4310207;Ijuí (RS);114,51
+MU;4310306;Ilópolis (RS);35,22
+MU;4310330;Imbé (RS);448,53
+MU;4310363;Imigrante (RS);41,21
+MU;4310405;Independência (RS);18,51
+MU;4310413;Inhacorá (RS);19,87
+MU;4310439;Ipê (RS);10,04
+MU;4310462;Ipiranga do Sul (RS);12,31
+MU;4310504;Iraí (RS);44,34
+MU;4310538;Itaara (RS);28,96
+MU;4310553;Itacurubi (RS);3,07
+MU;4310579;Itapuca (RS);12,72
+MU;4310603;Itaqui (RS);11,21
+MU;4310652;Itati (RS);12,49
+MU;4310702;Itatiba do Sul (RS);19,66
+MU;4310751;Ivorá (RS);17,54
+MU;4310801;Ivoti (RS);314,71
+MU;4310850;Jaboticaba (RS);32
+MU;4310876;Jacuizinho (RS);7,41
+MU;4310900;Jacutinga (RS);20,26
+MU;4311007;Jaguarão (RS);13,6
+MU;4311106;Jaguari (RS);17,04
+MU;4311122;Jaquirana (RS);4,6
+MU;4311130;Jari (RS);4,17
+MU;4311155;Jóia (RS);6,74
+MU;4311205;Júlio de Castilhos (RS);10,15
+MU;4311239;Lagoa Bonita do Sul (RS);24,53
+MU;4311254;Lagoão (RS);16,12
+MU;4311270;Lagoa dos Três Cantos (RS);11,53
+MU;4311304;Lagoa Vermelha (RS);21,78
+MU;4311403;Lajeado (RS);793,06
+MU;4311429;Lajeado do Bugre (RS);36,61
+MU;4311502;Lavras do Sul (RS);2,95
+MU;4311601;Liberato Salzano (RS);23,53
+MU;4311627;Lindolfo Collor (RS);158,44
+MU;4311643;Linha Nova (RS);25,48
+MU;4311700;Machadinho (RS);16,48
+MU;4311718;Maçambará (RS);2,82
+MU;4311734;Mampituba (RS);19
+MU;4311759;Manoel Viana (RS);5,09
+MU;4311775;Maquiné (RS);11,11
+MU;4311791;Maratá (RS);31,13
+MU;4311809;Marau (RS);56
+MU;4311908;Marcelino Ramos (RS);22,36
+MU;4311981;Mariana Pimentel (RS);11,15
+MU;4312005;Mariano Moro (RS);22,3
+MU;4312054;Marques de Souza (RS);32,5
+MU;4312104;Mata (RS);16,39
+MU;4312138;Mato Castelhano (RS);10,36
+MU;4312153;Mato Leitão (RS);84,2
+MU;4312179;Mato Queimado (RS);15,69
+MU;4312203;Maximiliano de Almeida (RS);23,55
+MU;4312252;Minas do Leão (RS);17,98
+MU;4312302;Miraguaí (RS);37,24
+MU;4312351;Montauri (RS);18,79
+MU;4312377;Monte Alegre dos Campos (RS);5,64
+MU;4312385;Monte Belo do Sul (RS);39,05
+MU;4312401;Montenegro (RS);140,13
+MU;4312427;Mormaço (RS);18,81
+MU;4312443;Morrinhos do Sul (RS);19,23
+MU;4312450;Morro Redondo (RS);25,45
+MU;4312476;Morro Reuter (RS);64,76
+MU;4312500;Mostardas (RS);6,11
+MU;4312609;Muçum (RS);43,2
+MU;4312617;Muitos Capões (RS);2,49
+MU;4312625;Muliterno (RS);16,31
+MU;4312658;Não-Me-Toque (RS);44,06
+MU;4312674;Nicolau Vergueiro (RS);11,04
+MU;4312708;Nonoai (RS);25,73
+MU;4312757;Nova Alvorada (RS);21,3
+MU;4312807;Nova Araçá (RS);53,81
+MU;4312906;Nova Bassano (RS);41,77
+MU;4312955;Nova Boa Vista (RS);20,8
+MU;4313003;Nova Bréscia (RS);30,97
+MU;4313011;Nova Candelária (RS);28,12
+MU;4313037;Nova Esperança do Sul (RS);24,46
+MU;4313060;Nova Hartz (RS);293,26
+MU;4313086;Nova Pádua (RS);23,73
+MU;4313102;Nova Palma (RS);20,23
+MU;4313201;Nova Petrópolis (RS);65,38
+MU;4313300;Nova Prata (RS);88,23
+MU;4313334;Nova Ramada (RS);9,57
+MU;4313359;Nova Roma do Sul (RS);22,43
+MU;4313375;Nova Santa Rita (RS);104,26
+MU;4313391;Novo Cabrais (RS);20,05
+MU;4313409;Novo Hamburgo (RS);1067,54
+MU;4313425;Novo Machado (RS);17,95
+MU;4313441;Novo Tiradentes (RS);30,2
+MU;4313466;Novo Xingu (RS);21,8
+MU;4313490;Novo Barreiro (RS);32,19
+MU;4313508;Osório (RS);61,65
+MU;4313607;Paim Filho (RS);23,29
+MU;4313656;Palmares do Sul (RS);11,56
+MU;4313706;Palmeira das Missões (RS);24,18
+MU;4313805;Palmitinho (RS);48,04
+MU;4313904;Panambi (RS);77,53
+MU;4313953;Pantano Grande (RS);11,76
+MU;4314001;Paraí (RS);56,57
+MU;4314027;Paraíso do Sul (RS);21,71
+MU;4314035;Pareci Novo (RS);61,16
+MU;4314050;Parobé (RS);474,03
+MU;4314068;Passa Sete (RS);16,92
+MU;4314076;Passo do Sobrado (RS);22,67
+MU;4314100;Passo Fundo (RS);235,92
+MU;4314134;Paulo Bento (RS);14,8
+MU;4314159;Paverama (RS);46,8
+MU;4314175;Pedras Altas (RS);1,61
+MU;4314209;Pedro Osório (RS);12,83
+MU;4314308;Pejuçara (RS);9,59
+MU;4314407;Pelotas (RS);203,89
+MU;4314423;Picada Café (RS);60,86
+MU;4314456;Pinhal (RS);36,84
+MU;4314464;Pinhal da Serra (RS);4,87
+MU;4314472;Pinhal Grande (RS);9,37
+MU;4314498;Pinheirinho do Vale (RS);42,69
+MU;4314506;Pinheiro Machado (RS);5,68
+MU;4314555;Pirapó (RS);9,45
+MU;4314605;Piratini (RS);5,61
+MU;4314704;Planalto (RS);45,67
+MU;4314753;Poço das Antas (RS);31
+MU;4314779;Pontão (RS);7,63
+MU;4314787;Ponte Preta (RS);17,52
+MU;4314803;Portão (RS);193,38
+MU;4314902;Porto Alegre (RS);2837,52
+MU;4315008;Porto Lucena (RS);21,65
+MU;4315057;Porto Mauá (RS);24,08
+MU;4315073;Porto Vera Cruz (RS);16,3
+MU;4315107;Porto Xavier (RS);37,64
+MU;4315131;Pouso Novo (RS);17,6
+MU;4315149;Presidente Lucena (RS);50,26
+MU;4315156;Progresso (RS);24,09
+MU;4315172;Protásio Alves (RS);11,57
+MU;4315206;Putinga (RS);20,19
+MU;4315305;Quaraí (RS);7,31
+MU;4315313;Quatro Irmãos (RS);6,62
+MU;4315321;Quevedos (RS);4,99
+MU;4315354;Quinze de Novembro (RS);16,33
+MU;4315404;Redentora (RS);33,77
+MU;4315453;Relvado (RS);17,46
+MU;4315503;Restinga Sêca (RS);16,58
+MU;4315552;Rio dos Índios (RS);15,26
+MU;4315602;Rio Grande (RS);72,79
+MU;4315701;Rio Pardo (RS);18,33
+MU;4315750;Riozinho (RS);18,07
+MU;4315800;Roca Sales (RS);49,29
+MU;4315909;Rodeio Bonito (RS);69,03
+MU;4315958;Rolador (RS);8,63
+MU;4316006;Rolante (RS);65,91
+MU;4316105;Ronda Alta (RS);24,37
+MU;4316204;Rondinha (RS);21,88
+MU;4316303;Roque Gonzales (RS);20,78
+MU;4316402;Rosário do Sul (RS);9,09
+MU;4316428;Sagrada Família (RS);33,16
+MU;4316436;Saldanha Marinho (RS);12,95
+MU;4316451;Salto do Jacuí (RS);23,41
+MU;4316477;Salvador das Missões (RS);28,38
+MU;4316501;Salvador do Sul (RS);67,59
+MU;4316600;Sananduva (RS);30,47
+MU;4316709;Santa Bárbara do Sul (RS);9,05
+MU;4316733;Santa Cecília do Sul (RS);8,3
+MU;4316758;Santa Clara do Sul (RS);65,75
+MU;4316808;Santa Cruz do Sul (RS);161,4
+MU;4316907;Santa Maria (RS);145,98
+MU;4316956;Santa Maria do Herval (RS);43,36
+MU;4316972;Santa Margarida do Sul (RS);2,46
+MU;4317004;Santana da Boa Vista (RS);5,8
+MU;4317103;Sant'Ana do Livramento (RS);11,86
+MU;4317202;Santa Rosa (RS);140,03
+MU;4317251;Santa Tereza (RS);23,76
+MU;4317301;Santa Vitória do Palmar (RS);5,91
+MU;4317400;Santiago (RS);20,33
+MU;4317509;Santo Ângelo (RS);112,09
+MU;4317558;Santo Antônio do Palma (RS);16,96
+MU;4317608;Santo Antônio da Patrulha (RS);37,8
+MU;4317707;Santo Antônio das Missões (RS);6,55
+MU;4317756;Santo Antônio do Planalto (RS);9,77
+MU;4317806;Santo Augusto (RS);29,84
+MU;4317905;Santo Cristo (RS);39,19
+MU;4317954;Santo Expedito do Sul (RS);19,57
+MU;4318002;São Borja (RS);17,05
+MU;4318051;São Domingos do Sul (RS);37,06
+MU;4318101;São Francisco de Assis (RS);7,68
+MU;4318200;São Francisco de Paula (RS);6,27
+MU;4318309;São Gabriel (RS);12,03
+MU;4318408;São Jerônimo (RS);23,64
+MU;4318424;São João da Urtiga (RS);27,61
+MU;4318432;São João do Polêsine (RS);30,94
+MU;4318440;São Jorge (RS);23,5
+MU;4318457;São José das Missões (RS);27,74
+MU;4318465;São José do Herval (RS);21,38
+MU;4318481;São José do Hortêncio (RS);63,86
+MU;4318499;São José do Inhacorá (RS);28,28
+MU;4318507;São José do Norte (RS);22,81
+MU;4318606;São José do Ouro (RS);20,62
+MU;4318614;São José do Sul (RS);35,27
+MU;4318622;São José dos Ausentes (RS);2,8
+MU;4318705;São Leopoldo (RS);2083,79
+MU;4318804;São Lourenço do Sul (RS);21,17
+MU;4318903;São Luiz Gonzaga (RS);26,67
+MU;4319000;São Marcos (RS);78,45
+MU;4319109;São Martinho (RS);33,63
+MU;4319125;São Martinho da Serra (RS);4,78
+MU;4319158;São Miguel das Missões (RS);6,03
+MU;4319208;São Nicolau (RS);11,8
+MU;4319307;São Paulo das Missões (RS);28,43
+MU;4319356;São Pedro da Serra (RS);93,68
+MU;4319364;São Pedro das Missões (RS);23,59
+MU;4319372;São Pedro do Butiá (RS);26,69
+MU;4319406;São Pedro do Sul (RS);18,74
+MU;4319505;São Sebastião do Caí (RS);196,81
+MU;4319604;São Sepé (RS);10,81
+MU;4319703;São Valentim (RS);23,56
+MU;4319711;São Valentim do Sul (RS);23,5
+MU;4319737;São Valério do Sul (RS);24,52
+MU;4319752;São Vendelino (RS);60,59
+MU;4319802;São Vicente do Sul (RS);7,18
+MU;4319901;Sapiranga (RS);542,13
+MU;4320008;Sapucaia do Sul (RS);2245,91
+MU;4320107;Sarandi (RS);60,23
+MU;4320206;Seberi (RS);36,15
+MU;4320230;Sede Nova (RS);25,24
+MU;4320263;Segredo (RS);28,93
+MU;4320305;Selbach (RS);27,75
+MU;4320321;Senador Salgado Filho (RS);19,12
+MU;4320354;Sentinela do Sul (RS);18,43
+MU;4320404;Serafina Corrêa (RS);87,29
+MU;4320453;Sério (RS);22,9
+MU;4320503;Sertão (RS);14,32
+MU;4320552;Sertão Santana (RS);23,23
+MU;4320578;Sete de Setembro (RS);16,34
+MU;4320602;Severiano de Almeida (RS);22,92
+MU;4320651;Silveira Martins (RS);20,68
+MU;4320677;Sinimbu (RS);19,74
+MU;4320701;Sobradinho (RS);109,54
+MU;4320800;Soledade (RS);24,76
+MU;4320859;Tabaí (RS);43,6
+MU;4320909;Tapejara (RS);80,61
+MU;4321006;Tapera (RS);58,15
+MU;4321105;Tapes (RS);20,62
+MU;4321204;Taquara (RS);119,35
+MU;4321303;Taquari (RS);74,56
+MU;4321329;Taquaruçu do Sul (RS);38,6
+MU;4321352;Tavares (RS);8,86
+MU;4321402;Tenente Portela (RS);40,58
+MU;4321436;Terra de Areia (RS);69,67
+MU;4321451;Teutônia (RS);152,68
+MU;4321469;Tio Hugo (RS);23,85
+MU;4321477;Tiradentes do Sul (RS);27,55
+MU;4321493;Toropi (RS);14,54
+MU;4321501;Torres (RS);216,34
+MU;4321600;Tramandaí (RS);287,97
+MU;4321626;Travesseiro (RS);28,52
+MU;4321634;Três Arroios (RS);19,21
+MU;4321667;Três Cachoeiras (RS);40,7
+MU;4321709;Três Coroas (RS);128,53
+MU;4321808;Três de Maio (RS);56,2
+MU;4321832;Três Forquilhas (RS);13,4
+MU;4321857;Três Palmeiras (RS);24,26
+MU;4321907;Três Passos (RS);89,29
+MU;4321956;Trindade do Sul (RS);21,56
+MU;4322004;Triunfo (RS);31,5
+MU;4322103;Tucunduva (RS);32,62
+MU;4322152;Tunas (RS);20,15
+MU;4322186;Tupanci do Sul (RS);11,64
+MU;4322202;Tupanciretã (RS);9,89
+MU;4322251;Tupandi (RS);65,9
+MU;4322301;Tuparendi (RS);27,81
+MU;4322327;Turuçu (RS);13,89
+MU;4322343;Ubiretama (RS);18,12
+MU;4322350;União da Serra (RS);11,35
+MU;4322376;Unistalda (RS);4,07
+MU;4322400;Uruguaiana (RS);21,95
+MU;4322509;Vacaria (RS);28,88
+MU;4322525;Vale Verde (RS);9,87
+MU;4322533;Vale do Sol (RS);33,75
+MU;4322541;Vale Real (RS);113,52
+MU;4322558;Vanini (RS);30,58
+MU;4322608;Venâncio Aires (RS);85,28
+MU;4322707;Vera Cruz (RS);77,46
+MU;4322806;Veranópolis (RS);78,83
+MU;4322855;Vespasiano Corrêa (RS);17,33
+MU;4322905;Viadutos (RS);19,79
+MU;4323002;Viamão (RS);159,91
+MU;4323101;Vicente Dutra (RS);27,1
+MU;4323200;Victor Graeff (RS);12,74
+MU;4323309;Vila Flores (RS);29,72
+MU;4323358;Vila Lângaro (RS);14,14
+MU;4323408;Vila Maria (RS);23,26
+MU;4323457;Vila Nova do Sul (RS);8,31
+MU;4323507;Vista Alegre (RS);36,56
+MU;4323606;Vista Alegre do Prata (RS);13,15
+MU;4323705;Vista Gaúcha (RS);31,1
+MU;4323754;Vitória das Missões (RS);13,42
+MU;4323770;Westfália (RS);43,64
+MU;4323804;Xangri-lá (RS);204,88
+MU;5000203;Água Clara (MS);1,31
+MU;5000252;Alcinópolis (MS);1,04
+MU;5000609;Amambai (MS);8,26
+MU;5000708;Anastácio (MS);8,08
+MU;5000807;Anaurilândia (MS);2,5
+MU;5000856;Angélica (MS);7,21
+MU;5000906;Antônio João (MS);7,17
+MU;5001003;Aparecida do Taboado (MS);8,12
+MU;5001102;Aquidauana (MS);2,69
+MU;5001243;Aral Moreira (MS);6,19
+MU;5001508;Bandeirantes (MS);2,12
+MU;5001904;Bataguassu (MS);8,21
+MU;5002001;Batayporã (MS);5,98
+MU;5002100;Bela Vista (MS);4,74
+MU;5002159;Bodoquena (MS);3,18
+MU;5002209;Bonito (MS);3,97
+MU;5002308;Brasilândia (MS);2,04
+MU;5002407;Caarapó (MS);12,33
+MU;5002605;Camapuã (MS);2,19
+MU;5002704;Campo Grande (MS);97,22
+MU;5002803;Caracol (MS);1,84
+MU;5002902;Cassilândia (MS);5,74
+MU;5002951;Chapadão do Sul (MS);5,1
+MU;5003108;Corguinho (MS);1,84
+MU;5003157;Coronel Sapucaia (MS);13,72
+MU;5003207;Corumbá (MS);1,6
+MU;5003256;Costa Rica (MS);3,67
+MU;5003306;Coxim (MS);5,02
+MU;5003454;Deodápolis (MS);14,6
+MU;5003488;Dois Irmãos do Buriti (MS);4,42
+MU;5003504;Douradina (MS);19,1
+MU;5003702;Dourados (MS);47,97
+MU;5003751;Eldorado (MS);11,49
+MU;5003801;Fátima do Sul (MS);60,4
+MU;5003900;Figueirão (MS);0,6
+MU;5004007;Glória de Dourados (MS);20,19
+MU;5004106;Guia Lopes da Laguna (MS);8,56
+MU;5004304;Iguatemi (MS);5,05
+MU;5004403;Inocência (MS);1,33
+MU;5004502;Itaporã (MS);15,79
+MU;5004601;Itaquiraí (MS);9,02
+MU;5004700;Ivinhema (MS);11,11
+MU;5004809;Japorã (MS);18,43
+MU;5004908;Jaraguari (MS);2,18
+MU;5005004;Jardim (MS);11,06
+MU;5005103;Jateí (MS);2,08
+MU;5005152;Juti (MS);3,72
+MU;5005202;Ladário (MS);57,57
+MU;5005251;Laguna Carapã (MS);3,74
+MU;5005400;Maracaju (MS);7,06
+MU;5005608;Miranda (MS);4,67
+MU;5005681;Mundo Novo (MS);35,67
+MU;5005707;Naviraí (MS);14,54
+MU;5005806;Nioaque (MS);3,67
+MU;5006002;Nova Alvorada do Sul (MS);4,09
+MU;5006200;Nova Andradina (MS);9,54
+MU;5006259;Novo Horizonte do Sul (MS);5,82
+MU;5006309;Paranaíba (MS);7,44
+MU;5006358;Paranhos (MS);9,43
+MU;5006408;Pedro Gomes (MS);2,18
+MU;5006606;Ponta Porã (MS);14,61
+MU;5006903;Porto Murtinho (MS);0,87
+MU;5007109;Ribas do Rio Pardo (MS);1,21
+MU;5007208;Rio Brilhante (MS);7,69
+MU;5007307;Rio Negro (MS);2,79
+MU;5007406;Rio Verde de Mato Grosso (MS);2,32
+MU;5007505;Rochedo (MS);3,16
+MU;5007554;Santa Rita do Pardo (MS);1,18
+MU;5007695;São Gabriel do Oeste (MS);5,75
+MU;5007703;Sete Quedas (MS);12,93
+MU;5007802;Selvíria (MS);1,93
+MU;5007901;Sidrolândia (MS);7,97
+MU;5007935;Sonora (MS);3,64
+MU;5007950;Tacuru (MS);5,72
+MU;5007976;Taquarussu (MS);3,38
+MU;5008008;Terenos (MS);6,03
+MU;5008305;Três Lagoas (MS);9,97
+MU;5008404;Vicentina (MS);19,03
+MU;5100102;Acorizal (MT);6,56
+MU;5100201;Água Boa (MT);2,77
+MU;5100250;Alta Floresta (MT);5,34
+MU;5100300;Alto Araguaia (MT);2,84
+MU;5100359;Alto Boa Vista (MT);2,34
+MU;5100409;Alto Garças (MT);2,76
+MU;5100508;Alto Paraguai (MT);5,45
+MU;5100607;Alto Taquari (MT);5,7
+MU;5100805;Apiacás (MT);0,42
+MU;5101001;Araguaiana (MT);0,5
+MU;5101209;Araguainha (MT);1,59
+MU;5101258;Araputanga (MT);9,59
+MU;5101308;Arenápolis (MT);24,77
+MU;5101407;Aripuanã (MT);0,76
+MU;5101605;Barão de Melgaço (MT);0,67
+MU;5101704;Barra do Bugres (MT);5,31
+MU;5101803;Barra do Garças (MT);6,23
+MU;5101852;Bom Jesus do Araguaia (MT);1,24
+MU;5101902;Brasnorte (MT);0,96
+MU;5102504;Cáceres (MT);3,61
+MU;5102603;Campinápolis (MT);2,45
+MU;5102637;Campo Novo do Parecis (MT);2,92
+MU;5102678;Campo Verde (MT);6,61
+MU;5102686;Campos de Júlio (MT);0,76
+MU;5102694;Canabrava do Norte (MT);1,39
+MU;5102702;Canarana (MT);1,73
+MU;5102793;Carlinda (MT);5,1
+MU;5102850;Castanheira (MT);2,22
+MU;5103007;Chapada dos Guimarães (MT);2,98
+MU;5103056;Cláudia (MT);2,86
+MU;5103106;Cocalinho (MT);0,33
+MU;5103205;Colíder (MT);9,94
+MU;5103254;Colniza (MT);0,94
+MU;5103304;Comodoro (MT);0,83
+MU;5103353;Confresa (MT);4,33
+MU;5103361;Conquista D'Oeste (MT);1,27
+MU;5103379;Cotriguaçu (MT);1,58
+MU;5103403;Cuiabá (MT);163,88
+MU;5103437;Curvelândia (MT);13,53
+MU;5103452;Denise (MT);6,52
+MU;5103502;Diamantino (MT);2,47
+MU;5103601;Dom Aquino (MT);3,71
+MU;5103700;Feliz Natal (MT);0,95
+MU;5103809;Figueirópolis D'Oeste (MT);4,22
+MU;5103858;Gaúcha do Norte (MT);0,37
+MU;5103908;General Carneiro (MT);1,32
+MU;5103957;Glória D'Oeste (MT);3,67
+MU;5104104;Guarantã do Norte (MT);6,8
+MU;5104203;Guiratinga (MT);2,75
+MU;5104500;Indiavaí (MT);3,97
+MU;5104526;Ipiranga do Norte (MT);1,48
+MU;5104542;Itanhangá (MT);1,82
+MU;5104559;Itaúba (MT);1,01
+MU;5104609;Itiquira (MT);1,32
+MU;5104807;Jaciara (MT);15,51
+MU;5104906;Jangada (MT);6,14
+MU;5105002;Jauru (MT);8,03
+MU;5105101;Juara (MT);1,45
+MU;5105150;Juína (MT);1,49
+MU;5105176;Juruena (MT);3,48
+MU;5105200;Juscimeira (MT);5,18
+MU;5105234;Lambari D'Oeste (MT);3,08
+MU;5105259;Lucas do Rio Verde (MT);12,43
+MU;5105309;Luciara (MT);0,52
+MU;5105507;Vila Bela da Santíssima Trindade (MT);1,08
+MU;5105580;Marcelândia (MT);0,98
+MU;5105606;Matupá (MT);2,71
+MU;5105622;Mirassol d'Oeste (MT);23,5
+MU;5105903;Nobres (MT);3,85
+MU;5106000;Nortelândia (MT);4,77
+MU;5106109;Nossa Senhora do Livramento (MT);2,1
+MU;5106158;Nova Bandeirantes (MT);1,21
+MU;5106174;Nova Nazaré (MT);0,75
+MU;5106182;Nova Lacerda (MT);1,15
+MU;5106190;Nova Santa Helena (MT);1,57
+MU;5106208;Nova Brasilândia (MT);1,4
+MU;5106216;Nova Canaã do Norte (MT);2,03
+MU;5106224;Nova Mutum (MT);3,31
+MU;5106232;Nova Olímpia (MT);11,3
+MU;5106240;Nova Ubiratã (MT);0,73
+MU;5106257;Nova Xavantina (MT);3,47
+MU;5106265;Novo Mundo (MT);1,27
+MU;5106273;Novo Horizonte do Norte (MT);4,26
+MU;5106281;Novo São Joaquim (MT);1,2
+MU;5106299;Paranaíta (MT);2,23
+MU;5106307;Paranatinga (MT);0,8
+MU;5106315;Novo Santo Antônio (MT);0,46
+MU;5106372;Pedra Preta (MT);3,83
+MU;5106422;Peixoto de Azevedo (MT);2,16
+MU;5106455;Planalto da Serra (MT);1,11
+MU;5106505;Poconé (MT);1,84
+MU;5106653;Pontal do Araguaia (MT);1,97
+MU;5106703;Ponte Branca (MT);2,58
+MU;5106752;Pontes e Lacerda (MT);4,84
+MU;5106778;Porto Alegre do Norte (MT);2,71
+MU;5106802;Porto dos Gaúchos (MT);0,78
+MU;5106828;Porto Esperidião (MT);1,9
+MU;5106851;Porto Estrela (MT);1,77
+MU;5107008;Poxoréu (MT);2,55
+MU;5107040;Primavera do Leste (MT);9,52
+MU;5107065;Querência (MT);0,73
+MU;5107107;São José dos Quatro Marcos (MT);14,74
+MU;5107156;Reserva do Cabaçal (MT);1,92
+MU;5107180;Ribeirão Cascalheira (MT);0,78
+MU;5107198;Ribeirãozinho (MT);3,52
+MU;5107206;Rio Branco (MT);9,01
+MU;5107248;Santa Carmem (MT);1,06
+MU;5107263;Santo Afonso (MT);2,55
+MU;5107297;São José do Povo (MT);8,09
+MU;5107305;São José do Rio Claro (MT);3,77
+MU;5107354;São José do Xingu (MT);0,7
+MU;5107404;São Pedro da Cipa (MT);12,12
+MU;5107578;Rondolândia (MT);0,28
+MU;5107602;Rondonópolis (MT);47
+MU;5107701;Rosário Oeste (MT);2,31
+MU;5107743;Santa Cruz do Xingu (MT);0,34
+MU;5107750;Salto do Céu (MT);2,23
+MU;5107768;Santa Rita do Trivelato (MT);0,53
+MU;5107776;Santa Terezinha (MT);1,14
+MU;5107792;Santo Antônio do Leste (MT);1,04
+MU;5107800;Santo Antônio do Leverger (MT);1,57
+MU;5107859;São Félix do Araguaia (MT);0,64
+MU;5107875;Sapezal (MT);1,33
+MU;5107883;Serra Nova Dourada (MT);0,91
+MU;5107909;Sinop (MT);28,69
+MU;5107925;Sorriso (MT);7,13
+MU;5107941;Tabaporã (MT);1,19
+MU;5107958;Tangará da Serra (MT);7,32
+MU;5108006;Tapurah (MT);2,3
+MU;5108055;Terra Nova do Norte (MT);4,16
+MU;5108105;Tesouro (MT);0,82
+MU;5108204;Torixoréu (MT);1,7
+MU;5108303;União do Sul (MT);0,82
+MU;5108352;Vale de São Domingos (MT);1,58
+MU;5108402;Várzea Grande (MT);284,45
+MU;5108501;Vera (MT);3,45
+MU;5108600;Vila Rica (MT);2,88
+MU;5108808;Nova Guarita (MT);4,43
+MU;5108857;Nova Marilândia (MT);1,52
+MU;5108907;Nova Maringá (MT);0,57
+MU;5108956;Nova Monte Verde (MT);1,54
+MU;5200050;Abadia de Goiás (GO);46,85
+MU;5200100;Abadiânia (GO);15,08
+MU;5200134;Acreúna (GO);12,95
+MU;5200159;Adelândia (GO);21,47
+MU;5200175;Água Fria de Goiás (GO);2,51
+MU;5200209;Água Limpa (GO);4,45
+MU;5200258;Águas Lindas de Goiás (GO);846,03
+MU;5200308;Alexânia (GO);28,09
+MU;5200506;Aloândia (GO);20,08
+MU;5200555;Alto Horizonte (GO);8,94
+MU;5200605;Alto Paraíso de Goiás (GO);2,65
+MU;5200803;Alvorada do Norte (GO);6,42
+MU;5200829;Amaralina (GO);2,56
+MU;5200852;Americano do Brasil (GO);41,24
+MU;5200902;Amorinópolis (GO);8,83
+MU;5201108;Anápolis (GO);358,58
+MU;5201207;Anhanguera (GO);17,91
+MU;5201306;Anicuns (GO);20,67
+MU;5201405;Aparecida de Goiânia (GO);1580,27
+MU;5201454;Aparecida do Rio Doce (GO);4,03
+MU;5201504;Aporé (GO);1,31
+MU;5201603;Araçu (GO);25,53
+MU;5201702;Aragarças (GO);27,61
+MU;5201801;Aragoiânia (GO);38,1
+MU;5202155;Araguapaz (GO);3,42
+MU;5202353;Arenópolis (GO);3,05
+MU;5202502;Aruanã (GO);2,46
+MU;5202601;Aurilândia (GO);6,46
+MU;5202809;Avelinópolis (GO);14,11
+MU;5203104;Baliza (GO);2,08
+MU;5203203;Barro Alto (GO);7,97
+MU;5203302;Bela Vista de Goiás (GO);19,56
+MU;5203401;Bom Jardim de Goiás (GO);4,43
+MU;5203500;Bom Jesus de Goiás (GO);14,75
+MU;5203559;Bonfinópolis (GO);61,62
+MU;5203575;Bonópolis (GO);2,15
+MU;5203609;Brazabrantes (GO);26,26
+MU;5203807;Britânia (GO);3,77
+MU;5203906;Buriti Alegre (GO);10,11
+MU;5203939;Buriti de Goiás (GO);12,85
+MU;5203962;Buritinópolis (GO);13,44
+MU;5204003;Cabeceiras (GO);6,52
+MU;5204102;Cachoeira Alta (GO);6,38
+MU;5204201;Cachoeira de Goiás (GO);3,35
+MU;5204250;Cachoeira Dourada (GO);15,84
+MU;5204300;Caçu (GO);5,9
+MU;5204409;Caiapônia (GO);1,94
+MU;5204508;Caldas Novas (GO);44,16
+MU;5204557;Caldazinha (GO);13,25
+MU;5204607;Campestre de Goiás (GO);12,37
+MU;5204656;Campinaçu (GO);1,85
+MU;5204706;Campinorte (GO);10,41
+MU;5204805;Campo Alegre de Goiás (GO);2,46
+MU;5204854;Campo Limpo de Goiás (GO);39,11
+MU;5204904;Campos Belos (GO);25,43
+MU;5204953;Campos Verdes (GO);11,37
+MU;5205000;Carmo do Rio Verde (GO);21,33
+MU;5205059;Castelândia (GO);12,23
+MU;5205109;Catalão (GO);22,67
+MU;5205208;Caturaí (GO);22,61
+MU;5205307;Cavalcante (GO);1,35
+MU;5205406;Ceres (GO);96,69
+MU;5205455;Cezarina (GO);18,15
+MU;5205471;Chapadão do Céu (GO);3,2
+MU;5205497;Cidade Ocidental (GO);143,4
+MU;5205513;Cocalzinho de Goiás (GO);9,73
+MU;5205521;Colinas do Sul (GO);2,06
+MU;5205703;Córrego do Ouro (GO);5,69
+MU;5205802;Corumbá de Goiás (GO);9,76
+MU;5205901;Corumbaíba (GO);4,34
+MU;5206206;Cristalina (GO);7,56
+MU;5206305;Cristianópolis (GO);13,01
+MU;5206404;Crixás (GO);3,38
+MU;5206503;Cromínia (GO);9,76
+MU;5206602;Cumari (GO);5,2
+MU;5206701;Damianópolis (GO);7,93
+MU;5206800;Damolândia (GO);32,51
+MU;5206909;Davinópolis (GO);4,27
+MU;5207105;Diorama (GO);3,61
+MU;5207253;Doverlândia (GO);2,45
+MU;5207352;Edealina (GO);6,18
+MU;5207402;Edéia (GO);7,71
+MU;5207501;Estrela do Norte (GO);11,01
+MU;5207535;Faina (GO);3,59
+MU;5207600;Fazenda Nova (GO);4,93
+MU;5207808;Firminópolis (GO);27,33
+MU;5207907;Flores de Goiás (GO);3,25
+MU;5208004;Formosa (GO);17,22
+MU;5208103;Formoso (GO);5,78
+MU;5208152;Gameleira de Goiás (GO);5,53
+MU;5208301;Divinópolis de Goiás (GO);5,97
+MU;5208400;Goianápolis (GO);65,84
+MU;5208509;Goiandira (GO);9,32
+MU;5208608;Goianésia (GO);38,49
+MU;5208707;Goiânia (GO);1776,75
+MU;5208806;Goianira (GO);162,94
+MU;5208905;Goiás (GO);7,96
+MU;5209101;Goiatuba (GO);13,13
+MU;5209150;Gouvelândia (GO);6
+MU;5209200;Guapó (GO);27,04
+MU;5209291;Guaraíta (GO);11,57
+MU;5209408;Guarani de Goiás (GO);3,46
+MU;5209457;Guarinos (GO);3,86
+MU;5209606;Heitoraí (GO);15,55
+MU;5209705;Hidrolândia (GO);18,43
+MU;5209804;Hidrolina (GO);6,94
+MU;5209903;Iaciara (GO);8,02
+MU;5209937;Inaciolândia (GO);8,28
+MU;5209952;Indiara (GO);14,31
+MU;5210000;Inhumas (GO);78,68
+MU;5210109;Ipameri (GO);5,66
+MU;5210158;Ipiranga de Goiás (GO);11,79
+MU;5210208;Iporá (GO);30,47
+MU;5210307;Israelândia (GO);5
+MU;5210406;Itaberaí (GO);24,27
+MU;5210562;Itaguari (GO);30,78
+MU;5210604;Itaguaru (GO);22,68
+MU;5210802;Itajá (GO);2,42
+MU;5210901;Itapaci (GO);19,31
+MU;5211008;Itapirapuã (GO);3,83
+MU;5211206;Itapuranga (GO);20,47
+MU;5211305;Itarumã (GO);1,83
+MU;5211404;Itauçu (GO);22,34
+MU;5211503;Itumbiara (GO);37,71
+MU;5211602;Ivolândia (GO);2,12
+MU;5211701;Jandaia (GO);7,13
+MU;5211800;Jaraguá (GO);22,64
+MU;5211909;Jataí (GO);12,27
+MU;5212006;Jaupaci (GO);5,69
+MU;5212055;Jesúpolis (GO);18,78
+MU;5212105;Joviânia (GO);15,98
+MU;5212204;Jussara (GO);4,69
+MU;5212253;Lagoa Santa (GO);2,73
+MU;5212303;Leopoldo de Bulhões (GO);16,39
+MU;5212501;Luziânia (GO);44,06
+MU;5212600;Mairipotaba (GO);5,08
+MU;5212709;Mambaí (GO);7,8
+MU;5212808;Mara Rosa (GO);6,31
+MU;5212907;Marzagão (GO);9,32
+MU;5212956;Matrinchã (GO);3,84
+MU;5213004;Maurilândia (GO);29,56
+MU;5213053;Mimoso de Goiás (GO);1,94
+MU;5213087;Minaçu (GO);10,89
+MU;5213103;Mineiros (GO);5,84
+MU;5213400;Moiporá (GO);3,83
+MU;5213509;Monte Alegre de Goiás (GO);2,48
+MU;5213707;Montes Claros de Goiás (GO);2,75
+MU;5213756;Montividiu (GO);5,64
+MU;5213772;Montividiu do Norte (GO);3,09
+MU;5213806;Morrinhos (GO);14,57
+MU;5213855;Morro Agudo de Goiás (GO);8,34
+MU;5213905;Mossâmedes (GO);7,32
+MU;5214002;Mozarlândia (GO);7,73
+MU;5214051;Mundo Novo (GO);3
+MU;5214101;Mutunópolis (GO);4,03
+MU;5214408;Nazário (GO);29,26
+MU;5214507;Nerópolis (GO);118,55
+MU;5214606;Niquelândia (GO);4,3
+MU;5214705;Nova América (GO);10,65
+MU;5214804;Nova Aurora (GO);6,81
+MU;5214838;Nova Crixás (GO);1,63
+MU;5214861;Nova Glória (GO);20,6
+MU;5214879;Nova Iguaçu de Goiás (GO);4,5
+MU;5214903;Nova Roma (GO);1,63
+MU;5215009;Nova Veneza (GO);65,89
+MU;5215207;Novo Brasil (GO);5,41
+MU;5215231;Novo Gama (GO);489,41
+MU;5215256;Novo Planalto (GO);3,18
+MU;5215306;Orizona (GO);7,25
+MU;5215405;Ouro Verde de Goiás (GO);19,32
+MU;5215504;Ouvidor (GO);13,21
+MU;5215603;Padre Bernardo (GO);8,82
+MU;5215652;Palestina de Goiás (GO);2,55
+MU;5215702;Palmeiras de Goiás (GO);15,16
+MU;5215801;Palmelo (GO);39,6
+MU;5215900;Palminópolis (GO);9,17
+MU;5216007;Panamá (GO);6,18
+MU;5216304;Paranaiguara (GO);7,89
+MU;5216403;Paraúna (GO);2,87
+MU;5216452;Perolândia (GO);2,87
+MU;5216809;Petrolina de Goiás (GO);19,35
+MU;5216908;Pilar de Goiás (GO);3,06
+MU;5217104;Piracanjuba (GO);9,99
+MU;5217203;Piranhas (GO);5,5
+MU;5217302;Pirenópolis (GO);10,43
+MU;5217401;Pires do Rio (GO);26,8
+MU;5217609;Planaltina (GO);32,17
+MU;5217708;Pontalina (GO);11,91
+MU;5218003;Porangatu (GO);8,79
+MU;5218052;Porteirão (GO);5,54
+MU;5218102;Portelândia (GO);6,9
+MU;5218300;Posse (GO);15,52
+MU;5218391;Professor Jamil (GO);9,32
+MU;5218508;Quirinópolis (GO);11,41
+MU;5218607;Rialma (GO);39,2
+MU;5218706;Rianápolis (GO);28,67
+MU;5218789;Rio Quente (GO);12,94
+MU;5218805;Rio Verde (GO);21,05
+MU;5218904;Rubiataba (GO);25,28
+MU;5219001;Sanclerlândia (GO);15,2
+MU;5219100;Santa Bárbara de Goiás (GO);41,2
+MU;5219209;Santa Cruz de Goiás (GO);2,83
+MU;5219258;Santa Fé de Goiás (GO);4,07
+MU;5219308;Santa Helena de Goiás (GO);31,95
+MU;5219357;Santa Isabel (GO);4,57
+MU;5219407;Santa Rita do Araguaia (GO);5,08
+MU;5219456;Santa Rita do Novo Destino (GO);3,32
+MU;5219506;Santa Rosa de Goiás (GO);17,73
+MU;5219605;Santa Tereza de Goiás (GO);5,03
+MU;5219704;Santa Terezinha de Goiás (GO);8,57
+MU;5219712;Santo Antônio da Barra (GO);9,79
+MU;5219738;Santo Antônio de Goiás (GO);35,41
+MU;5219753;Santo Antônio do Descoberto (GO);67
+MU;5219803;São Domingos (GO);3,42
+MU;5219902;São Francisco de Goiás (GO);14,72
+MU;5220009;São João d'Aliança (GO);3,08
+MU;5220058;São João da Paraúna (GO);5,87
+MU;5220108;São Luís de Montes Belos (GO);36,36
+MU;5220157;São Luiz do Norte (GO);7,88
+MU;5220207;São Miguel do Araguaia (GO);3,63
+MU;5220264;São Miguel do Passa Quatro (GO);6,99
+MU;5220280;São Patrício (GO);11,58
+MU;5220405;São Simão (GO);41,27
+MU;5220454;Senador Canedo (GO);344,27
+MU;5220504;Serranópolis (GO);1,35
+MU;5220603;Silvânia (GO);8,14
+MU;5220686;Simolândia (GO);18,72
+MU;5220702;Sítio d'Abadia (GO);1,77
+MU;5221007;Taquaral de Goiás (GO);17,34
+MU;5221080;Teresina de Goiás (GO);3,89
+MU;5221197;Terezópolis de Goiás (GO);61,37
+MU;5221304;Três Ranchos (GO);9,99
+MU;5221403;Trindade (GO);147,02
+MU;5221452;Trombas (GO);4,32
+MU;5221502;Turvânia (GO);10,06
+MU;5221551;Turvelândia (GO);4,71
+MU;5221577;Uirapuru (GO);2,54
+MU;5221601;Uruaçu (GO);17,24
+MU;5221700;Uruana (GO);26,46
+MU;5221809;Urutaí (GO);4,9
+MU;5221858;Valparaíso de Goiás (GO);2197,14
+MU;5221908;Varjão (GO);7,05
+MU;5222005;Vianópolis (GO);13,15
+MU;5222054;Vicentinópolis (GO);10
+MU;5222203;Vila Boa (GO);4,47
+MU;5222302;Vila Propício (GO);2,36
+MU;5300108;Brasília (DF);444,07
+Fonte: IBGE - Censo Demográfico;;;
+;;;
+Notas;;;
+1 - A categoria Urbana na sede municipal exclui a população residente nas áres urbanas isoladas.;;;
+2 - Inclusive as águas interiores.;;;
+3 - Valores sujeitos a alteração em face de atualizações de natureza cartográfica ou político-administrativa.;;;
+4 - Inclusive as áres das ilhas de Trindade e Martin Vaz.;;;
+5 - Para a região Nordeste: Inclusive 2.977,4 Km² referente à área a ser demarcada, em litígio, entre as unidades da federação Piauí e Ceará.;;;
+6 - Para a unidade da federação Rio Grande do Sul: Inclusive 10.091,4 Km² e 2.806,1 Km² referentes às Lagoas do Patos e Mirim, incorporadas à area da unidade da federação, segundo a constituição de 1988, não constituindo área municipal. ;;;
+7- A RIDE Petrolina/Juazeiro (Região Integrada de Desenvolvimento do Polo Petrolina/PE e Juazeiro/BA) é composta por municípios das unidades da federação Pernambuco e Bahia.;;;
+8- A RIDE Grande Teresina (Região Integrada de Desenvolvimento da Grande Teresina) é composta por municípios das unidades da federação Maranhão e Piauí.;;;
+9- A RIDE Distrito Federal e Entorno (Região Integrada de Desenvolvimento do Distrito Federal e Entorno) é composta por municípios das unidades da federação Minas Gerais, Goiás e Distrito Federal.;;;
+10 - Os dados são da Sinopse.;;;
+11 - Para obter dados atualizados sobre a área territorial oficial consulte a página http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm?c=5;;;
+;;;
+Legenda;;;
+Símbolo;Significado;;
+-;"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução.";;
+0;"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas.";;
+X;"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido.";;
+..;"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas.";;
+...;"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa.";;
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)";;
