@@ -1,0 +1,14 @@
+Gini index of household incomes per capita by municipality [1991-2010]
+
+*Source: Brazilian Institute of Geography and Statistics (IBGE), processing by Tabnet Datasus
+
+Request:
+http://tabnet.datasus.gov.br/cgi/ibge/censo/bases/ginibr.csv
+
+Manual download link:
+http://tabnet.datasus.gov.br/cgi/ibge/censo/cnv/ginibr.def
+
+Notes and sources:
+http://tabnet.datasus.gov.br/cgi/ibge/censo/Indice_Gini_Renda_Domiciliar.pdf
+
+http://fichas.ripsa.org.br/2011/b-9/?l=pt_BR
