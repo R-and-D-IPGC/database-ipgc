@@ -1,0 +1,10 @@
+Source: Brazilian Institute of Geography and Statistics (IBGE) 
+
+About: https://www.ibge.gov.br/en/statistics/economic/national-accounts/19567-gross-domestic-product-of-municipalities.html?=&t=sobre
+
+
+2002-2009:
+https://ftp.ibge.gov.br/Pib_Municipios/2018/base/base_de_dados_2002_2009_xls.zip
+
+2010-2018:
+https://ftp.ibge.gov.br/Pib_Municipios/2018/base/base_de_dados_2010_2018_xls.zip
